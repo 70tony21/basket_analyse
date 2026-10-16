@@ -1,0 +1,267 @@
+saison,round,date,equipe_domicile,equipe_exterieur,score_domicile,score_exterieur,q1_domicile,q1_exterieur,q2_domicile,q2_exterieur,q3_domicile,q3_exterieur,q4_domicile,q4_exterieur,prolongation_domicile,prolongation_exterieur
+2024-2025,Round 1,2024-09-20 18:00:00,Saint-Quentin Basket-Ball,AS Monaco Basket,68,66,17,14,21,15,20,15,10,22,0,0
+2024-2025,Round 1,2024-09-21 16:00:00,ESSM Le Portel,Bourg-en-Bresse,65,94,15,27,19,21,10,26,21,20,0,0
+2024-2025,Round 1,2024-09-21 18:30:00,SLUC Nancy Basket,Stade Rochelais Basket,64,56,16,18,17,10,14,18,17,10,0,0
+2024-2025,Round 1,2024-09-21 18:30:00,Strasbourg,Élan Chalon,83,80,21,17,21,23,26,18,15,22,0,0
+2024-2025,Round 1,2024-09-22 14:30:00,Lyon-Villeurbanne,Le Mans Sarthe Basket,85,71,18,23,25,14,25,19,17,15,0,0
+2024-2025,Round 1,2024-09-22 14:30:00,Gravelines-Dunkerque,Paris Basketball,89,85,24,22,20,24,25,23,20,16,0,0
+2024-2025,Round 1,2024-09-22 17:00:00,Limoges,Nanterre,90,87,18,26,21,19,22,18,29,24,0,0
+2024-2025,Round 2,2024-09-27 18:00:00,Stade Rochelais Basket,Cholet,64,78,9,17,18,20,20,24,17,17,0,0
+2024-2025,Round 2,2024-09-28 16:00:00,Nanterre,ESSM Le Portel,74,65,19,19,24,21,16,12,15,13,0,0
+2024-2025,Round 2,2024-09-28 16:00:00,Le Mans Sarthe Basket,Saint-Quentin Basket-Ball,69,83,18,24,17,25,21,16,13,18,0,0
+2024-2025,Round 2,2024-09-28 18:30:00,Élan Chalon,Paris Basketball,87,102,23,27,17,26,27,27,20,22,0,0
+2024-2025,Round 2,2024-09-29 14:30:00,AS Monaco Basket,Strasbourg,77,65,19,24,16,16,20,12,22,13,0,0
+2024-2025,Round 2,2024-09-29 14:30:00,Gravelines-Dunkerque,Limoges,70,56,23,9,14,13,22,9,11,25,0,0
+2024-2025,Round 2,2024-09-29 17:00:00,Bourg-en-Bresse,Lyon-Villeurbanne,85,94,21,32,24,17,19,23,21,22,0,0
+2024-2025,Round 2,2024-10-01 18:00:00,Dijon,SLUC Nancy Basket,93,84,23,21,27,16,21,25,22,22,0,0
+2024-2025,Round 3,2024-10-04 18:00:00,Strasbourg,Le Mans Sarthe Basket,88,95,12,23,20,20,24,20,32,32,0,0
+2024-2025,Round 3,2024-10-05 16:00:00,Limoges,Dijon,87,73,15,22,20,13,25,19,27,19,0,0
+2024-2025,Round 3,2024-10-05 16:00:00,Nanterre,Bourg-en-Bresse,61,86,16,23,19,23,18,17,8,23,0,0
+2024-2025,Round 3,2024-10-05 18:30:00,Cholet,Gravelines-Dunkerque,106,74,26,21,25,15,31,17,24,21,0,0
+2024-2025,Round 3,2024-10-05 18:30:00,ESSM Le Portel,Élan Chalon,87,81,26,23,20,21,19,20,22,17,0,0
+2024-2025,Round 3,2024-10-06 14:30:00,Paris Basketball,Stade Rochelais Basket,84,75,23,21,23,20,17,14,21,20,0,0
+2024-2025,Round 3,2024-10-06 14:30:00,Saint-Quentin Basket-Ball,SLUC Nancy Basket,104,96,24,25,22,18,29,32,29,21,0,0
+2024-2025,Round 3,2024-10-06 17:00:00,Lyon-Villeurbanne,AS Monaco Basket,88,71,21,16,25,20,20,17,22,18,0,0
+2024-2025,Round 4,2024-10-11 18:00:00,Cholet,Saint-Quentin Basket-Ball,82,59,16,15,28,17,25,20,13,7,0,0
+2024-2025,Round 4,2024-10-12 16:00:00,SLUC Nancy Basket,Élan Chalon,96,84,29,14,19,25,30,21,18,24,0,0
+2024-2025,Round 4,2024-10-12 16:00:00,AS Monaco Basket,Stade Rochelais Basket,82,62,20,11,22,14,15,23,25,14,0,0
+2024-2025,Round 4,2024-10-12 18:30:00,Le Mans Sarthe Basket,Nanterre,94,87,18,28,21,9,28,18,27,32,0,0
+2024-2025,Round 4,2024-10-12 18:30:00,Bourg-en-Bresse,Limoges,74,70,10,23,26,16,19,16,19,15,0,0
+2024-2025,Round 4,2024-10-13 14:30:00,Lyon-Villeurbanne,ESSM Le Portel,88,67,24,18,22,22,29,12,13,15,0,0
+2024-2025,Round 4,2024-10-13 14:30:00,Gravelines-Dunkerque,Strasbourg,78,72,23,21,15,15,19,22,21,14,0,0
+2024-2025,Round 4,2024-10-13 17:00:00,Dijon,Paris Basketball,83,97,23,22,21,25,17,27,22,23,0,0
+2024-2025,Round 5,2024-10-18 18:00:00,ESSM Le Portel,Gravelines-Dunkerque,69,82,16,22,23,26,16,12,14,22,0,0
+2024-2025,Round 5,2024-10-19 16:00:00,Bourg-en-Bresse,Dijon,88,91,16,20,23,21,25,12,16,27,8,11
+2024-2025,Round 5,2024-10-19 16:00:00,Stade Rochelais Basket,Saint-Quentin Basket-Ball,57,94,10,28,15,23,16,16,16,27,0,0
+2024-2025,Round 5,2024-10-19 18:30:00,Limoges,Le Mans Sarthe Basket,92,90,19,20,14,19,22,17,20,19,17,15
+2024-2025,Round 5,2024-10-19 18:30:00,Strasbourg,SLUC Nancy Basket,96,76,26,19,23,15,23,17,24,25,0,0
+2024-2025,Round 5,2024-10-20 14:30:00,Élan Chalon,Lyon-Villeurbanne,109,107,22,25,21,21,18,18,19,16,29,27
+2024-2025,Round 5,2024-10-20 14:30:00,AS Monaco Basket,Cholet,89,72,20,20,17,25,22,19,30,8,0,0
+2024-2025,Round 5,2024-10-20 17:00:00,Paris Basketball,Nanterre,102,86,30,19,22,15,27,21,23,31,0,0
+2024-2025,Round 6,2024-10-25 18:00:00,Strasbourg,Limoges,110,90,26,19,25,17,22,22,37,32,0,0
+2024-2025,Round 6,2024-10-26 16:00:00,Le Mans Sarthe Basket,ESSM Le Portel,77,74,22,20,18,16,18,10,19,28,0,0
+2024-2025,Round 6,2024-10-26 16:00:00,Dijon,Stade Rochelais Basket,88,95,26,32,19,19,25,21,18,23,0,0
+2024-2025,Round 6,2024-10-26 18:30:00,SLUC Nancy Basket,AS Monaco Basket,77,98,21,17,13,30,21,31,22,20,0,0
+2024-2025,Round 6,2024-10-26 18:30:00,Cholet,Paris Basketball,90,80,25,27,18,14,22,19,25,20,0,0
+2024-2025,Round 6,2024-10-27 15:30:00,Nanterre,Élan Chalon,91,70,20,24,21,17,30,16,20,13,0,0
+2024-2025,Round 6,2024-10-27 15:30:00,Gravelines-Dunkerque,Bourg-en-Bresse,75,83,19,17,16,28,20,15,20,23,0,0
+2024-2025,Round 6,2024-10-27 18:00:00,Saint-Quentin Basket-Ball,Lyon-Villeurbanne,63,77,11,22,10,17,21,24,21,14,0,0
+2024-2025,Round 7,2024-11-01 19:00:00,ESSM Le Portel,Stade Rochelais Basket,83,62,23,16,21,17,17,16,22,13,0,0
+2024-2025,Round 7,2024-11-01 19:00:00,Limoges,Élan Chalon,74,68,19,17,16,14,20,20,19,17,0,0
+2024-2025,Round 7,2024-11-02 17:00:00,Bourg-en-Bresse,Strasbourg,89,96,16,17,29,27,20,24,24,28,0,0
+2024-2025,Round 7,2024-11-02 19:30:00,Le Mans Sarthe Basket,Dijon,98,71,22,17,29,16,27,19,20,19,0,0
+2024-2025,Round 7,2024-11-02 19:30:00,Nanterre,Saint-Quentin Basket-Ball,95,102,24,15,25,25,21,20,16,26,9,16
+2024-2025,Round 7,2024-11-03 15:30:00,Gravelines-Dunkerque,AS Monaco Basket,74,83,21,23,28,24,8,15,17,21,0,0
+2024-2025,Round 7,2024-11-03 15:30:00,Lyon-Villeurbanne,Cholet,87,101,19,21,22,29,23,28,23,23,0,0
+2024-2025,Round 7,2024-11-03 18:00:00,Paris Basketball,SLUC Nancy Basket,115,97,30,22,34,25,25,19,26,31,0,0
+2024-2025,Round 8,2024-11-08 19:00:00,Strasbourg,ESSM Le Portel,75,76,13,15,26,18,15,18,18,21,3,4
+2024-2025,Round 8,2024-11-09 17:00:00,Limoges,Cholet,69,75,18,20,16,16,12,26,23,13,0,0
+2024-2025,Round 8,2024-11-09 17:00:00,Élan Chalon,Le Mans Sarthe Basket,88,84,24,19,20,20,23,31,21,14,0,0
+2024-2025,Round 8,2024-11-09 19:30:00,SLUC Nancy Basket,Gravelines-Dunkerque,80,63,18,14,22,18,27,16,13,15,0,0
+2024-2025,Round 8,2024-11-09 19:30:00,Stade Rochelais Basket,Bourg-en-Bresse,78,86,20,22,20,30,17,19,21,15,0,0
+2024-2025,Round 8,2024-11-10 15:30:00,AS Monaco Basket,Dijon,76,74,13,13,23,19,21,24,19,18,0,0
+2024-2025,Round 8,2024-11-10 15:30:00,Saint-Quentin Basket-Ball,Paris Basketball,65,97,22,25,14,20,16,32,13,20,0,0
+2024-2025,Round 8,2024-11-10 18:00:00,Lyon-Villeurbanne,Nanterre,109,103,37,13,15,22,24,35,33,33,0,0
+2024-2025,Round 9,2024-11-15 19:00:00,Stade Rochelais Basket,Nanterre,77,98,17,22,25,19,20,29,15,28,0,0
+2024-2025,Round 9,2024-11-16 17:00:00,Élan Chalon,Bourg-en-Bresse,86,93,22,23,21,20,17,31,26,19,0,0
+2024-2025,Round 9,2024-11-16 17:00:00,SLUC Nancy Basket,Limoges,90,86,21,14,18,19,17,18,19,24,15,11
+2024-2025,Round 9,2024-11-16 19:30:00,Cholet,ESSM Le Portel,80,65,30,20,18,14,15,18,17,13,0,0
+2024-2025,Round 9,2024-11-16 19:30:00,Dijon,Saint-Quentin Basket-Ball,85,91,12,26,31,26,20,20,22,19,0,0
+2024-2025,Round 9,2024-11-17 15:30:00,Gravelines-Dunkerque,Lyon-Villeurbanne,60,81,15,26,12,16,14,19,19,20,0,0
+2024-2025,Round 9,2024-11-17 15:30:00,AS Monaco Basket,Le Mans Sarthe Basket,74,86,17,24,18,21,18,15,21,26,0,0
+2024-2025,Round 9,2024-11-17 18:00:00,Paris Basketball,Strasbourg,106,74,22,16,31,16,24,21,29,21,0,0
+2024-2025,Round 10,2024-11-29 19:00:00,Saint-Quentin Basket-Ball,Gravelines-Dunkerque,83,86,17,15,28,31,17,18,21,22,0,0
+2024-2025,Round 10,2024-11-30 17:00:00,Limoges,Stade Rochelais Basket,83,62,25,16,19,19,18,18,21,9,0,0
+2024-2025,Round 10,2024-11-30 17:00:00,Cholet,Élan Chalon,88,74,20,21,23,16,23,25,22,12,0,0
+2024-2025,Round 10,2024-11-30 19:30:00,Nanterre,Dijon,72,77,16,16,16,18,19,25,21,18,0,0
+2024-2025,Round 10,2024-11-30 19:30:00,ESSM Le Portel,Paris Basketball,78,87,33,24,12,15,16,30,17,18,0,0
+2024-2025,Round 10,2024-12-01 15:30:00,Strasbourg,Lyon-Villeurbanne,77,75,24,19,22,13,16,19,15,24,0,0
+2024-2025,Round 10,2024-12-01 15:30:00,Le Mans Sarthe Basket,SLUC Nancy Basket,85,96,24,19,15,21,19,26,27,30,0,0
+2024-2025,Round 10,2024-12-01 18:00:00,Bourg-en-Bresse,AS Monaco Basket,94,109,30,22,27,32,22,27,15,28,0,0
+2024-2025,Round 11,2024-12-07 17:00:00,Élan Chalon,Saint-Quentin Basket-Ball,91,63,18,9,25,21,23,15,25,18,0,0
+2024-2025,Round 11,2024-12-07 17:00:00,Nanterre,SLUC Nancy Basket,97,75,28,18,25,24,20,18,24,15,0,0
+2024-2025,Round 11,2024-12-07 19:30:00,ESSM Le Portel,Dijon,74,86,13,29,19,18,18,19,24,20,0,0
+2024-2025,Round 11,2024-12-07 19:30:00,Bourg-en-Bresse,Le Mans Sarthe Basket,94,87,28,17,24,22,18,29,24,19,0,0
+2024-2025,Round 11,2024-12-07 19:30:00,Strasbourg,Cholet,83,94,17,13,21,28,20,30,25,23,0,0
+2024-2025,Round 11,2024-12-08 15:30:00,Stade Rochelais Basket,Gravelines-Dunkerque,76,88,16,31,24,19,13,18,23,20,0,0
+2024-2025,Round 11,2024-12-08 15:30:00,Lyon-Villeurbanne,Limoges,84,69,21,13,24,20,21,15,18,21,0,0
+2024-2025,Round 11,2024-12-08 18:00:00,Paris Basketball,AS Monaco Basket,111,104,16,21,22,28,23,24,31,19,19,12
+2024-2025,Round 12,2024-12-13 19:00:00,Stade Rochelais Basket,Strasbourg,71,78,20,17,16,26,17,11,18,24,0,0
+2024-2025,Round 12,2024-12-14 17:00:00,Saint-Quentin Basket-Ball,Limoges,72,67,20,15,16,26,15,9,21,17,0,0
+2024-2025,Round 12,2024-12-14 17:00:00,Dijon,Élan Chalon,87,94,19,15,23,21,15,22,21,20,9,16
+2024-2025,Round 12,2024-12-14 19:30:00,AS Monaco Basket,ESSM Le Portel,78,56,24,15,19,12,14,21,21,8,0,0
+2024-2025,Round 12,2024-12-14 19:30:00,Cholet,Bourg-en-Bresse,67,102,21,24,15,30,19,32,12,16,0,0
+2024-2025,Round 12,2024-12-15 15:30:00,Le Mans Sarthe Basket,Paris Basketball,84,76,16,18,26,18,17,21,25,19,0,0
+2024-2025,Round 12,2024-12-15 15:30:00,Gravelines-Dunkerque,Nanterre,83,89,15,18,23,18,16,22,19,15,10,16
+2024-2025,Round 12,2024-12-15 18:00:00,SLUC Nancy Basket,Lyon-Villeurbanne,85,91,26,19,16,25,24,25,19,22,0,0
+2024-2025,Round 1,2024-12-17 19:00:00,Cholet,Dijon,95,89,25,19,20,28,26,23,24,19,0,0
+2024-2025,Round 13,2024-12-20 19:00:00,Dijon,Strasbourg,91,94,16,25,22,17,24,24,29,28,0,0
+2024-2025,Round 13,2024-12-21 17:00:00,Nanterre,Cholet,97,104,27,21,23,29,22,26,25,28,0,0
+2024-2025,Round 13,2024-12-21 17:00:00,Saint-Quentin Basket-Ball,ESSM Le Portel,71,54,11,15,19,11,24,13,17,15,0,0
+2024-2025,Round 13,2024-12-21 19:30:00,Le Mans Sarthe Basket,Stade Rochelais Basket,81,71,13,23,29,9,16,15,23,24,0,0
+2024-2025,Round 13,2024-12-21 19:30:00,Limoges,AS Monaco Basket,84,96,21,28,23,28,17,15,23,25,0,0
+2024-2025,Round 13,2024-12-22 15:30:00,Élan Chalon,Gravelines-Dunkerque,77,67,16,19,23,13,14,20,24,15,0,0
+2024-2025,Round 13,2024-12-22 15:30:00,Lyon-Villeurbanne,Paris Basketball,98,92,24,26,29,22,19,15,26,29,0,0
+2024-2025,Round 13,2024-12-22 18:00:00,SLUC Nancy Basket,Bourg-en-Bresse,84,79,15,20,23,21,19,19,27,19,0,0
+2024-2025,Round 14,2024-12-23 18:00:00,Paris Basketball,Limoges,96,88,23,16,17,29,28,23,28,20,0,0
+2024-2025,Round 14,2024-12-26 19:00:00,Strasbourg,Nanterre,88,95,20,21,23,28,21,28,24,18,0,0
+2024-2025,Round 14,2024-12-27 17:00:00,ESSM Le Portel,SLUC Nancy Basket,76,85,19,27,25,14,16,16,16,28,0,0
+2024-2025,Round 14,2024-12-27 17:00:00,Cholet,Le Mans Sarthe Basket,86,92,21,17,19,23,19,25,27,27,0,0
+2024-2025,Round 14,2024-12-27 19:30:00,Bourg-en-Bresse,Saint-Quentin Basket-Ball,96,85,30,20,22,21,19,28,25,16,0,0
+2024-2025,Round 14,2024-12-27 19:30:00,Gravelines-Dunkerque,Dijon,83,84,23,17,20,16,23,33,17,18,0,0
+2024-2025,Round 14,2025-01-05 15:00:00,Stade Rochelais Basket,Lyon-Villeurbanne,75,79,18,18,17,10,14,31,26,20,0,0
+2024-2025,Round 14,2025-01-05 15:30:00,AS Monaco Basket,Élan Chalon,109,82,22,27,32,22,29,21,26,12,0,0
+2024-2025,Round 15,2025-01-10 19:00:00,Le Mans Sarthe Basket,Gravelines-Dunkerque,83,78,25,18,16,21,25,19,17,20,0,0
+2024-2025,Round 15,2025-01-11 17:00:00,SLUC Nancy Basket,Cholet,71,78,18,21,21,22,20,15,12,20,0,0
+2024-2025,Round 15,2025-01-11 17:00:00,Saint-Quentin Basket-Ball,Strasbourg,81,70,16,18,12,16,23,19,30,17,0,0
+2024-2025,Round 15,2025-01-11 19:30:00,Élan Chalon,Stade Rochelais Basket,65,62,13,15,18,11,19,20,15,16,0,0
+2024-2025,Round 15,2025-01-11 19:30:00,Nanterre,AS Monaco Basket,73,81,18,18,22,21,15,15,18,27,0,0
+2024-2025,Round 15,2025-01-12 15:30:00,Dijon,Lyon-Villeurbanne,92,71,19,20,26,16,24,22,23,13,0,0
+2024-2025,Round 15,2025-01-12 15:30:00,Limoges,ESSM Le Portel,77,98,15,18,25,32,23,24,14,24,0,0
+2024-2025,Round 15,2025-01-12 18:00:00,Paris Basketball,Bourg-en-Bresse,98,89,24,21,26,32,28,18,20,18,0,0
+2024-2025,Round 16,2025-01-17 19:00:00,Strasbourg,Bourg-en-Bresse,70,76,14,21,18,16,25,23,13,16,0,0
+2024-2025,Round 16,2025-01-18 17:00:00,Saint-Quentin Basket-Ball,Élan Chalon,83,87,17,23,25,25,18,21,23,18,0,0
+2024-2025,Round 16,2025-01-18 17:00:00,Cholet,Limoges,96,86,22,21,19,13,28,23,27,29,0,0
+2024-2025,Round 16,2025-01-18 19:30:00,Nanterre,Le Mans Sarthe Basket,67,85,14,22,19,27,20,16,14,20,0,0
+2024-2025,Round 16,2025-01-18 19:30:00,Dijon,ESSM Le Portel,90,82,31,22,22,26,16,17,21,17,0,0
+2024-2025,Round 16,2025-01-19 15:30:00,AS Monaco Basket,SLUC Nancy Basket,117,96,30,25,28,21,30,28,29,22,0,0
+2024-2025,Round 16,2025-01-19 15:30:00,Stade Rochelais Basket,Paris Basketball,73,90,16,38,20,13,14,28,23,11,0,0
+2024-2025,Round 16,2025-01-19 18:00:00,Lyon-Villeurbanne,Gravelines-Dunkerque,90,83,21,21,29,20,17,22,23,20,0,0
+2024-2025,Round 17,2025-01-24 19:00:00,Élan Chalon,Limoges,92,76,18,19,16,14,30,14,28,29,0,0
+2024-2025,Round 17,2025-01-25 17:00:00,ESSM Le Portel,Saint-Quentin Basket-Ball,56,58,16,16,17,10,10,24,13,8,0,0
+2024-2025,Round 17,2025-01-25 17:00:00,Gravelines-Dunkerque,Stade Rochelais Basket,94,68,18,27,28,18,17,11,31,12,0,0
+2024-2025,Round 17,2025-01-25 19:30:00,SLUC Nancy Basket,Dijon,85,104,19,19,16,29,20,28,30,28,0,0
+2024-2025,Round 17,2025-01-25 19:30:00,Bourg-en-Bresse,Nanterre,100,97,26,30,24,19,25,18,25,30,0,0
+2024-2025,Round 17,2025-01-26 15:30:00,Lyon-Villeurbanne,Strasbourg,95,70,17,21,30,14,22,13,26,22,0,0
+2024-2025,Round 17,2025-01-26 15:30:00,Le Mans Sarthe Basket,AS Monaco Basket,74,81,17,24,25,13,15,28,17,16,0,0
+2024-2025,Round 17,2025-01-26 18:00:00,Paris Basketball,Cholet,90,77,24,17,16,28,33,20,17,12,0,0
+2024-2025,Round 18,2025-01-31 19:00:00,ESSM Le Portel,Le Mans Sarthe Basket,92,75,20,17,25,20,26,11,21,27,0,0
+2024-2025,Round 18,2025-02-01 17:00:00,Stade Rochelais Basket,Dijon,92,90,19,24,25,23,23,15,25,28,0,0
+2024-2025,Round 18,2025-02-01 17:00:00,SLUC Nancy Basket,Saint-Quentin Basket-Ball,83,74,19,15,16,23,29,11,19,25,0,0
+2024-2025,Round 18,2025-02-01 19:30:00,Limoges,Lyon-Villeurbanne,84,81,21,22,22,14,18,22,23,23,0,0
+2024-2025,Round 18,2025-02-01 19:30:00,Nanterre,Paris Basketball,78,92,22,27,22,24,20,19,14,22,0,0
+2024-2025,Round 18,2025-02-02 15:30:00,Cholet,Strasbourg,105,75,33,13,29,27,21,17,22,18,0,0
+2024-2025,Round 18,2025-02-02 15:30:00,Bourg-en-Bresse,Élan Chalon,103,77,29,15,27,19,26,22,21,21,0,0
+2024-2025,Round 18,2025-02-02 18:00:00,AS Monaco Basket,Gravelines-Dunkerque,90,59,23,15,21,18,21,9,25,17,0,0
+2024-2025,Round 19,2025-02-07 19:00:00,Gravelines-Dunkerque,Cholet,70,73,27,11,11,16,18,28,14,18,0,0
+2024-2025,Round 19,2025-02-08 17:00:00,Saint-Quentin Basket-Ball,Bourg-en-Bresse,81,83,21,21,15,19,22,18,23,25,0,0
+2024-2025,Round 19,2025-02-08 17:00:00,Stade Rochelais Basket,ESSM Le Portel,96,73,26,16,21,19,23,18,26,20,0,0
+2024-2025,Round 19,2025-02-08 19:30:00,Le Mans Sarthe Basket,Élan Chalon,112,86,27,15,25,20,32,28,28,23,0,0
+2024-2025,Round 19,2025-02-08 19:30:00,Dijon,Nanterre,65,66,17,11,21,23,10,14,17,18,0,0
+2024-2025,Round 19,2025-02-09 15:30:00,Limoges,SLUC Nancy Basket,97,89,23,19,29,17,19,34,26,19,0,0
+2024-2025,Round 19,2025-02-09 15:30:00,Strasbourg,AS Monaco Basket,81,95,17,25,22,17,20,25,22,28,0,0
+2024-2025,Round 19,2025-02-09 18:00:00,Paris Basketball,Lyon-Villeurbanne,111,96,24,30,25,34,38,16,24,16,0,0
+2024-2025,Round 20,2025-02-28 19:00:00,ESSM Le Portel,Strasbourg,67,65,14,22,19,17,13,16,21,10,0,0
+2024-2025,Round 20,2025-02-28 19:30:00,Nanterre,Gravelines-Dunkerque,93,80,33,23,18,23,23,24,19,10,0,0
+2024-2025,Round 20,2025-03-01 17:00:00,Bourg-en-Bresse,SLUC Nancy Basket,81,93,27,20,18,23,11,29,25,21,0,0
+2024-2025,Round 20,2025-03-01 17:00:00,Le Mans Sarthe Basket,Limoges,101,77,27,15,21,20,24,15,29,27,0,0
+2024-2025,Round 20,2025-03-01 19:30:00,Élan Chalon,Dijon,86,93,25,16,16,22,24,29,21,26,0,0
+2024-2025,Round 20,2025-03-01 19:30:00,Paris Basketball,Saint-Quentin Basket-Ball,86,88,20,19,25,29,20,25,21,15,0,0
+2024-2025,Round 20,2025-03-02 15:30:00,Lyon-Villeurbanne,Stade Rochelais Basket,105,75,27,14,31,18,27,23,20,20,0,0
+2024-2025,Round 20,2025-03-02 18:00:00,Cholet,AS Monaco Basket,84,95,31,18,12,25,20,24,21,28,0,0
+2024-2025,Round 21,2025-03-07 19:00:00,SLUC Nancy Basket,Le Mans Sarthe Basket,97,89,29,19,19,21,19,22,30,27,0,0
+2024-2025,Round 21,2025-03-08 17:00:00,Strasbourg,Saint-Quentin Basket-Ball,83,69,18,23,24,10,20,22,21,14,0,0
+2024-2025,Round 21,2025-03-08 17:00:00,ESSM Le Portel,Limoges,79,89,20,24,21,24,17,26,21,15,0,0
+2024-2025,Round 21,2025-03-08 19:30:00,Bourg-en-Bresse,Gravelines-Dunkerque,94,84,19,25,29,21,24,20,22,18,0,0
+2024-2025,Round 21,2025-03-08 19:30:00,Dijon,Cholet,67,93,9,27,23,22,20,18,15,26,0,0
+2024-2025,Round 21,2025-03-09 15:30:00,Nanterre,Lyon-Villeurbanne,74,88,20,28,20,16,20,23,14,21,0,0
+2024-2025,Round 21,2025-03-09 15:30:00,Stade Rochelais Basket,Élan Chalon,77,86,22,28,23,10,18,31,14,17,0,0
+2024-2025,Round 21,2025-03-09 18:00:00,AS Monaco Basket,Paris Basketball,94,63,23,19,21,19,22,13,28,12,0,0
+2024-2025,Round 22,2025-03-21 19:00:00,Strasbourg,Paris Basketball,79,87,17,17,24,18,20,26,18,26,0,0
+2024-2025,Round 22,2025-03-22 17:00:00,Dijon,Le Mans Sarthe Basket,76,74,18,13,15,27,24,13,19,21,0,0
+2024-2025,Round 22,2025-03-22 17:00:00,Limoges,Bourg-en-Bresse,63,87,18,29,17,20,12,22,16,16,0,0
+2024-2025,Round 22,2025-03-22 19:30:00,Élan Chalon,ESSM Le Portel,106,76,24,20,28,24,29,14,25,18,0,0
+2024-2025,Round 22,2025-03-22 19:30:00,Cholet,Stade Rochelais Basket,83,77,25,27,17,14,18,28,23,8,0,0
+2024-2025,Round 22,2025-03-23 15:30:00,Gravelines-Dunkerque,SLUC Nancy Basket,84,87,19,24,21,18,21,26,23,19,0,0
+2024-2025,Round 22,2025-03-23 15:30:00,Saint-Quentin Basket-Ball,Nanterre,67,76,17,20,12,14,14,26,24,16,0,0
+2024-2025,Round 22,2025-03-23 18:00:00,AS Monaco Basket,Lyon-Villeurbanne,86,94,21,22,21,23,22,25,22,24,0,0
+2024-2025,Round 23,2025-03-28 19:00:00,Nanterre,Limoges,96,87,27,30,19,18,22,18,28,21,0,0
+2024-2025,Round 23,2025-03-29 17:00:00,SLUC Nancy Basket,Strasbourg,74,80,15,19,16,24,23,21,20,16,0,0
+2024-2025,Round 23,2025-03-29 17:00:00,Bourg-en-Bresse,Stade Rochelais Basket,87,67,23,13,28,15,22,18,14,21,0,0
+2024-2025,Round 23,2025-03-29 19:30:00,Saint-Quentin Basket-Ball,Dijon,85,72,20,14,21,22,23,12,21,24,0,0
+2024-2025,Round 23,2025-03-29 19:30:00,Le Mans Sarthe Basket,Cholet,91,68,17,22,29,14,21,14,24,18,0,0
+2024-2025,Round 23,2025-03-30 14:30:00,Paris Basketball,Gravelines-Dunkerque,109,66,26,13,30,14,29,22,24,17,0,0
+2024-2025,Round 23,2025-03-30 14:30:00,ESSM Le Portel,AS Monaco Basket,67,91,11,25,26,23,15,20,15,23,0,0
+2024-2025,Round 23,2025-03-30 17:00:00,Lyon-Villeurbanne,Élan Chalon,116,95,24,16,30,21,33,34,29,24,0,0
+2024-2025,Round 24,2025-04-04 18:00:00,Stade Rochelais Basket,SLUC Nancy Basket,79,88,29,24,19,15,17,23,14,26,0,0
+2024-2025,Round 24,2025-04-05 16:00:00,Dijon,Bourg-en-Bresse,97,95,19,18,29,27,20,21,29,29,0,0
+2024-2025,Round 24,2025-04-05 16:00:00,AS Monaco Basket,Nanterre,89,74,24,19,23,24,19,22,23,9,0,0
+2024-2025,Round 24,2025-04-05 18:30:00,Limoges,Strasbourg,80,87,18,14,18,21,20,27,24,25,0,0
+2024-2025,Round 24,2025-04-05 18:30:00,Élan Chalon,Cholet,105,72,33,14,18,22,29,21,25,15,0,0
+2024-2025,Round 24,2025-04-06 14:30:00,Gravelines-Dunkerque,ESSM Le Portel,104,80,22,16,18,23,28,17,36,24,0,0
+2024-2025,Round 24,2025-04-06 14:30:00,Paris Basketball,Le Mans Sarthe Basket,106,103,31,39,27,16,23,19,25,29,0,0
+2024-2025,Round 24,2025-04-06 17:00:00,Lyon-Villeurbanne,Saint-Quentin Basket-Ball,81,75,27,23,12,18,15,18,27,16,0,0
+2024-2025,Round 25,2025-04-11 18:00:00,Stade Rochelais Basket,Limoges,80,86,24,19,22,15,11,25,23,27,0,0
+2024-2025,Round 25,2025-04-12 16:00:00,Strasbourg,Dijon,58,77,15,16,5,19,16,19,22,23,0,0
+2024-2025,Round 25,2025-04-12 16:00:00,AS Monaco Basket,Saint-Quentin Basket-Ball,86,72,24,10,25,22,22,19,15,21,0,0
+2024-2025,Round 25,2025-04-12 16:00:00,Bourg-en-Bresse,Paris Basketball,91,98,25,26,23,23,32,23,11,26,0,0
+2024-2025,Round 25,2025-04-12 18:30:00,Cholet,Nanterre,88,78,25,19,23,19,28,21,12,19,0,0
+2024-2025,Round 25,2025-04-12 18:30:00,Élan Chalon,SLUC Nancy Basket,103,73,26,15,25,18,18,23,34,17,0,0
+2024-2025,Round 25,2025-04-13 14:30:00,Gravelines-Dunkerque,Le Mans Sarthe Basket,91,85,28,19,22,23,21,26,20,17,0,0
+2024-2025,Round 25,2025-04-13 17:00:00,ESSM Le Portel,Lyon-Villeurbanne,74,77,14,21,21,21,18,19,21,16,0,0
+2024-2025,Round 26,2025-04-18 18:30:00,Lyon-Villeurbanne,Bourg-en-Bresse,89,80,26,18,15,32,22,14,26,16,0,0
+2024-2025,Round 26,2025-04-19 16:00:00,Le Mans Sarthe Basket,Strasbourg,90,70,27,18,19,15,19,18,25,19,0,0
+2024-2025,Round 26,2025-04-19 16:00:00,Saint-Quentin Basket-Ball,Cholet,71,77,22,23,15,16,15,20,19,18,0,0
+2024-2025,Round 26,2025-04-19 18:30:00,SLUC Nancy Basket,ESSM Le Portel,85,78,21,16,19,21,24,18,21,23,0,0
+2024-2025,Round 26,2025-04-19 18:30:00,Nanterre,Stade Rochelais Basket,63,76,23,18,16,14,14,23,10,21,0,0
+2024-2025,Round 26,2025-04-20 14:30:00,Dijon,AS Monaco Basket,77,78,17,16,21,19,16,23,23,20,0,0
+2024-2025,Round 26,2025-04-20 14:30:00,Paris Basketball,Élan Chalon,100,97,28,22,22,24,29,24,21,27,0,0
+2024-2025,Round 26,2025-04-20 17:00:00,Limoges,Gravelines-Dunkerque,110,122,20,21,24,18,12,19,27,25,27,39
+2024-2025,Round 27,2025-04-25 18:00:00,Strasbourg,Stade Rochelais Basket,71,63,13,20,20,16,21,16,17,11,0,0
+2024-2025,Round 27,2025-04-25 18:00:00,Lyon-Villeurbanne,SLUC Nancy Basket,92,82,25,13,31,25,19,19,17,25,0,0
+2024-2025,Round 27,2025-04-27 14:30:00,AS Monaco Basket,Limoges,91,52,27,16,20,4,26,16,18,16,0,0
+2024-2025,Round 27,2025-04-27 14:30:00,Élan Chalon,Nanterre,107,84,24,23,24,21,28,18,31,22,0,0
+2024-2025,Round 27,2025-04-27 17:00:00,Gravelines-Dunkerque,Saint-Quentin Basket-Ball,91,75,33,14,21,23,25,20,12,18,0,0
+2024-2025,Round 27,2025-04-27 17:00:00,ESSM Le Portel,Cholet,87,80,20,23,19,22,23,15,25,20,0,0
+2024-2025,Round 27,2025-04-29 18:00:00,Le Mans Sarthe Basket,Bourg-en-Bresse,96,92,21,23,26,20,26,22,23,27,0,0
+2024-2025,Round 28,2025-05-02 18:00:00,SLUC Nancy Basket,Nanterre,96,81,28,27,26,20,25,22,17,12,0,0
+2024-2025,Round 28,2025-05-03 16:00:00,Élan Chalon,Strasbourg,86,78,21,15,17,20,21,18,27,25,0,0
+2024-2025,Round 28,2025-05-03 16:00:00,Saint-Quentin Basket-Ball,Le Mans Sarthe Basket,89,91,21,20,25,25,26,26,17,20,0,0
+2024-2025,Round 28,2025-05-03 18:30:00,Dijon,Gravelines-Dunkerque,93,77,18,21,23,18,30,20,22,18,0,0
+2024-2025,Round 28,2025-05-03 18:30:00,Bourg-en-Bresse,ESSM Le Portel,98,69,25,19,24,12,25,20,24,18,0,0
+2024-2025,Round 28,2025-05-04 14:00:00,Limoges,Paris Basketball,71,78,11,17,26,21,17,18,17,22,0,0
+2024-2025,Round 28,2025-05-04 17:00:00,Cholet,Lyon-Villeurbanne,75,94,5,17,26,25,21,30,23,22,0,0
+2024-2025,Round 29,2025-05-09 18:00:00,Saint-Quentin Basket-Ball,Stade Rochelais Basket,75,59,11,20,20,16,21,9,23,14,0,0
+2024-2025,Round 29,2025-05-10 16:00:00,Dijon,Limoges,89,83,21,21,29,22,19,18,20,22,0,0
+2024-2025,Round 29,2025-05-10 16:00:00,Cholet,SLUC Nancy Basket,95,74,28,29,16,17,23,16,28,12,0,0
+2024-2025,Round 29,2025-05-10 18:30:00,Paris Basketball,ESSM Le Portel,109,65,29,10,22,22,35,14,23,19,0,0
+2024-2025,Round 29,2025-05-10 18:30:00,Gravelines-Dunkerque,Élan Chalon,78,71,29,19,14,23,13,20,22,9,0,0
+2024-2025,Round 29,2025-05-11 14:30:00,Nanterre,Strasbourg,76,75,17,19,22,25,18,21,19,10,0,0
+2024-2025,Round 29,2025-05-11 17:00:00,AS Monaco Basket,Bourg-en-Bresse,73,100,19,27,10,28,31,20,13,25,0,0
+2024-2025,Round 29,2025-05-12 18:00:00,Le Mans Sarthe Basket,Lyon-Villeurbanne,97,80,27,20,20,18,28,20,22,22,0,0
+2024-2025,Round 28,2025-05-13 18:00:00,Stade Rochelais Basket,AS Monaco Basket,48,86,16,23,13,15,7,22,12,26,0,0
+2024-2025,Round 27,2025-05-13 18:30:00,Paris Basketball,Dijon,95,96,16,28,29,28,22,27,28,13,0,0
+2024-2025,Round 30,2025-05-17 16:00:00,Élan Chalon,AS Monaco Basket,90,65,22,17,22,12,30,23,16,13,0,0
+2024-2025,Round 30,2025-05-17 16:00:00,Bourg-en-Bresse,Cholet,86,89,23,19,25,24,27,27,11,19,0,0
+2024-2025,Round 30,2025-05-17 16:00:00,Stade Rochelais Basket,Le Mans Sarthe Basket,98,100,18,26,15,27,27,22,28,13,10,12
+2024-2025,Round 30,2025-05-17 16:00:00,ESSM Le Portel,Nanterre,90,70,25,26,27,11,18,13,20,20,0,0
+2024-2025,Round 30,2025-05-17 16:00:00,Limoges,Saint-Quentin Basket-Ball,74,70,17,24,25,22,12,15,20,9,0,0
+2024-2025,Round 30,2025-05-17 16:00:00,Lyon-Villeurbanne,Dijon,84,83,23,10,20,24,20,32,21,17,0,0
+2024-2025,Round 30,2025-05-17 16:00:00,SLUC Nancy Basket,Paris Basketball,86,105,17,24,28,38,24,25,17,18,0,0
+2024-2025,Round 30,2025-05-17 16:00:00,Strasbourg,Gravelines-Dunkerque,91,88,26,22,24,21,26,19,15,26,0,0
+2024-2025,Round 0,2025-05-20 18:00:00,Élan Chalon,Dijon,106,85,19,25,36,16,19,21,32,23,0,0
+2024-2025,Round 0,2025-05-20 18:30:00,SLUC Nancy Basket,Saint-Quentin Basket-Ball,81,88,23,31,22,20,16,20,20,17,0,0
+2024-2025,Round 0,2025-05-23 18:00:00,Dijon,Saint-Quentin Basket-Ball,92,79,29,26,23,15,20,21,20,17,0,0
+2024-2025,Round 0,2025-05-26 18:00:00,Cholet,Bourg-en-Bresse,71,95,15,24,15,16,23,25,18,30,0,0
+2024-2025,Round 0,2025-05-27 17:00:00,Lyon-Villeurbanne,Élan Chalon,100,96,21,29,30,23,26,24,23,20,0,0
+2024-2025,Round 0,2025-05-27 19:00:00,Paris Basketball,Dijon,100,87,33,19,32,20,20,28,15,20,0,0
+2024-2025,Round 0,2025-05-28 17:00:00,Bourg-en-Bresse,Cholet,94,89,24,13,25,23,26,28,19,25,0,0
+2024-2025,Round 0,2025-05-28 19:00:00,AS Monaco Basket,Le Mans Sarthe Basket,76,69,18,20,11,13,21,21,26,15,0,0
+2024-2025,Round 0,2025-05-29 17:00:00,Élan Chalon,Lyon-Villeurbanne,76,69,18,19,20,14,15,24,23,12,0,0
+2024-2025,Round 0,2025-05-29 19:00:00,Dijon,Paris Basketball,80,79,22,17,12,16,19,22,27,24,0,0
+2024-2025,Round 0,2025-05-30 18:00:00,Le Mans Sarthe Basket,AS Monaco Basket,88,87,13,19,20,15,33,28,22,25,0,0
+2024-2025,Round 0,2025-05-31 14:30:00,Paris Basketball,Dijon,114,88,38,14,25,18,27,27,24,29,0,0
+2024-2025,Round 0,2025-05-31 16:30:00,Lyon-Villeurbanne,Élan Chalon,99,75,21,13,23,19,21,23,34,20,0,0
+2024-2025,Round 0,2025-06-01 14:30:00,AS Monaco Basket,Le Mans Sarthe Basket,85,76,21,21,21,18,19,14,24,23,0,0
+2024-2025,Round 0,2025-06-03 19:00:00,Lyon-Villeurbanne,AS Monaco Basket,94,74,31,21,18,24,19,13,26,16,0,0
+2024-2025,Round 0,2025-06-04 19:00:00,Paris Basketball,Bourg-en-Bresse,100,89,29,28,23,25,27,21,21,15,0,0
+2024-2025,Round 0,2025-06-05 19:00:00,Lyon-Villeurbanne,AS Monaco Basket,77,94,12,21,16,26,24,19,25,28,0,0
+2024-2025,Round 0,2025-06-06 19:00:00,Paris Basketball,Bourg-en-Bresse,117,103,25,30,30,27,31,23,31,23,0,0
+2024-2025,Round 0,2025-06-08 14:30:00,AS Monaco Basket,Lyon-Villeurbanne,74,64,19,15,15,17,21,16,19,16,0,0
+2024-2025,Round 0,2025-06-08 17:00:00,Bourg-en-Bresse,Paris Basketball,93,103,28,26,28,26,19,23,18,28,0,0
+2024-2025,Round 0,2025-06-10 19:00:00,AS Monaco Basket,Lyon-Villeurbanne,91,86,21,24,29,27,16,27,25,8,0,0
+2024-2025,Round 0,2025-06-15 14:30:00,Paris Basketball,AS Monaco Basket,94,82,22,23,27,15,25,23,20,21,0,0
+2024-2025,Round 0,2025-06-17 18:30:00,Paris Basketball,AS Monaco Basket,92,67,20,13,21,15,29,17,22,22,0,0
+2024-2025,Round 0,2025-06-20 18:30:00,AS Monaco Basket,Paris Basketball,81,78,12,23,21,22,30,15,18,18,0,0
+2024-2025,Round 0,2025-06-22 14:30:00,AS Monaco Basket,Paris Basketball,80,74,20,16,20,27,15,13,25,18,0,0
+2024-2025,Round 0,2025-06-24 18:30:00,Paris Basketball,AS Monaco Basket,99,93,29,21,25,29,19,31,26,12,0,0

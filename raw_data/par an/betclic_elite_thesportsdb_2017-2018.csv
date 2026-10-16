@@ -1,0 +1,330 @@
+saison,round,date,equipe_domicile,equipe_exterieur,score_domicile,score_exterieur,q1_domicile,q1_exterieur,q2_domicile,q2_exterieur,q3_domicile,q3_exterieur,q4_domicile,q4_exterieur,prolongation_domicile,prolongation_exterieur
+2017-2018,Round 1,2017-09-22 19:00:00,ESSM Le Portel,Cholet,73,62,,,,,,,,,0,0
+2017-2018,Round 1,2017-09-22 19:30:00,Antibes Sharks,Strasbourg,79,57,,,,,,,,,0,0
+2017-2018,Round 1,2017-09-22 19:30:00,Dijon,Châlons-Reims,86,61,,,,,,,,,0,0
+2017-2018,Round 1,2017-09-23 17:30:00,Élan Chalon,Pau-Lacq-Orthez,62,82,,,,,,,,,0,0
+2017-2018,Round 1,2017-09-23 18:30:00,HTV Basket,Boulazac Basket Dordogne,70,63,,,,,,,,,0,0
+2017-2018,Round 1,2017-09-23 19:00:00,Le Mans Sarthe Basket,Gravelines-Dunkerque,103,63,,,,,,,,,0,0
+2017-2018,Round 1,2017-09-23 19:00:00,Levallois Metropolitans,AS Monaco Basket,71,77,,,,,,,,,0,0
+2017-2018,Round 1,2017-09-23 19:00:00,Nanterre,Bourg-en-Bresse,92,86,,,,,,,,,0,0
+2017-2018,Round 1,2017-09-24 17:30:00,Lyon-Villeurbanne,Limoges,71,68,,,,,,,,,0,0
+2017-2018,Round 2,2017-09-26 19:00:00,Châlons-Reims,Antibes Sharks,86,78,,,,,,,,,0,0
+2017-2018,Round 2,2017-09-26 19:00:00,Cholet,HTV Basket,73,79,,,,,,,,,0,0
+2017-2018,Round 2,2017-09-26 19:00:00,Pau-Lacq-Orthez,Nanterre,89,75,,,,,,,,,0,0
+2017-2018,Round 2,2017-09-26 19:00:00,Gravelines-Dunkerque,Dijon,70,80,,,,,,,,,0,0
+2017-2018,Round 2,2017-09-26 19:00:00,Bourg-en-Bresse,ESSM Le Portel,91,53,,,,,,,,,0,0
+2017-2018,Round 2,2017-09-26 19:30:00,Boulazac Basket Dordogne,Lyon-Villeurbanne,67,76,,,,,,,,,0,0
+2017-2018,Round 2,2017-09-26 19:30:00,Levallois Metropolitans,Strasbourg,81,83,,,,,,,,,0,0
+2017-2018,Round 2,2017-09-27 19:00:00,AS Monaco Basket,Le Mans Sarthe Basket,66,67,,,,,,,,,0,0
+2017-2018,Round 2,2017-09-27 19:30:00,Limoges,Élan Chalon,90,65,,,,,,,,,0,0
+2017-2018,Round 3,2017-09-29 19:30:00,Antibes Sharks,ESSM Le Portel,70,63,,,,,,,,,0,0
+2017-2018,Round 3,2017-09-29 19:30:00,Dijon,Bourg-en-Bresse,74,87,,,,,,,,,0,0
+2017-2018,Round 3,2017-09-30 17:30:00,Le Mans Sarthe Basket,Pau-Lacq-Orthez,73,58,,,,,,,,,0,0
+2017-2018,Round 3,2017-09-30 18:30:00,HTV Basket,Limoges,85,70,,,,,,,,,0,0
+2017-2018,Round 3,2017-09-30 19:00:00,Élan Chalon,Levallois Metropolitans,77,79,,,,,,,,,0,0
+2017-2018,Round 3,2017-09-30 19:00:00,Lyon-Villeurbanne,Cholet,77,59,,,,,,,,,0,0
+2017-2018,Round 3,2017-10-02 19:40:00,Gravelines-Dunkerque,AS Monaco Basket,55,61,,,,,,,,,0,0
+2017-2018,Round 3,2017-10-03 19:00:00,Strasbourg,Châlons-Reims,93,72,,,,,,,,,0,0
+2017-2018,Round 3,2017-10-04 19:00:00,Nanterre,Boulazac Basket Dordogne,98,68,,,,,,,,,0,0
+2017-2018,Round 4,2017-10-06 19:00:00,Bourg-en-Bresse,Antibes Sharks,94,81,,,,,,,,,0,0
+2017-2018,Round 4,2017-10-07 17:30:00,ESSM Le Portel,Nanterre,87,73,,,,,,,,,0,0
+2017-2018,Round 4,2017-10-07 19:00:00,Châlons-Reims,Élan Chalon,103,97,,,,,,,,,0,0
+2017-2018,Round 4,2017-10-07 19:00:00,Cholet,Dijon,75,73,,,,,,,,,0,0
+2017-2018,Round 4,2017-10-07 19:00:00,Pau-Lacq-Orthez,HTV Basket,84,56,,,,,,,,,0,0
+2017-2018,Round 4,2017-10-07 19:30:00,Levallois Metropolitans,Limoges,81,87,,,,,,,,,0,0
+2017-2018,Round 4,2017-10-08 17:30:00,AS Monaco Basket,Lyon-Villeurbanne,83,68,,,,,,,,,0,0
+2017-2018,Round 4,2017-10-09 19:45:00,Strasbourg,Le Mans Sarthe Basket,76,78,,,,,,,,,0,0
+2017-2018,Round 4,2017-10-10 19:00:00,Boulazac Basket Dordogne,Gravelines-Dunkerque,75,71,,,,,,,,,0,0
+2017-2018,Round 5,2017-10-13 19:30:00,Dijon,Élan Chalon,88,86,,,,,,,,,0,0
+2017-2018,Round 5,2017-10-14 17:30:00,Nanterre,Antibes Sharks,93,77,,,,,,,,,0,0
+2017-2018,Round 5,2017-10-14 18:00:00,AS Monaco Basket,Cholet,86,62,,,,,,,,,0,0
+2017-2018,Round 5,2017-10-14 18:30:00,HTV Basket,Levallois Metropolitans,78,72,,,,,,,,,0,0
+2017-2018,Round 5,2017-10-14 19:00:00,Boulazac Basket Dordogne,Châlons-Reims,70,73,,,,,,,,,0,0
+2017-2018,Round 5,2017-10-14 19:00:00,Le Mans Sarthe Basket,Bourg-en-Bresse,91,70,,,,,,,,,0,0
+2017-2018,Round 5,2017-10-14 19:00:00,Lyon-Villeurbanne,ESSM Le Portel,83,69,,,,,,,,,0,0
+2017-2018,Round 5,2017-10-15 17:30:00,Limoges,Strasbourg,80,74,,,,,,,,,0,0
+2017-2018,Round 5,2017-10-16 19:45:00,Gravelines-Dunkerque,Pau-Lacq-Orthez,65,57,,,,,,,,,0,0
+2017-2018,Round 6,2017-10-20 19:00:00,Châlons-Reims,Limoges,89,79,,,,,,,,,0,0
+2017-2018,Round 6,2017-10-21 17:30:00,Bourg-en-Bresse,AS Monaco Basket,89,83,,,,,,,,,0,0
+2017-2018,Round 6,2017-10-21 19:00:00,Élan Chalon,Gravelines-Dunkerque,74,75,,,,,,,,,0,0
+2017-2018,Round 6,2017-10-21 19:00:00,Cholet,Nanterre,77,80,,,,,,,,,0,0
+2017-2018,Round 6,2017-10-21 19:00:00,ESSM Le Portel,Dijon,74,58,,,,,,,,,0,0
+2017-2018,Round 6,2017-10-21 19:00:00,Levallois Metropolitans,Boulazac Basket Dordogne,81,71,,,,,,,,,0,0
+2017-2018,Round 6,2017-10-21 19:00:00,Strasbourg,HTV Basket,90,60,,,,,,,,,0,0
+2017-2018,Round 6,2017-10-22 17:30:00,Pau-Lacq-Orthez,Lyon-Villeurbanne,94,82,,,,,,,,,0,0
+2017-2018,Round 6,2017-10-23 19:45:00,Antibes Sharks,Le Mans Sarthe Basket,69,72,,,,,,,,,0,0
+2017-2018,Round 7,2017-10-27 19:00:00,ESSM Le Portel,HTV Basket,75,62,,,,,,,,,0,0
+2017-2018,Round 7,2017-10-27 19:30:00,Gravelines-Dunkerque,Antibes Sharks,79,66,,,,,,,,,0,0
+2017-2018,Round 7,2017-10-28 17:30:00,Le Mans Sarthe Basket,Élan Chalon,63,66,,,,,,,,,0,0
+2017-2018,Round 7,2017-10-28 18:00:00,AS Monaco Basket,Boulazac Basket Dordogne,91,64,,,,,,,,,0,0
+2017-2018,Round 7,2017-10-28 19:00:00,Bourg-en-Bresse,Cholet,76,77,,,,,,,,,0,0
+2017-2018,Round 7,2017-10-28 19:00:00,Lyon-Villeurbanne,Châlons-Reims,93,80,,,,,,,,,0,0
+2017-2018,Round 7,2017-10-29 16:30:00,Dijon,Levallois Metropolitans,93,85,,,,,,,,,0,0
+2017-2018,Round 7,2017-10-29 17:30:00,Limoges,Pau-Lacq-Orthez,71,82,,,,,,,,,0,0
+2017-2018,Round 7,2017-10-30 19:45:00,Nanterre,Strasbourg,102,100,,,,,,,,,0,0
+2017-2018,Round 8,2017-11-03 19:00:00,Châlons-Reims,AS Monaco Basket,86,96,,,,,,,,,0,0
+2017-2018,Round 8,2017-11-04 17:30:00,Cholet,Limoges,86,89,,,,,,,,,0,0
+2017-2018,Round 8,2017-11-04 18:30:00,HTV Basket,Nanterre,90,86,,,,,,,,,0,0
+2017-2018,Round 8,2017-11-04 19:00:00,Boulazac Basket Dordogne,ESSM Le Portel,88,87,,,,,,,,,0,0
+2017-2018,Round 8,2017-11-04 19:00:00,Élan Chalon,Bourg-en-Bresse,93,99,,,,,,,,,0,0
+2017-2018,Round 8,2017-11-04 19:00:00,Strasbourg,Gravelines-Dunkerque,73,50,,,,,,,,,0,0
+2017-2018,Round 8,2017-11-04 19:30:00,Antibes Sharks,Lyon-Villeurbanne,91,73,,,,,,,,,0,0
+2017-2018,Round 8,2017-11-05 17:30:00,Levallois Metropolitans,Le Mans Sarthe Basket,76,87,,,,,,,,,0,0
+2017-2018,Round 8,2017-11-06 19:45:00,Pau-Lacq-Orthez,Dijon,65,85,,,,,,,,,0,0
+2017-2018,Round 9,2017-11-11 16:30:00,Boulazac Basket Dordogne,Limoges,66,75,,,,,,,,,0,0
+2017-2018,Round 9,2017-11-11 18:30:00,HTV Basket,Le Mans Sarthe Basket,88,62,,,,,,,,,0,0
+2017-2018,Round 9,2017-11-11 19:00:00,Cholet,Élan Chalon,70,64,,,,,,,,,0,0
+2017-2018,Round 9,2017-11-11 19:00:00,Bourg-en-Bresse,Levallois Metropolitans,82,85,,,,,,,,,0,0
+2017-2018,Round 9,2017-11-11 19:00:00,ESSM Le Portel,Châlons-Reims,96,69,,,,,,,,,0,0
+2017-2018,Round 9,2017-11-11 19:00:00,Lyon-Villeurbanne,Dijon,86,69,,,,,,,,,0,0
+2017-2018,Round 9,2017-11-11 19:00:00,Nanterre,Gravelines-Dunkerque,67,89,,,,,,,,,0,0
+2017-2018,Round 9,2017-11-12 17:30:00,AS Monaco Basket,Strasbourg,83,90,,,,,,,,,0,0
+2017-2018,Round 9,2017-11-13 19:45:00,Antibes Sharks,Pau-Lacq-Orthez,86,85,,,,,,,,,0,0
+2017-2018,Round 10,2017-11-17 19:30:00,Dijon,Boulazac Basket Dordogne,101,81,,,,,,,,,0,0
+2017-2018,Round 10,2017-11-18 17:30:00,Pau-Lacq-Orthez,AS Monaco Basket,68,90,,,,,,,,,0,0
+2017-2018,Round 10,2017-11-18 19:00:00,Élan Chalon,HTV Basket,82,67,,,,,,,,,0,0
+2017-2018,Round 10,2017-11-18 19:00:00,Châlons-Reims,Nanterre,76,85,,,,,,,,,0,0
+2017-2018,Round 10,2017-11-18 19:00:00,Le Mans Sarthe Basket,ESSM Le Portel,77,63,,,,,,,,,0,0
+2017-2018,Round 10,2017-11-18 19:00:00,Levallois Metropolitans,Cholet,55,67,,,,,,,,,0,0
+2017-2018,Round 10,2017-11-18 19:00:00,Limoges,Antibes Sharks,98,80,,,,,,,,,0,0
+2017-2018,Round 10,2017-11-19 17:00:00,Gravelines-Dunkerque,Bourg-en-Bresse,78,70,,,,,,,,,0,0
+2017-2018,Round 10,2017-11-19 17:30:00,Strasbourg,Lyon-Villeurbanne,82,76,,,,,,,,,0,0
+2017-2018,Round 11,2017-12-01 19:00:00,ESSM Le Portel,Levallois Metropolitans,77,82,,,,,,,,,0,0
+2017-2018,Round 11,2017-12-01 19:30:00,Antibes Sharks,Dijon,77,74,,,,,,,,,0,0
+2017-2018,Round 11,2017-12-01 19:30:00,HTV Basket,Gravelines-Dunkerque,74,88,,,,,,,,,0,0
+2017-2018,Round 11,2017-12-02 16:00:00,AS Monaco Basket,Élan Chalon,87,57,,,,,,,,,0,0
+2017-2018,Round 11,2017-12-02 17:30:00,Nanterre,Limoges,73,75,,,,,,,,,0,0
+2017-2018,Round 11,2017-12-02 19:00:00,Boulazac Basket Dordogne,Strasbourg,109,102,,,,,,,,,0,0
+2017-2018,Round 11,2017-12-02 19:00:00,Cholet,Châlons-Reims,83,68,,,,,,,,,0,0
+2017-2018,Round 11,2017-12-03 17:30:00,Lyon-Villeurbanne,Le Mans Sarthe Basket,79,71,,,,,,,,,0,0
+2017-2018,Round 11,2017-12-04 19:45:00,Bourg-en-Bresse,Pau-Lacq-Orthez,91,82,,,,,,,,,0,0
+2017-2018,Round 12,2017-12-08 19:00:00,Châlons-Reims,HTV Basket,70,64,,,,,,,,,0,0
+2017-2018,Round 12,2017-12-08 19:30:00,Gravelines-Dunkerque,Lyon-Villeurbanne,73,67,,,,,,,,,0,0
+2017-2018,Round 12,2017-12-09 17:30:00,Dijon,AS Monaco Basket,71,99,,,,,,,,,0,0
+2017-2018,Round 12,2017-12-09 19:00:00,Élan Chalon,Antibes Sharks,95,81,,,,,,,,,0,0
+2017-2018,Round 12,2017-12-09 19:00:00,Bourg-en-Bresse,Boulazac Basket Dordogne,89,91,,,,,,,,,0,0
+2017-2018,Round 12,2017-12-09 19:00:00,Limoges,ESSM Le Portel,88,79,,,,,,,,,0,0
+2017-2018,Round 12,2017-12-09 19:00:00,Strasbourg,Cholet,88,54,,,,,,,,,0,0
+2017-2018,Round 12,2017-12-10 17:30:00,Pau-Lacq-Orthez,Levallois Metropolitans,93,79,,,,,,,,,0,0
+2017-2018,Round 12,2017-12-11 19:45:00,Le Mans Sarthe Basket,Nanterre,83,87,,,,,,,,,0,0
+2017-2018,Round 13,2017-12-15 19:00:00,ESSM Le Portel,Strasbourg,75,80,,,,,,,,,0,0
+2017-2018,Round 13,2017-12-15 19:30:00,HTV Basket,Dijon,75,72,,,,,,,,,0,0
+2017-2018,Round 13,2017-12-16 17:30:00,Limoges,Le Mans Sarthe Basket,74,70,,,,,,,,,0,0
+2017-2018,Round 13,2017-12-16 18:00:00,AS Monaco Basket,Antibes Sharks,84,76,,,,,,,,,0,0
+2017-2018,Round 13,2017-12-16 19:00:00,Cholet,Gravelines-Dunkerque,77,74,,,,,,,,,0,0
+2017-2018,Round 13,2017-12-16 19:00:00,Levallois Metropolitans,Châlons-Reims,94,84,,,,,,,,,0,0
+2017-2018,Round 13,2017-12-16 19:00:00,Nanterre,Élan Chalon,93,82,,,,,,,,,0,0
+2017-2018,Round 13,2017-12-17 17:30:00,Lyon-Villeurbanne,Bourg-en-Bresse,83,87,,,,,,,,,0,0
+2017-2018,Round 13,2017-12-18 19:45:00,Boulazac Basket Dordogne,Pau-Lacq-Orthez,70,81,,,,,,,,,0,0
+2017-2018,Round 14,2017-12-22 19:30:00,Antibes Sharks,HTV Basket,83,79,,,,,,,,,0,0
+2017-2018,Round 14,2017-12-22 19:30:00,Dijon,Limoges,79,70,,,,,,,,,0,0
+2017-2018,Round 14,2017-12-23 17:00:00,Pau-Lacq-Orthez,Châlons-Reims,69,77,,,,,,,,,0,0
+2017-2018,Round 14,2017-12-23 17:30:00,Bourg-en-Bresse,Strasbourg,87,85,,,,,,,,,0,0
+2017-2018,Round 14,2017-12-23 18:00:00,AS Monaco Basket,ESSM Le Portel,84,66,,,,,,,,,0,0
+2017-2018,Round 14,2017-12-23 19:00:00,Élan Chalon,Boulazac Basket Dordogne,87,89,,,,,,,,,0,0
+2017-2018,Round 14,2017-12-23 19:00:00,Gravelines-Dunkerque,Levallois Metropolitans,81,65,,,,,,,,,0,0
+2017-2018,Round 14,2017-12-23 19:00:00,Le Mans Sarthe Basket,Cholet,65,47,,,,,,,,,0,0
+2017-2018,Round 14,2017-12-23 19:30:00,Lyon-Villeurbanne,Nanterre,81,65,,,,,,,,,0,0
+2017-2018,Round 15,2017-12-26 17:00:00,Strasbourg,Élan Chalon,91,78,,,,,,,,,0,0
+2017-2018,Round 15,2017-12-26 19:45:00,HTV Basket,AS Monaco Basket,99,103,,,,,,,,,0,0
+2017-2018,Round 15,2017-12-27 18:30:00,ESSM Le Portel,Pau-Lacq-Orthez,77,69,,,,,,,,,0,0
+2017-2018,Round 15,2017-12-27 19:00:00,Boulazac Basket Dordogne,Le Mans Sarthe Basket,68,82,,,,,,,,,0,0
+2017-2018,Round 15,2017-12-27 19:00:00,Châlons-Reims,Gravelines-Dunkerque,83,72,,,,,,,,,0,0
+2017-2018,Round 15,2017-12-27 19:00:00,Cholet,Antibes Sharks,90,78,,,,,,,,,0,0
+2017-2018,Round 15,2017-12-27 19:00:00,Limoges,Bourg-en-Bresse,88,75,,,,,,,,,0,0
+2017-2018,Round 15,2017-12-27 19:00:00,Nanterre,Dijon,84,72,,,,,,,,,0,0
+2017-2018,Round 15,2018-01-07 17:30:00,Levallois Metropolitans,Lyon-Villeurbanne,72,65,,,,,,,,,0,0
+2017-2018,Round 16,2018-01-12 19:30:00,Antibes Sharks,Boulazac Basket Dordogne,75,70,,,,,,,,,0,0
+2017-2018,Round 16,2018-01-12 19:30:00,Dijon,Strasbourg,65,77,,,,,,,,,0,0
+2017-2018,Round 16,2018-01-13 17:30:00,Levallois Metropolitans,Nanterre,96,91,,,,,,,,,0,0
+2017-2018,Round 16,2018-01-13 19:00:00,Élan Chalon,Lyon-Villeurbanne,84,52,,,,,,,,,0,0
+2017-2018,Round 16,2018-01-13 19:00:00,Pau-Lacq-Orthez,Cholet,70,78,,,,,,,,,0,0
+2017-2018,Round 16,2018-01-13 19:00:00,Bourg-en-Bresse,HTV Basket,99,88,,,,,,,,,0,0
+2017-2018,Round 16,2018-01-13 19:00:00,Le Mans Sarthe Basket,Châlons-Reims,90,84,,,,,,,,,0,0
+2017-2018,Round 16,2018-01-14 17:30:00,AS Monaco Basket,Limoges,105,90,,,,,,,,,0,0
+2017-2018,Round 16,2018-01-15 19:45:00,Gravelines-Dunkerque,ESSM Le Portel,55,63,,,,,,,,,0,0
+2017-2018,Round 17,2018-01-19 19:00:00,Châlons-Reims,Bourg-en-Bresse,63,95,,,,,,,,,0,0
+2017-2018,Round 17,2018-01-19 19:30:00,Antibes Sharks,Levallois Metropolitans,73,82,,,,,,,,,0,0
+2017-2018,Round 17,2018-01-20 17:30:00,Limoges,Gravelines-Dunkerque,80,72,,,,,,,,,0,0
+2017-2018,Round 17,2018-01-20 19:00:00,Boulazac Basket Dordogne,Cholet,67,91,,,,,,,,,0,0
+2017-2018,Round 17,2018-01-20 19:00:00,ESSM Le Portel,Élan Chalon,87,83,,,,,,,,,0,0
+2017-2018,Round 17,2018-01-20 19:00:00,Lyon-Villeurbanne,HTV Basket,102,85,,,,,,,,,0,0
+2017-2018,Round 17,2018-01-20 19:00:00,Strasbourg,Pau-Lacq-Orthez,89,88,,,,,,,,,0,0
+2017-2018,Round 17,2018-01-21 17:30:00,Nanterre,AS Monaco Basket,99,69,,,,,,,,,0,0
+2017-2018,Round 17,2018-01-22 19:45:00,Dijon,Le Mans Sarthe Basket,82,72,,,,,,,,,0,0
+2017-2018,Round 18,2018-01-26 19:00:00,Châlons-Reims,Boulazac Basket Dordogne,82,89,,,,,,,,,0,0
+2017-2018,Round 18,2018-01-26 19:30:00,HTV Basket,Strasbourg,70,73,,,,,,,,,0,0
+2017-2018,Round 18,2018-01-27 17:30:00,ESSM Le Portel,Limoges,73,51,,,,,,,,,0,0
+2017-2018,Round 18,2018-01-27 18:00:00,AS Monaco Basket,Levallois Metropolitans,78,77,,,,,,,,,0,0
+2017-2018,Round 18,2018-01-27 19:00:00,Élan Chalon,Dijon,81,77,,,,,,,,,0,0
+2017-2018,Round 18,2018-01-27 19:00:00,Cholet,Lyon-Villeurbanne,69,72,,,,,,,,,0,0
+2017-2018,Round 18,2018-01-27 19:00:00,Pau-Lacq-Orthez,Antibes Sharks,72,78,,,,,,,,,0,0
+2017-2018,Round 18,2018-01-28 17:30:00,Nanterre,Le Mans Sarthe Basket,77,80,,,,,,,,,0,0
+2017-2018,Round 18,2018-01-29 19:45:00,Bourg-en-Bresse,Gravelines-Dunkerque,77,75,,,,,,,,,0,0
+2017-2018,Round 19,2018-02-02 19:30:00,Antibes Sharks,Châlons-Reims,82,92,,,,,,,,,0,0
+2017-2018,Round 19,2018-02-02 19:30:00,Levallois Metropolitans,Bourg-en-Bresse,65,74,,,,,,,,,0,0
+2017-2018,Round 19,2018-02-03 17:30:00,Lyon-Villeurbanne,Pau-Lacq-Orthez,82,88,,,,,,,,,0,0
+2017-2018,Round 19,2018-02-03 19:00:00,Élan Chalon,Nanterre,85,55,,,,,,,,,0,0
+2017-2018,Round 19,2018-02-03 19:00:00,Gravelines-Dunkerque,Boulazac Basket Dordogne,113,111,,,,,,,,,0,0
+2017-2018,Round 19,2018-02-03 19:00:00,Limoges,HTV Basket,110,93,,,,,,,,,0,0
+2017-2018,Round 19,2018-02-03 19:00:00,Strasbourg,ESSM Le Portel,85,62,,,,,,,,,0,0
+2017-2018,Round 19,2018-02-04 17:30:00,Le Mans Sarthe Basket,AS Monaco Basket,94,85,,,,,,,,,0,0
+2017-2018,Round 19,2018-02-05 19:45:00,Dijon,Cholet,78,62,,,,,,,,,0,0
+2017-2018,Round 20,2018-02-07 19:00:00,Boulazac Basket Dordogne,Dijon,95,99,,,,,,,,,0,0
+2017-2018,Round 20,2018-02-09 19:30:00,HTV Basket,Antibes Sharks,68,88,,,,,,,,,0,0
+2017-2018,Round 20,2018-02-10 17:45:00,Bourg-en-Bresse,Lyon-Villeurbanne,73,96,,,,,,,,,0,0
+2017-2018,Round 20,2018-02-10 19:00:00,Châlons-Reims,Levallois Metropolitans,90,93,,,,,,,,,0,0
+2017-2018,Round 20,2018-02-10 19:00:00,Cholet,Strasbourg,63,73,,,,,,,,,0,0
+2017-2018,Round 20,2018-02-10 19:00:00,Pau-Lacq-Orthez,Élan Chalon,105,93,,,,,,,,,0,0
+2017-2018,Round 20,2018-02-10 19:00:00,Nanterre,ESSM Le Portel,85,54,,,,,,,,,0,0
+2017-2018,Round 20,2018-02-11 17:30:00,Le Mans Sarthe Basket,Limoges,89,65,,,,,,,,,0,0
+2017-2018,Round 20,2018-02-11 17:30:00,AS Monaco Basket,Gravelines-Dunkerque,94,101,,,,,,,,,0,0
+2017-2018,Round 21,2018-03-02 19:00:00,ESSM Le Portel,AS Monaco Basket,72,73,,,,,,,,,0,0
+2017-2018,Round 21,2018-03-02 19:30:00,Antibes Sharks,Nanterre,70,89,,,,,,,,,0,0
+2017-2018,Round 21,2018-03-02 19:30:00,Dijon,HTV Basket,98,71,,,,,,,,,0,0
+2017-2018,Round 21,2018-03-03 17:30:00,Levallois Metropolitans,Pau-Lacq-Orthez,87,61,,,,,,,,,0,0
+2017-2018,Round 21,2018-03-03 19:00:00,Limoges,Châlons-Reims,66,81,,,,,,,,,0,0
+2017-2018,Round 21,2018-03-03 19:00:00,Lyon-Villeurbanne,Boulazac Basket Dordogne,70,76,,,,,,,,,0,0
+2017-2018,Round 21,2018-03-03 19:00:00,Strasbourg,Bourg-en-Bresse,79,78,,,,,,,,,0,0
+2017-2018,Round 21,2018-03-04 17:30:00,Élan Chalon,Le Mans Sarthe Basket,91,72,,,,,,,,,0,0
+2017-2018,Round 21,2018-03-05 19:45:00,Gravelines-Dunkerque,Cholet,62,65,,,,,,,,,0,0
+2017-2018,Round 22,2018-03-07 19:00:00,Boulazac Basket Dordogne,Levallois Metropolitans,87,91,,,,,,,,,0,0
+2017-2018,Round 22,2018-03-09 19:00:00,Le Mans Sarthe Basket,Antibes Sharks,93,62,,,,,,,,,0,0
+2017-2018,Round 22,2018-03-09 19:30:00,HTV Basket,Pau-Lacq-Orthez,65,75,,,,,,,,,0,0
+2017-2018,Round 22,2018-03-10 17:30:00,Bourg-en-Bresse,Limoges,82,63,,,,,,,,,0,0
+2017-2018,Round 22,2018-03-10 18:00:00,AS Monaco Basket,Dijon,94,90,,,,,,,,,0,0
+2017-2018,Round 22,2018-03-10 19:00:00,Châlons-Reims,Strasbourg,80,72,,,,,,,,,0,0
+2017-2018,Round 22,2018-03-10 19:00:00,Cholet,ESSM Le Portel,76,84,,,,,,,,,0,0
+2017-2018,Round 22,2018-03-11 16:00:00,Nanterre,Lyon-Villeurbanne,81,80,,,,,,,,,0,0
+2017-2018,Round 22,2018-03-12 19:45:00,Gravelines-Dunkerque,Élan Chalon,81,86,,,,,,,,,0,0
+2017-2018,Round 23,2018-03-16 19:00:00,ESSM Le Portel,Boulazac Basket Dordogne,87,62,,,,,,,,,0,0
+2017-2018,Round 23,2018-03-16 19:30:00,Antibes Sharks,AS Monaco Basket,76,85,,,,,,,,,0,0
+2017-2018,Round 23,2018-03-16 19:30:00,Pau-Lacq-Orthez,Bourg-en-Bresse,93,82,,,,,,,,,0,0
+2017-2018,Round 23,2018-03-17 17:30:00,Levallois Metropolitans,Gravelines-Dunkerque,76,88,,,,,,,,,0,0
+2017-2018,Round 23,2018-03-17 19:00:00,Élan Chalon,Châlons-Reims,91,77,,,,,,,,,0,0
+2017-2018,Round 23,2018-03-17 19:00:00,Dijon,Lyon-Villeurbanne,92,89,,,,,,,,,0,0
+2017-2018,Round 23,2018-03-17 19:00:00,Le Mans Sarthe Basket,HTV Basket,92,80,,,,,,,,,0,0
+2017-2018,Round 23,2018-03-17 19:00:00,Limoges,Cholet,67,60,,,,,,,,,0,0
+2017-2018,Round 23,2018-03-18 17:30:00,Strasbourg,Nanterre,93,78,,,,,,,,,0,0
+2017-2018,Round 24,2018-03-19 19:45:00,Châlons-Reims,Le Mans Sarthe Basket,75,76,,,,,,,,,0,0
+2017-2018,Round 24,2018-03-20 19:00:00,Boulazac Basket Dordogne,Antibes Sharks,78,91,,,,,,,,,0,0
+2017-2018,Round 24,2018-03-20 19:00:00,Cholet,Levallois Metropolitans,63,65,,,,,,,,,0,0
+2017-2018,Round 24,2018-03-20 19:00:00,Gravelines-Dunkerque,Strasbourg,71,76,,,,,,,,,0,0
+2017-2018,Round 24,2018-03-20 19:00:00,Bourg-en-Bresse,Dijon,78,96,,,,,,,,,0,0
+2017-2018,Round 24,2018-03-20 19:00:00,Lyon-Villeurbanne,Élan Chalon,104,90,,,,,,,,,0,0
+2017-2018,Round 24,2018-03-20 19:45:00,Pau-Lacq-Orthez,Limoges,84,68,,,,,,,,,0,0
+2017-2018,Round 24,2018-03-21 19:45:00,AS Monaco Basket,Nanterre,91,70,,,,,,,,,0,0
+2017-2018,Round 24,2018-03-23 19:00:00,HTV Basket,ESSM Le Portel,67,80,,,,,,,,,0,0
+2017-2018,Round 26,2018-03-26 19:45:00,Bourg-en-Bresse,Le Mans Sarthe Basket,92,91,,,,,,,,,0,0
+2017-2018,Round 25,2018-03-30 19:30:00,Antibes Sharks,Gravelines-Dunkerque,88,81,,,,,,,,,0,0
+2017-2018,Round 25,2018-03-30 19:30:00,Dijon,Pau-Lacq-Orthez,102,81,,,,,,,,,0,0
+2017-2018,Round 25,2018-03-30 19:30:00,HTV Basket,Lyon-Villeurbanne,79,92,,,,,,,,,0,0
+2017-2018,Round 25,2018-03-31 17:30:00,Limoges,AS Monaco Basket,82,74,,,,,,,,,0,0
+2017-2018,Round 25,2018-03-31 19:00:00,ESSM Le Portel,Bourg-en-Bresse,67,63,,,,,,,,,0,0
+2017-2018,Round 25,2018-03-31 19:00:00,Nanterre,Châlons-Reims,73,72,,,,,,,,,0,0
+2017-2018,Round 25,2018-03-31 19:00:00,Strasbourg,Boulazac Basket Dordogne,88,75,,,,,,,,,0,0
+2017-2018,Round 25,2018-03-31 19:30:00,Élan Chalon,Cholet,84,66,,,,,,,,,0,0
+2017-2018,Round 25,2018-04-01 17:30:00,Le Mans Sarthe Basket,Levallois Metropolitans,90,82,,,,,,,,,0,0
+2017-2018,Round 26,2018-04-02 19:45:00,Lyon-Villeurbanne,Antibes Sharks,90,86,,,,,,,,,0,0
+2017-2018,Round 26,2018-04-03 19:00:00,Châlons-Reims,Cholet,89,73,,,,,,,,,0,0
+2017-2018,Round 26,2018-04-03 19:00:00,Pau-Lacq-Orthez,ESSM Le Portel,77,72,,,,,,,,,0,0
+2017-2018,Round 26,2018-04-03 19:30:00,Levallois Metropolitans,HTV Basket,93,75,,,,,,,,,0,0
+2017-2018,Round 26,2018-04-03 19:45:00,Gravelines-Dunkerque,Limoges,72,66,,,,,,,,,0,0
+2017-2018,Round 26,2018-04-04 19:45:00,Dijon,Nanterre,84,70,,,,,,,,,0,0
+2017-2018,Round 27,2018-04-06 19:30:00,Antibes Sharks,Élan Chalon,76,91,,,,,,,,,0,0
+2017-2018,Round 27,2018-04-06 19:30:00,HTV Basket,Bourg-en-Bresse,61,82,,,,,,,,,0,0
+2017-2018,Round 27,2018-04-07 17:30:00,Strasbourg,Levallois Metropolitans,95,80,,,,,,,,,0,0
+2017-2018,Round 27,2018-04-07 18:00:00,AS Monaco Basket,Châlons-Reims,92,83,,,,,,,,,0,0
+2017-2018,Round 27,2018-04-07 19:00:00,Cholet,Boulazac Basket Dordogne,79,87,,,,,,,,,0,0
+2017-2018,Round 27,2018-04-07 19:00:00,Limoges,Dijon,82,60,,,,,,,,,0,0
+2017-2018,Round 27,2018-04-07 19:00:00,Nanterre,Pau-Lacq-Orthez,69,87,,,,,,,,,0,0
+2017-2018,Round 27,2018-04-08 17:30:00,Le Mans Sarthe Basket,Lyon-Villeurbanne,90,92,,,,,,,,,0,0
+2017-2018,Round 27,2018-04-09 19:45:00,ESSM Le Portel,Gravelines-Dunkerque,69,80,,,,,,,,,0,0
+2017-2018,Round 26,2018-04-11 19:00:00,Boulazac Basket Dordogne,AS Monaco Basket,67,94,,,,,,,,,0,0
+2017-2018,Round 26,2018-04-11 19:00:00,Élan Chalon,Strasbourg,95,72,,,,,,,,,0,0
+2017-2018,Round 28,2018-04-13 19:00:00,Gravelines-Dunkerque,Châlons-Reims,97,83,,,,,,,,,0,0
+2017-2018,Round 28,2018-04-13 19:30:00,Levallois Metropolitans,ESSM Le Portel,82,76,,,,,,,,,0,0
+2017-2018,Round 28,2018-04-14 17:00:00,Pau-Lacq-Orthez,Le Mans Sarthe Basket,75,73,,,,,,,,,0,0
+2017-2018,Round 28,2018-04-14 19:00:00,Élan Chalon,Limoges,86,83,,,,,,,,,0,0
+2017-2018,Round 28,2018-04-14 19:00:00,Cholet,AS Monaco Basket,72,89,,,,,,,,,0,0
+2017-2018,Round 28,2018-04-14 19:00:00,Nanterre,HTV Basket,86,79,,,,,,,,,0,0
+2017-2018,Round 28,2018-04-14 19:30:00,Dijon,Antibes Sharks,77,62,,,,,,,,,0,0
+2017-2018,Round 28,2018-04-15 17:45:00,Lyon-Villeurbanne,Strasbourg,76,73,,,,,,,,,0,0
+2017-2018,Round 29,2018-04-16 19:45:00,Bourg-en-Bresse,Nanterre,78,89,,,,,,,,,0,0
+2017-2018,Round 29,2018-04-17 19:00:00,Châlons-Reims,ESSM Le Portel,83,75,,,,,,,,,0,0
+2017-2018,Round 29,2018-04-17 19:00:00,Pau-Lacq-Orthez,Gravelines-Dunkerque,86,80,,,,,,,,,0,0
+2017-2018,Round 29,2018-04-17 19:00:00,Le Mans Sarthe Basket,Dijon,88,65,,,,,,,,,0,0
+2017-2018,Round 29,2018-04-17 19:00:00,Limoges,Boulazac Basket Dordogne,87,68,,,,,,,,,0,0
+2017-2018,Round 29,2018-04-17 19:30:00,Antibes Sharks,Cholet,74,76,,,,,,,,,0,0
+2017-2018,Round 29,2018-04-17 19:30:00,HTV Basket,Élan Chalon,79,88,,,,,,,,,0,0
+2017-2018,Round 29,2018-04-17 19:45:00,Lyon-Villeurbanne,Levallois Metropolitans,77,82,,,,,,,,,0,0
+2017-2018,Round 29,2018-04-18 19:45:00,Strasbourg,AS Monaco Basket,71,90,,,,,,,,,0,0
+2017-2018,Round 30,2018-04-22 17:30:00,Levallois Metropolitans,Dijon,79,103,,,,,,,,,0,0
+2017-2018,Round 30,2018-04-23 19:45:00,Bourg-en-Bresse,Élan Chalon,96,90,,,,,,,,,0,0
+2017-2018,Round 30,2018-04-24 19:00:00,Boulazac Basket Dordogne,Nanterre,83,71,,,,,,,,,0,0
+2017-2018,Round 30,2018-04-24 19:00:00,Châlons-Reims,Lyon-Villeurbanne,90,99,,,,,,,,,0,0
+2017-2018,Round 30,2018-04-24 19:00:00,Cholet,Pau-Lacq-Orthez,86,76,,,,,,,,,0,0
+2017-2018,Round 30,2018-04-24 19:00:00,Gravelines-Dunkerque,Le Mans Sarthe Basket,68,76,,,,,,,,,0,0
+2017-2018,Round 30,2018-04-24 19:00:00,ESSM Le Portel,Antibes Sharks,84,82,,,,,,,,,0,0
+2017-2018,Round 30,2018-04-24 19:00:00,AS Monaco Basket,HTV Basket,92,70,,,,,,,,,0,0
+2017-2018,Round 30,2018-04-24 19:45:00,Strasbourg,Limoges,100,70,,,,,,,,,0,0
+2017-2018,Round 31,2018-04-27 19:30:00,Dijon,ESSM Le Portel,79,69,,,,,,,,,0,0
+2017-2018,Round 31,2018-04-27 19:30:00,HTV Basket,Châlons-Reims,62,85,,,,,,,,,0,0
+2017-2018,Round 31,2018-04-28 17:30:00,Élan Chalon,AS Monaco Basket,73,99,,,,,,,,,0,0
+2017-2018,Round 31,2018-04-28 19:00:00,Le Mans Sarthe Basket,Boulazac Basket Dordogne,94,69,,,,,,,,,0,0
+2017-2018,Round 31,2018-04-28 19:00:00,Lyon-Villeurbanne,Gravelines-Dunkerque,78,74,,,,,,,,,0,0
+2017-2018,Round 31,2018-04-28 19:00:00,Nanterre,Cholet,77,73,,,,,,,,,0,0
+2017-2018,Round 31,2018-04-28 19:30:00,Antibes Sharks,Bourg-en-Bresse,77,75,,,,,,,,,0,0
+2017-2018,Round 31,2018-04-29 17:30:00,Pau-Lacq-Orthez,Strasbourg,76,103,,,,,,,,,0,0
+2017-2018,Round 31,2018-04-30 19:45:00,Limoges,Levallois Metropolitans,79,66,,,,,,,,,0,0
+2017-2018,Round 32,2018-05-04 19:00:00,Châlons-Reims,Dijon,79,92,,,,,,,,,0,0
+2017-2018,Round 32,2018-05-04 19:00:00,ESSM Le Portel,Le Mans Sarthe Basket,86,79,,,,,,,,,0,0
+2017-2018,Round 32,2018-05-05 17:30:00,Levallois Metropolitans,Élan Chalon,83,72,,,,,,,,,0,0
+2017-2018,Round 32,2018-05-05 19:00:00,Boulazac Basket Dordogne,HTV Basket,71,62,,,,,,,,,0,0
+2017-2018,Round 32,2018-05-05 19:00:00,Cholet,Bourg-en-Bresse,69,73,,,,,,,,,0,0
+2017-2018,Round 32,2018-05-05 19:00:00,Strasbourg,Antibes Sharks,93,77,,,,,,,,,0,0
+2017-2018,Round 32,2018-05-06 17:30:00,Limoges,Lyon-Villeurbanne,78,52,,,,,,,,,0,0
+2017-2018,Round 32,2018-05-07 19:45:00,Gravelines-Dunkerque,Nanterre,81,85,,,,,,,,,0,0
+2017-2018,Round 28,2018-05-08 17:00:00,Boulazac Basket Dordogne,Bourg-en-Bresse,71,62,,,,,,,,,0,0
+2017-2018,Round 32,2018-05-09 18:00:00,AS Monaco Basket,Pau-Lacq-Orthez,85,86,,,,,,,,,0,0
+2017-2018,Round 33,2018-05-11 19:30:00,Antibes Sharks,Limoges,78,86,,,,,,,,,0,0
+2017-2018,Round 33,2018-05-11 19:30:00,HTV Basket,Cholet,80,86,,,,,,,,,0,0
+2017-2018,Round 33,2018-05-12 17:30:00,Le Mans Sarthe Basket,Strasbourg,70,80,,,,,,,,,0,0
+2017-2018,Round 33,2018-05-12 19:00:00,Élan Chalon,ESSM Le Portel,81,76,,,,,,,,,0,0
+2017-2018,Round 33,2018-05-12 19:00:00,Dijon,Gravelines-Dunkerque,97,82,,,,,,,,,0,0
+2017-2018,Round 33,2018-05-12 19:00:00,Pau-Lacq-Orthez,Boulazac Basket Dordogne,101,77,,,,,,,,,0,0
+2017-2018,Round 33,2018-05-12 19:00:00,Bourg-en-Bresse,Châlons-Reims,84,87,,,,,,,,,0,0
+2017-2018,Round 33,2018-05-12 19:00:00,Nanterre,Levallois Metropolitans,85,79,,,,,,,,,0,0
+2017-2018,Round 33,2018-05-12 19:45:00,Lyon-Villeurbanne,AS Monaco Basket,108,80,,,,,,,,,0,0
+2017-2018,Round 34,2018-05-15 19:45:00,Boulazac Basket Dordogne,Élan Chalon,96,86,,,,,,,,,0,0
+2017-2018,Round 34,2018-05-15 19:45:00,Châlons-Reims,Pau-Lacq-Orthez,102,94,,,,,,,,,0,0
+2017-2018,Round 34,2018-05-15 19:45:00,Cholet,Le Mans Sarthe Basket,81,80,,,,,,,,,0,0
+2017-2018,Round 34,2018-05-15 19:45:00,Gravelines-Dunkerque,HTV Basket,79,63,,,,,,,,,0,0
+2017-2018,Round 34,2018-05-15 19:45:00,ESSM Le Portel,Lyon-Villeurbanne,77,74,,,,,,,,,0,0
+2017-2018,Round 34,2018-05-15 19:45:00,Levallois Metropolitans,Antibes Sharks,78,86,,,,,,,,,0,0
+2017-2018,Round 34,2018-05-15 19:45:00,Limoges,Nanterre,82,80,,,,,,,,,0,0
+2017-2018,Round 34,2018-05-15 19:45:00,AS Monaco Basket,Bourg-en-Bresse,83,77,,,,,,,,,0,0
+2017-2018,Round 34,2018-05-15 19:45:00,Strasbourg,Dijon,93,77,,,,,,,,,0,0
+2017-2018,Round 0,2018-05-22 18:00:00,Le Mans Sarthe Basket,Lyon-Villeurbanne,68,81,,,,,,,,,0,0
+2017-2018,Round 0,2018-05-22 19:50:00,Strasbourg,Nanterre,83,56,,,,,,,,,0,0
+2017-2018,Round 0,2018-05-23 18:00:00,AS Monaco Basket,Pau-Lacq-Orthez,99,97,,,,,,,,,0,0
+2017-2018,Round 0,2018-05-23 19:50:00,Limoges,Dijon,79,75,,,,,,,,,0,0
+2017-2018,Round 0,2018-05-25 18:00:00,Lyon-Villeurbanne,Le Mans Sarthe Basket,67,72,,,,,,,,,0,0
+2017-2018,Round 0,2018-05-25 19:50:00,Nanterre,Strasbourg,70,77,,,,,,,,,0,0
+2017-2018,Round 0,2018-05-26 17:30:00,Pau-Lacq-Orthez,AS Monaco Basket,73,98,,,,,,,,,0,0
+2017-2018,Round 0,2018-05-26 19:30:00,Dijon,Limoges,64,81,,,,,,,,,0,0
+2017-2018,Round 0,2018-05-27 17:30:00,Le Mans Sarthe Basket,Lyon-Villeurbanne,79,68,,,,,,,,,0,0
+2017-2018,Round 0,2018-05-31 19:45:00,Strasbourg,Le Mans Sarthe Basket,76,66,,,,,,,,,0,0
+2017-2018,Round 0,2018-06-01 19:45:00,AS Monaco Basket,Limoges,88,71,,,,,,,,,0,0
+2017-2018,Round 0,2018-06-02 17:30:00,Strasbourg,Le Mans Sarthe Basket,71,80,,,,,,,,,0,0
+2017-2018,Round 0,2018-06-03 17:30:00,AS Monaco Basket,Limoges,78,71,,,,,,,,,0,0
+2017-2018,Round 0,2018-06-05 19:45:00,Le Mans Sarthe Basket,Strasbourg,80,60,,,,,,,,,0,0
+2017-2018,Round 0,2018-06-06 19:45:00,Limoges,AS Monaco Basket,76,71,,,,,,,,,0,0
+2017-2018,Round 0,2018-06-07 19:45:00,Le Mans Sarthe Basket,Strasbourg,82,89,,,,,,,,,0,0
+2017-2018,Round 0,2018-06-08 19:45:00,Limoges,AS Monaco Basket,83,94,,,,,,,,,0,0
+2017-2018,Round 0,2018-06-09 17:30:00,Strasbourg,Le Mans Sarthe Basket,79,85,,,,,,,,,0,0
+2017-2018,Round 0,2018-06-13 19:45:00,AS Monaco Basket,Le Mans Sarthe Basket,81,77,,,,,,,,,0,0
+2017-2018,Round 0,2018-06-15 19:45:00,AS Monaco Basket,Le Mans Sarthe Basket,77,87,,,,,,,,,0,0
+2017-2018,Round 0,2018-06-18 19:45:00,Le Mans Sarthe Basket,AS Monaco Basket,84,72,,,,,,,,,0,0
+2017-2018,Round 0,2018-06-20 19:45:00,Le Mans Sarthe Basket,AS Monaco Basket,69,78,,,,,,,,,0,0
+2017-2018,Round 0,2018-06-24 17:30:00,AS Monaco Basket,Le Mans Sarthe Basket,74,76,,,,,,,,,0,0

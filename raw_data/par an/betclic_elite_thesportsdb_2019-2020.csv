@@ -1,0 +1,288 @@
+saison,round,date,equipe_domicile,equipe_exterieur,score_domicile,score_exterieur,q1_domicile,q1_exterieur,q2_domicile,q2_exterieur,q3_domicile,q3_exterieur,q4_domicile,q4_exterieur,prolongation_domicile,prolongation_exterieur
+2019-2020,Round 3,2019-10-04 19:00:00,Châlons-Reims,Bourg-en-Bresse,79,81,,,,,,,,,0,0
+2019-2020,Round 3,2019-10-04 19:00:00,Dijon,Nanterre,84,80,,,,,,,,,0,0
+2019-2020,Round 3,2019-10-04 19:00:00,Gravelines-Dunkerque,Boulazac Basket Dordogne,108,106,,,,,,,,,0,0
+2019-2020,Round 3,2019-10-04 19:00:00,ESSM Le Portel,Strasbourg,72,103,,,,,,,,,0,0
+2019-2020,Round 3,2019-10-05 17:30:00,AS Monaco Basket,Chorale Roanne Basket,71,65,,,,,,,,,0,0
+2019-2020,Round 3,2019-10-05 19:00:00,Le Mans Sarthe Basket,Élan Chalon,88,80,,,,,,,,,0,0
+2019-2020,Round 3,2019-10-05 19:30:00,Orléans Loiret Basket,Pau-Lacq-Orthez,88,87,,,,,,,,,0,0
+2019-2020,Round 3,2019-10-06 15:00:00,Levallois Metropolitans,Limoges,108,106,,,,,,,,,0,0
+2019-2020,Round 3,2019-10-06 16:00:00,Lyon-Villeurbanne,Cholet,85,76,,,,,,,,,0,0
+2019-2020,Round 4,2019-10-11 19:00:00,Bourg-en-Bresse,Orléans Loiret Basket,90,79,,,,,,,,,0,0
+2019-2020,Round 4,2019-10-11 19:00:00,Chorale Roanne Basket,Gravelines-Dunkerque,81,109,,,,,,,,,0,0
+2019-2020,Round 4,2019-10-12 19:00:00,Cholet,Boulazac Basket Dordogne,94,90,,,,,,,,,0,0
+2019-2020,Round 4,2019-10-12 19:00:00,Pau-Lacq-Orthez,ESSM Le Portel,64,57,,,,,,,,,0,0
+2019-2020,Round 4,2019-10-12 19:00:00,Limoges,AS Monaco Basket,66,86,,,,,,,,,0,0
+2019-2020,Round 4,2019-10-12 19:00:00,Strasbourg,Levallois Metropolitans,81,97,,,,,,,,,0,0
+2019-2020,Round 4,2019-10-12 19:00:00,Élan Chalon,Châlons-Reims,75,83,,,,,,,,,0,0
+2019-2020,Round 4,2019-10-12 19:30:00,Nanterre,Le Mans Sarthe Basket,98,79,,,,,,,,,0,0
+2019-2020,Round 4,2019-10-13 15:00:00,Dijon,Lyon-Villeurbanne,70,79,,,,,,,,,0,0
+2019-2020,Round 5,2019-10-18 19:00:00,Châlons-Reims,Nanterre,98,91,,,,,,,,,0,0
+2019-2020,Round 5,2019-10-18 19:00:00,ESSM Le Portel,Chorale Roanne Basket,79,69,,,,,,,,,0,0
+2019-2020,Round 5,2019-10-18 19:00:00,Gravelines-Dunkerque,Élan Chalon,63,64,,,,,,,,,0,0
+2019-2020,Round 5,2019-10-19 17:00:00,Boulazac Basket Dordogne,AS Monaco Basket,74,70,,,,,,,,,0,0
+2019-2020,Round 5,2019-10-19 17:00:00,Le Mans Sarthe Basket,Limoges,102,84,,,,,,,,,0,0
+2019-2020,Round 5,2019-10-19 17:00:00,Levallois Metropolitans,Bourg-en-Bresse,88,78,,,,,,,,,0,0
+2019-2020,Round 5,2019-10-19 17:00:00,Orléans Loiret Basket,Dijon,65,85,,,,,,,,,0,0
+2019-2020,Round 5,2019-10-19 17:00:00,Strasbourg,Cholet,75,80,,,,,,,,,0,0
+2019-2020,Round 5,2019-10-20 15:00:00,Lyon-Villeurbanne,Pau-Lacq-Orthez,76,68,,,,,,,,,0,0
+2019-2020,Round 6,2019-10-26 17:00:00,Cholet,ESSM Le Portel,80,72,,,,,,,,,0,0
+2019-2020,Round 6,2019-10-26 17:00:00,Dijon,Gravelines-Dunkerque,95,76,,,,,,,,,0,0
+2019-2020,Round 6,2019-10-26 17:00:00,Bourg-en-Bresse,Le Mans Sarthe Basket,86,55,,,,,,,,,0,0
+2019-2020,Round 6,2019-10-26 17:00:00,Limoges,Châlons-Reims,92,79,,,,,,,,,0,0
+2019-2020,Round 6,2019-10-26 17:00:00,AS Monaco Basket,Strasbourg,86,70,,,,,,,,,0,0
+2019-2020,Round 6,2019-10-26 17:00:00,Nanterre,Orléans Loiret Basket,63,68,,,,,,,,,0,0
+2019-2020,Round 6,2019-10-26 17:00:00,Élan Chalon,Boulazac Basket Dordogne,71,85,,,,,,,,,0,0
+2019-2020,Round 6,2019-10-27 15:00:00,Pau-Lacq-Orthez,Levallois Metropolitans,110,114,,,,,,,,,0,0
+2019-2020,Round 6,2019-10-27 18:00:00,Chorale Roanne Basket,Lyon-Villeurbanne,69,73,,,,,,,,,0,0
+2019-2020,Round 11,2019-10-29 17:00:00,Boulazac Basket Dordogne,Levallois Metropolitans,97,101,,,,,,,,,0,0
+2019-2020,Round 7,2019-11-02 17:00:00,Boulazac Basket Dordogne,Nanterre,91,62,,,,,,,,,0,0
+2019-2020,Round 7,2019-11-02 17:00:00,Châlons-Reims,Dijon,86,88,,,,,,,,,0,0
+2019-2020,Round 7,2019-11-02 17:00:00,Gravelines-Dunkerque,Limoges,92,80,,,,,,,,,0,0
+2019-2020,Round 7,2019-11-02 17:00:00,Le Mans Sarthe Basket,AS Monaco Basket,73,66,,,,,,,,,0,0
+2019-2020,Round 7,2019-11-02 17:00:00,ESSM Le Portel,Bourg-en-Bresse,74,90,,,,,,,,,0,0
+2019-2020,Round 7,2019-11-02 17:00:00,Levallois Metropolitans,Chorale Roanne Basket,86,83,,,,,,,,,0,0
+2019-2020,Round 7,2019-11-02 17:00:00,Orléans Loiret Basket,Cholet,80,83,,,,,,,,,0,0
+2019-2020,Round 7,2019-11-02 17:00:00,Strasbourg,Pau-Lacq-Orthez,69,65,,,,,,,,,0,0
+2019-2020,Round 7,2019-11-03 17:30:00,Lyon-Villeurbanne,Élan Chalon,95,70,,,,,,,,,0,0
+2019-2020,Round 8,2019-11-09 17:00:00,Châlons-Reims,Boulazac Basket Dordogne,100,89,,,,,,,,,0,0
+2019-2020,Round 8,2019-11-09 17:00:00,Cholet,Bourg-en-Bresse,88,60,,,,,,,,,0,0
+2019-2020,Round 8,2019-11-09 17:00:00,Le Mans Sarthe Basket,Gravelines-Dunkerque,70,74,,,,,,,,,0,0
+2019-2020,Round 8,2019-11-09 17:00:00,ESSM Le Portel,Levallois Metropolitans,98,79,,,,,,,,,0,0
+2019-2020,Round 8,2019-11-09 17:00:00,AS Monaco Basket,Orléans Loiret Basket,108,76,,,,,,,,,0,0
+2019-2020,Round 8,2019-11-09 17:00:00,Chorale Roanne Basket,Strasbourg,83,84,,,,,,,,,0,0
+2019-2020,Round 8,2019-11-09 17:00:00,Élan Chalon,Dijon,78,90,,,,,,,,,0,0
+2019-2020,Round 8,2019-11-10 15:00:00,Limoges,Pau-Lacq-Orthez,77,70,,,,,,,,,0,0
+2019-2020,Round 9,2019-11-16 17:00:00,Boulazac Basket Dordogne,Limoges,84,81,,,,,,,,,0,0
+2019-2020,Round 9,2019-11-16 17:00:00,Dijon,AS Monaco Basket,71,85,,,,,,,,,0,0
+2019-2020,Round 9,2019-11-16 17:00:00,Pau-Lacq-Orthez,Cholet,82,83,,,,,,,,,0,0
+2019-2020,Round 9,2019-11-16 17:00:00,Gravelines-Dunkerque,Châlons-Reims,71,74,,,,,,,,,0,0
+2019-2020,Round 9,2019-11-16 17:00:00,Orléans Loiret Basket,ESSM Le Portel,110,62,,,,,,,,,0,0
+2019-2020,Round 9,2019-11-16 17:00:00,Chorale Roanne Basket,Le Mans Sarthe Basket,100,84,,,,,,,,,0,0
+2019-2020,Round 9,2019-11-16 17:00:00,Strasbourg,Élan Chalon,95,75,,,,,,,,,0,0
+2019-2020,Round 9,2019-11-17 17:00:00,Bourg-en-Bresse,Lyon-Villeurbanne,82,85,,,,,,,,,0,0
+2019-2020,Round 9,2019-11-17 17:00:00,Nanterre,Levallois Metropolitans,66,81,,,,,,,,,0,0
+2019-2020,Round 10,2019-11-23 17:00:00,Cholet,Dijon,72,85,,,,,,,,,0,0
+2019-2020,Round 10,2019-11-23 17:00:00,Pau-Lacq-Orthez,Gravelines-Dunkerque,89,80,,,,,,,,,0,0
+2019-2020,Round 10,2019-11-23 17:00:00,Le Mans Sarthe Basket,Strasbourg,82,90,,,,,,,,,0,0
+2019-2020,Round 10,2019-11-23 17:00:00,Limoges,Orléans Loiret Basket,99,87,,,,,,,,,0,0
+2019-2020,Round 10,2019-11-23 17:00:00,Lyon-Villeurbanne,Châlons-Reims,83,76,,,,,,,,,0,0
+2019-2020,Round 10,2019-11-23 17:00:00,AS Monaco Basket,Nanterre,79,69,,,,,,,,,0,0
+2019-2020,Round 10,2019-11-23 17:00:00,Levallois Metropolitans,Élan Chalon,92,88,,,,,,,,,0,0
+2019-2020,Round 10,2019-11-23 19:00:00,ESSM Le Portel,Boulazac Basket Dordogne,97,88,,,,,,,,,0,0
+2019-2020,Round 11,2019-11-30 17:00:00,Châlons-Reims,AS Monaco Basket,89,100,,,,,,,,,0,0
+2019-2020,Round 11,2019-11-30 17:00:00,Dijon,Le Mans Sarthe Basket,100,74,,,,,,,,,0,0
+2019-2020,Round 11,2019-11-30 17:00:00,Gravelines-Dunkerque,Cholet,73,79,,,,,,,,,0,0
+2019-2020,Round 11,2019-11-30 17:00:00,Lyon-Villeurbanne,ESSM Le Portel,94,69,,,,,,,,,0,0
+2019-2020,Round 11,2019-11-30 17:00:00,Nanterre,Limoges,93,71,,,,,,,,,0,0
+2019-2020,Round 11,2019-11-30 17:00:00,Orléans Loiret Basket,Strasbourg,77,86,,,,,,,,,0,0
+2019-2020,Round 11,2019-11-30 17:00:00,Chorale Roanne Basket,Pau-Lacq-Orthez,97,100,,,,,,,,,0,0
+2019-2020,Round 11,2019-11-30 17:00:00,Élan Chalon,Bourg-en-Bresse,64,79,,,,,,,,,0,0
+2019-2020,Round 10,2019-12-03 17:00:00,Bourg-en-Bresse,Chorale Roanne Basket,83,71,,,,,,,,,0,0
+2019-2020,Round 8,2019-12-04 17:00:00,Nanterre,Lyon-Villeurbanne,66,91,,,,,,,,,0,0
+2019-2020,Round 12,2019-12-07 17:00:00,Cholet,Châlons-Reims,76,68,,,,,,,,,0,0
+2019-2020,Round 12,2019-12-07 17:00:00,Pau-Lacq-Orthez,AS Monaco Basket,75,101,,,,,,,,,0,0
+2019-2020,Round 12,2019-12-07 17:00:00,Bourg-en-Bresse,Dijon,73,101,,,,,,,,,0,0
+2019-2020,Round 12,2019-12-07 17:00:00,ESSM Le Portel,Le Mans Sarthe Basket,76,85,,,,,,,,,0,0
+2019-2020,Round 12,2019-12-07 17:00:00,Orléans Loiret Basket,Gravelines-Dunkerque,90,78,,,,,,,,,0,0
+2019-2020,Round 12,2019-12-07 17:00:00,Chorale Roanne Basket,Boulazac Basket Dordogne,83,68,,,,,,,,,0,0
+2019-2020,Round 12,2019-12-07 17:00:00,Strasbourg,Nanterre,90,93,,,,,,,,,0,0
+2019-2020,Round 12,2019-12-07 17:00:00,Limoges,Élan Chalon,75,73,,,,,,,,,0,0
+2019-2020,Round 12,2019-12-08 17:00:00,Levallois Metropolitans,Lyon-Villeurbanne,76,86,,,,,,,,,0,0
+2019-2020,Round 13,2019-12-14 17:00:00,Boulazac Basket Dordogne,Pau-Lacq-Orthez,83,84,,,,,,,,,0,0
+2019-2020,Round 13,2019-12-14 17:00:00,Châlons-Reims,Chorale Roanne Basket,74,76,,,,,,,,,0,0
+2019-2020,Round 13,2019-12-14 17:00:00,Dijon,Limoges,79,73,,,,,,,,,0,0
+2019-2020,Round 13,2019-12-14 17:00:00,Gravelines-Dunkerque,Strasbourg,73,91,,,,,,,,,0,0
+2019-2020,Round 13,2019-12-14 17:00:00,Le Mans Sarthe Basket,Cholet,81,75,,,,,,,,,0,0
+2019-2020,Round 13,2019-12-14 17:00:00,Nanterre,Bourg-en-Bresse,85,70,,,,,,,,,0,0
+2019-2020,Round 13,2019-12-14 17:00:00,Élan Chalon,ESSM Le Portel,95,84,,,,,,,,,0,0
+2019-2020,Round 13,2019-12-15 15:00:00,AS Monaco Basket,Levallois Metropolitans,98,67,,,,,,,,,0,0
+2019-2020,Round 13,2019-12-15 16:00:00,Lyon-Villeurbanne,Orléans Loiret Basket,97,80,,,,,,,,,0,0
+2019-2020,Round 14,2019-12-21 17:00:00,Cholet,Limoges,90,79,,,,,,,,,0,0
+2019-2020,Round 14,2019-12-21 17:00:00,Bourg-en-Bresse,Gravelines-Dunkerque,89,80,,,,,,,,,0,0
+2019-2020,Round 14,2019-12-21 17:00:00,ESSM Le Portel,AS Monaco Basket,60,83,,,,,,,,,0,0
+2019-2020,Round 14,2019-12-21 17:00:00,Levallois Metropolitans,Dijon,64,72,,,,,,,,,0,0
+2019-2020,Round 14,2019-12-21 17:00:00,Orléans Loiret Basket,Le Mans Sarthe Basket,91,99,,,,,,,,,0,0
+2019-2020,Round 14,2019-12-21 17:00:00,Chorale Roanne Basket,Nanterre,79,102,,,,,,,,,0,0
+2019-2020,Round 14,2019-12-21 17:00:00,Strasbourg,Châlons-Reims,69,83,,,,,,,,,0,0
+2019-2020,Round 14,2019-12-21 17:00:00,Pau-Lacq-Orthez,Élan Chalon,92,86,,,,,,,,,0,0
+2019-2020,Round 15,2019-12-23 17:00:00,Boulazac Basket Dordogne,Orléans Loiret Basket,93,97,,,,,,,,,0,0
+2019-2020,Round 15,2019-12-23 17:00:00,Châlons-Reims,ESSM Le Portel,97,87,,,,,,,,,0,0
+2019-2020,Round 15,2019-12-23 17:00:00,Dijon,Pau-Lacq-Orthez,96,57,,,,,,,,,0,0
+2019-2020,Round 15,2019-12-23 17:00:00,Gravelines-Dunkerque,Levallois Metropolitans,70,80,,,,,,,,,0,0
+2019-2020,Round 15,2019-12-23 17:00:00,Le Mans Sarthe Basket,Lyon-Villeurbanne,85,74,,,,,,,,,0,0
+2019-2020,Round 15,2019-12-23 17:00:00,Limoges,Strasbourg,77,61,,,,,,,,,0,0
+2019-2020,Round 15,2019-12-23 17:00:00,AS Monaco Basket,Bourg-en-Bresse,94,89,,,,,,,,,0,0
+2019-2020,Round 15,2019-12-23 17:00:00,Nanterre,Cholet,86,101,,,,,,,,,0,0
+2019-2020,Round 15,2019-12-23 17:00:00,Élan Chalon,Chorale Roanne Basket,85,84,,,,,,,,,0,0
+2019-2020,Round 16,2019-12-26 17:30:00,Strasbourg,Dijon,72,82,,,,,,,,,0,0
+2019-2020,Round 16,2019-12-27 17:00:00,Cholet,AS Monaco Basket,71,84,,,,,,,,,0,0
+2019-2020,Round 16,2019-12-27 17:00:00,Pau-Lacq-Orthez,Le Mans Sarthe Basket,85,64,,,,,,,,,0,0
+2019-2020,Round 16,2019-12-27 17:00:00,Bourg-en-Bresse,Boulazac Basket Dordogne,96,72,,,,,,,,,0,0
+2019-2020,Round 16,2019-12-27 17:00:00,ESSM Le Portel,Nanterre,76,85,,,,,,,,,0,0
+2019-2020,Round 16,2019-12-27 17:00:00,Levallois Metropolitans,Châlons-Reims,121,115,,,,,,,,,0,0
+2019-2020,Round 16,2019-12-27 17:00:00,Chorale Roanne Basket,Limoges,73,89,,,,,,,,,0,0
+2019-2020,Round 16,2019-12-27 17:00:00,Orléans Loiret Basket,Élan Chalon,125,129,,,,,,,,,0,0
+2019-2020,Round 16,2019-12-28 16:00:00,Lyon-Villeurbanne,Gravelines-Dunkerque,103,86,,,,,,,,,0,0
+2019-2020,Round 17,2020-01-04 17:00:00,Boulazac Basket Dordogne,Strasbourg,80,86,,,,,,,,,0,0
+2019-2020,Round 17,2020-01-04 17:00:00,Châlons-Reims,Orléans Loiret Basket,91,99,,,,,,,,,0,0
+2019-2020,Round 17,2020-01-04 17:00:00,Dijon,Chorale Roanne Basket,74,77,,,,,,,,,0,0
+2019-2020,Round 17,2020-01-04 17:00:00,Gravelines-Dunkerque,ESSM Le Portel,64,58,,,,,,,,,0,0
+2019-2020,Round 17,2020-01-04 17:00:00,Le Mans Sarthe Basket,Levallois Metropolitans,104,83,,,,,,,,,0,0
+2019-2020,Round 17,2020-01-04 17:00:00,Limoges,Bourg-en-Bresse,80,83,,,,,,,,,0,0
+2019-2020,Round 17,2020-01-04 17:00:00,AS Monaco Basket,Lyon-Villeurbanne,79,59,,,,,,,,,0,0
+2019-2020,Round 17,2020-01-04 17:00:00,Nanterre,Pau-Lacq-Orthez,101,89,,,,,,,,,0,0
+2019-2020,Round 17,2020-01-04 17:00:00,Élan Chalon,Cholet,89,79,,,,,,,,,0,0
+2019-2020,Round 18,2020-01-11 17:00:00,Cholet,Gravelines-Dunkerque,83,65,,,,,,,,,0,0
+2019-2020,Round 18,2020-01-11 17:00:00,Pau-Lacq-Orthez,Orléans Loiret Basket,82,60,,,,,,,,,0,0
+2019-2020,Round 18,2020-01-11 17:00:00,Le Mans Sarthe Basket,Boulazac Basket Dordogne,99,78,,,,,,,,,0,0
+2019-2020,Round 18,2020-01-11 17:00:00,ESSM Le Portel,Dijon,84,86,,,,,,,,,0,0
+2019-2020,Round 18,2020-01-11 17:00:00,Levallois Metropolitans,Nanterre,101,90,,,,,,,,,0,0
+2019-2020,Round 18,2020-01-11 17:00:00,Chorale Roanne Basket,Châlons-Reims,96,89,,,,,,,,,0,0
+2019-2020,Round 18,2020-01-11 17:00:00,Strasbourg,AS Monaco Basket,83,98,,,,,,,,,0,0
+2019-2020,Round 18,2020-01-11 17:00:00,Bourg-en-Bresse,Élan Chalon,109,85,,,,,,,,,0,0
+2019-2020,Round 18,2020-01-12 15:00:00,Limoges,Lyon-Villeurbanne,69,75,,,,,,,,,0,0
+2019-2020,Round 19,2020-01-18 17:00:00,Boulazac Basket Dordogne,ESSM Le Portel,80,74,,,,,,,,,0,0
+2019-2020,Round 19,2020-01-18 17:00:00,Châlons-Reims,Le Mans Sarthe Basket,78,87,,,,,,,,,0,0
+2019-2020,Round 19,2020-01-18 17:00:00,Dijon,Cholet,97,68,,,,,,,,,0,0
+2019-2020,Round 19,2020-01-18 17:00:00,Gravelines-Dunkerque,Chorale Roanne Basket,90,61,,,,,,,,,0,0
+2019-2020,Round 19,2020-01-18 17:00:00,AS Monaco Basket,Pau-Lacq-Orthez,89,76,,,,,,,,,0,0
+2019-2020,Round 19,2020-01-18 17:00:00,Nanterre,Strasbourg,85,70,,,,,,,,,0,0
+2019-2020,Round 19,2020-01-18 17:00:00,Orléans Loiret Basket,Limoges,78,84,,,,,,,,,0,0
+2019-2020,Round 19,2020-01-18 17:00:00,Élan Chalon,Levallois Metropolitans,90,98,,,,,,,,,0,0
+2019-2020,Round 19,2020-01-19 15:00:00,Lyon-Villeurbanne,Bourg-en-Bresse,104,71,,,,,,,,,0,0
+2019-2020,Round 20,2020-01-25 17:00:00,Pau-Lacq-Orthez,Châlons-Reims,75,82,,,,,,,,,0,0
+2019-2020,Round 20,2020-01-25 17:00:00,Gravelines-Dunkerque,Dijon,80,88,,,,,,,,,0,0
+2019-2020,Round 20,2020-01-25 17:00:00,Bourg-en-Bresse,ESSM Le Portel,94,82,,,,,,,,,0,0
+2019-2020,Round 20,2020-01-25 17:00:00,Le Mans Sarthe Basket,Nanterre,79,85,,,,,,,,,0,0
+2019-2020,Round 20,2020-01-25 17:00:00,Levallois Metropolitans,AS Monaco Basket,80,71,,,,,,,,,0,0
+2019-2020,Round 20,2020-01-25 17:00:00,Limoges,Boulazac Basket Dordogne,88,75,,,,,,,,,0,0
+2019-2020,Round 20,2020-01-25 17:00:00,Strasbourg,Orléans Loiret Basket,77,80,,,,,,,,,0,0
+2019-2020,Round 20,2020-01-26 17:00:00,Cholet,Lyon-Villeurbanne,80,91,,,,,,,,,0,0
+2019-2020,Round 20,2020-01-26 17:00:00,Chorale Roanne Basket,Élan Chalon,108,94,,,,,,,,,0,0
+2019-2020,Round 21,2020-02-01 17:00:00,Châlons-Reims,Lyon-Villeurbanne,66,68,,,,,,,,,0,0
+2019-2020,Round 21,2020-02-01 17:00:00,Pau-Lacq-Orthez,Strasbourg,74,73,,,,,,,,,0,0
+2019-2020,Round 21,2020-02-01 17:00:00,ESSM Le Portel,Cholet,71,78,,,,,,,,,0,0
+2019-2020,Round 21,2020-02-01 17:00:00,Limoges,Gravelines-Dunkerque,77,71,,,,,,,,,0,0
+2019-2020,Round 21,2020-02-01 17:00:00,AS Monaco Basket,Boulazac Basket Dordogne,86,71,,,,,,,,,0,0
+2019-2020,Round 21,2020-02-01 17:00:00,Nanterre,Chorale Roanne Basket,108,79,,,,,,,,,0,0
+2019-2020,Round 21,2020-02-01 17:00:00,Orléans Loiret Basket,Levallois Metropolitans,85,84,,,,,,,,,0,0
+2019-2020,Round 21,2020-02-01 17:00:00,Élan Chalon,Le Mans Sarthe Basket,84,83,,,,,,,,,0,0
+2019-2020,Round 21,2020-02-02 17:00:00,Dijon,Bourg-en-Bresse,84,70,,,,,,,,,0,0
+2019-2020,Round 22,2020-02-08 17:00:00,Cholet,Orléans Loiret Basket,70,67,,,,,,,,,0,0
+2019-2020,Round 22,2020-02-08 17:00:00,Gravelines-Dunkerque,AS Monaco Basket,63,79,,,,,,,,,0,0
+2019-2020,Round 22,2020-02-08 17:00:00,Le Mans Sarthe Basket,ESSM Le Portel,109,80,,,,,,,,,0,0
+2019-2020,Round 22,2020-02-08 17:00:00,Nanterre,Châlons-Reims,104,84,,,,,,,,,0,0
+2019-2020,Round 22,2020-02-08 17:00:00,Chorale Roanne Basket,Dijon,87,93,,,,,,,,,0,0
+2019-2020,Round 22,2020-02-08 17:00:00,Strasbourg,Limoges,105,100,,,,,,,,,0,0
+2019-2020,Round 22,2020-02-08 17:00:00,Boulazac Basket Dordogne,Élan Chalon,70,73,,,,,,,,,0,0
+2019-2020,Round 22,2020-02-08 19:00:00,Bourg-en-Bresse,Pau-Lacq-Orthez,84,62,,,,,,,,,0,0
+2019-2020,Round 22,2020-02-09 17:00:00,Lyon-Villeurbanne,Levallois Metropolitans,69,79,,,,,,,,,0,0
+2019-2020,Round 23,2020-02-10 17:00:00,ESSM Le Portel,Gravelines-Dunkerque,80,61,,,,,,,,,0,0
+2019-2020,Round 23,2020-02-11 17:30:00,AS Monaco Basket,Châlons-Reims,88,74,,,,,,,,,0,0
+2019-2020,Round 23,2020-02-11 19:00:00,Boulazac Basket Dordogne,Chorale Roanne Basket,96,77,,,,,,,,,0,0
+2019-2020,Round 23,2020-02-11 19:00:00,Pau-Lacq-Orthez,Dijon,64,81,,,,,,,,,0,0
+2019-2020,Round 23,2020-02-11 19:00:00,Bourg-en-Bresse,Cholet,,,,,,,,,,,0,0
+2019-2020,Round 23,2020-02-11 19:00:00,Limoges,Le Mans Sarthe Basket,78,55,,,,,,,,,0,0
+2019-2020,Round 23,2020-02-11 19:00:00,Orléans Loiret Basket,Nanterre,79,78,,,,,,,,,0,0
+2019-2020,Round 23,2020-02-11 19:00:00,Élan Chalon,Lyon-Villeurbanne,99,96,,,,,,,,,0,0
+2019-2020,Round 23,2020-02-11 19:45:00,Levallois Metropolitans,Strasbourg,97,89,,,,,,,,,0,0
+2019-2020,Round 24,2020-02-29 17:00:00,Châlons-Reims,Limoges,80,77,,,,,,,,,0,0
+2019-2020,Round 24,2020-02-29 17:00:00,Dijon,Orléans Loiret Basket,90,71,,,,,,,,,0,0
+2019-2020,Round 24,2020-02-29 17:00:00,Gravelines-Dunkerque,Pau-Lacq-Orthez,64,59,,,,,,,,,0,0
+2019-2020,Round 24,2020-02-29 17:00:00,Le Mans Sarthe Basket,Bourg-en-Bresse,91,93,,,,,,,,,0,0
+2019-2020,Round 24,2020-02-29 17:00:00,Lyon-Villeurbanne,AS Monaco Basket,,,,,,,,,,,0,0
+2019-2020,Round 24,2020-02-29 17:00:00,Nanterre,Boulazac Basket Dordogne,85,78,,,,,,,,,0,0
+2019-2020,Round 24,2020-02-29 17:00:00,Chorale Roanne Basket,Levallois Metropolitans,116,108,,,,,,,,,0,0
+2019-2020,Round 24,2020-02-29 17:00:00,Strasbourg,ESSM Le Portel,,,,,,,,,,,0,0
+2019-2020,Round 24,2020-02-29 17:00:00,Cholet,Élan Chalon,93,99,,,,,,,,,0,0
+2019-2020,Round 25,2020-03-07 17:00:00,Boulazac Basket Dordogne,Châlons-Reims,94,84,,,,,,,,,0,0
+2019-2020,Round 25,2020-03-07 17:00:00,ESSM Le Portel,Pau-Lacq-Orthez,84,85,,,,,,,,,0,0
+2019-2020,Round 25,2020-03-07 17:00:00,Levallois Metropolitans,Gravelines-Dunkerque,88,63,,,,,,,,,0,0
+2019-2020,Round 25,2020-03-07 17:00:00,Limoges,Cholet,79,74,,,,,,,,,0,0
+2019-2020,Round 25,2020-03-07 17:00:00,AS Monaco Basket,Dijon,80,67,,,,,,,,,0,0
+2019-2020,Round 25,2020-03-07 17:00:00,Orléans Loiret Basket,Chorale Roanne Basket,105,72,,,,,,,,,0,0
+2019-2020,Round 25,2020-03-07 17:00:00,Élan Chalon,Strasbourg,79,82,,,,,,,,,0,0
+2019-2020,Round 25,2020-03-08 15:00:00,Bourg-en-Bresse,Nanterre,85,89,,,,,,,,,0,0
+2019-2020,Round 25,2020-03-08 17:00:00,Lyon-Villeurbanne,Le Mans Sarthe Basket,101,85,,,,,,,,,0,0
+2019-2020,Round 26,2020-03-14 17:00:00,Cholet,Le Mans Sarthe Basket,,,,,,,,,,,0,0
+2019-2020,Round 26,2020-03-14 17:00:00,Dijon,Levallois Metropolitans,,,,,,,,,,,0,0
+2019-2020,Round 26,2020-03-14 17:00:00,Pau-Lacq-Orthez,Lyon-Villeurbanne,,,,,,,,,,,0,0
+2019-2020,Round 26,2020-03-14 17:00:00,Gravelines-Dunkerque,Orléans Loiret Basket,,,,,,,,,,,0,0
+2019-2020,Round 26,2020-03-14 17:00:00,ESSM Le Portel,Limoges,,,,,,,,,,,0,0
+2019-2020,Round 26,2020-03-14 17:00:00,Nanterre,AS Monaco Basket,,,,,,,,,,,0,0
+2019-2020,Round 26,2020-03-14 17:00:00,Chorale Roanne Basket,Bourg-en-Bresse,,,,,,,,,,,0,0
+2019-2020,Round 26,2020-03-14 17:00:00,Strasbourg,Boulazac Basket Dordogne,,,,,,,,,,,0,0
+2019-2020,Round 26,2020-03-14 17:00:00,Châlons-Reims,Élan Chalon,,,,,,,,,,,0,0
+2019-2020,Round 27,2020-03-28 17:00:00,Boulazac Basket Dordogne,Gravelines-Dunkerque,,,,,,,,,,,0,0
+2019-2020,Round 27,2020-03-28 17:00:00,Châlons-Reims,Strasbourg,,,,,,,,,,,0,0
+2019-2020,Round 27,2020-03-28 17:00:00,Le Mans Sarthe Basket,Dijon,,,,,,,,,,,0,0
+2019-2020,Round 27,2020-03-28 17:00:00,Levallois Metropolitans,ESSM Le Portel,,,,,,,,,,,0,0
+2019-2020,Round 27,2020-03-28 17:00:00,Limoges,Nanterre,,,,,,,,,,,0,0
+2019-2020,Round 27,2020-03-28 17:00:00,Lyon-Villeurbanne,Chorale Roanne Basket,,,,,,,,,,,0,0
+2019-2020,Round 27,2020-03-28 17:00:00,AS Monaco Basket,Cholet,,,,,,,,,,,0,0
+2019-2020,Round 27,2020-03-28 17:00:00,Orléans Loiret Basket,Bourg-en-Bresse,,,,,,,,,,,0,0
+2019-2020,Round 27,2020-03-28 17:00:00,Élan Chalon,Pau-Lacq-Orthez,,,,,,,,,,,0,0
+2019-2020,Round 28,2020-04-04 17:00:00,Boulazac Basket Dordogne,Lyon-Villeurbanne,,,,,,,,,,,0,0
+2019-2020,Round 28,2020-04-04 17:00:00,Cholet,Strasbourg,,,,,,,,,,,0,0
+2019-2020,Round 28,2020-04-04 17:00:00,Dijon,Châlons-Reims,,,,,,,,,,,0,0
+2019-2020,Round 28,2020-04-04 17:00:00,Pau-Lacq-Orthez,Limoges,,,,,,,,,,,0,0
+2019-2020,Round 28,2020-04-04 17:00:00,Gravelines-Dunkerque,Le Mans Sarthe Basket,,,,,,,,,,,0,0
+2019-2020,Round 28,2020-04-04 17:00:00,Bourg-en-Bresse,Levallois Metropolitans,,,,,,,,,,,0,0
+2019-2020,Round 28,2020-04-04 17:00:00,ESSM Le Portel,Orléans Loiret Basket,,,,,,,,,,,0,0
+2019-2020,Round 28,2020-04-04 17:00:00,Chorale Roanne Basket,AS Monaco Basket,,,,,,,,,,,0,0
+2019-2020,Round 28,2020-04-04 17:00:00,Nanterre,Élan Chalon,,,,,,,,,,,0,0
+2019-2020,Round 29,2020-04-11 17:00:00,Châlons-Reims,Cholet,,,,,,,,,,,0,0
+2019-2020,Round 29,2020-04-11 17:00:00,Le Mans Sarthe Basket,Chorale Roanne Basket,,,,,,,,,,,0,0
+2019-2020,Round 29,2020-04-11 17:00:00,Levallois Metropolitans,Pau-Lacq-Orthez,,,,,,,,,,,0,0
+2019-2020,Round 29,2020-04-11 17:00:00,Limoges,Dijon,,,,,,,,,,,0,0
+2019-2020,Round 29,2020-04-11 17:00:00,Lyon-Villeurbanne,Nanterre,,,,,,,,,,,0,0
+2019-2020,Round 29,2020-04-11 17:00:00,AS Monaco Basket,ESSM Le Portel,,,,,,,,,,,0,0
+2019-2020,Round 29,2020-04-11 17:00:00,Orléans Loiret Basket,Boulazac Basket Dordogne,,,,,,,,,,,0,0
+2019-2020,Round 29,2020-04-11 17:00:00,Strasbourg,Bourg-en-Bresse,,,,,,,,,,,0,0
+2019-2020,Round 29,2020-04-11 17:00:00,Élan Chalon,Gravelines-Dunkerque,,,,,,,,,,,0,0
+2019-2020,Round 30,2020-04-18 17:00:00,Dijon,Strasbourg,,,,,,,,,,,0,0
+2019-2020,Round 30,2020-04-18 17:00:00,Pau-Lacq-Orthez,Boulazac Basket Dordogne,,,,,,,,,,,0,0
+2019-2020,Round 30,2020-04-18 17:00:00,Gravelines-Dunkerque,Nanterre,,,,,,,,,,,0,0
+2019-2020,Round 30,2020-04-18 17:00:00,Bourg-en-Bresse,Châlons-Reims,,,,,,,,,,,0,0
+2019-2020,Round 30,2020-04-18 17:00:00,ESSM Le Portel,Lyon-Villeurbanne,,,,,,,,,,,0,0
+2019-2020,Round 30,2020-04-18 17:00:00,Levallois Metropolitans,Le Mans Sarthe Basket,,,,,,,,,,,0,0
+2019-2020,Round 30,2020-04-18 17:00:00,Orléans Loiret Basket,AS Monaco Basket,,,,,,,,,,,0,0
+2019-2020,Round 30,2020-04-18 17:00:00,Chorale Roanne Basket,Cholet,,,,,,,,,,,0,0
+2019-2020,Round 30,2020-04-18 17:00:00,Élan Chalon,Limoges,,,,,,,,,,,0,0
+2019-2020,Round 31,2020-04-21 17:00:00,Boulazac Basket Dordogne,Bourg-en-Bresse,,,,,,,,,,,0,0
+2019-2020,Round 31,2020-04-21 17:00:00,Châlons-Reims,Levallois Metropolitans,,,,,,,,,,,0,0
+2019-2020,Round 31,2020-04-21 17:00:00,Cholet,Pau-Lacq-Orthez,,,,,,,,,,,0,0
+2019-2020,Round 31,2020-04-21 17:00:00,Le Mans Sarthe Basket,Orléans Loiret Basket,,,,,,,,,,,0,0
+2019-2020,Round 31,2020-04-21 17:00:00,Limoges,Chorale Roanne Basket,,,,,,,,,,,0,0
+2019-2020,Round 31,2020-04-21 17:00:00,Lyon-Villeurbanne,Dijon,,,,,,,,,,,0,0
+2019-2020,Round 31,2020-04-21 17:00:00,Nanterre,ESSM Le Portel,,,,,,,,,,,0,0
+2019-2020,Round 31,2020-04-21 17:00:00,Strasbourg,Gravelines-Dunkerque,,,,,,,,,,,0,0
+2019-2020,Round 31,2020-04-21 17:00:00,AS Monaco Basket,Élan Chalon,,,,,,,,,,,0,0
+2019-2020,Round 32,2020-04-28 17:00:00,Dijon,Boulazac Basket Dordogne,,,,,,,,,,,0,0
+2019-2020,Round 32,2020-04-28 17:00:00,Pau-Lacq-Orthez,Nanterre,,,,,,,,,,,0,0
+2019-2020,Round 32,2020-04-28 17:00:00,Gravelines-Dunkerque,Lyon-Villeurbanne,,,,,,,,,,,0,0
+2019-2020,Round 32,2020-04-28 17:00:00,Bourg-en-Bresse,Limoges,,,,,,,,,,,0,0
+2019-2020,Round 32,2020-04-28 17:00:00,Levallois Metropolitans,Cholet,,,,,,,,,,,0,0
+2019-2020,Round 32,2020-04-28 17:00:00,AS Monaco Basket,Le Mans Sarthe Basket,,,,,,,,,,,0,0
+2019-2020,Round 32,2020-04-28 17:00:00,Orléans Loiret Basket,Châlons-Reims,,,,,,,,,,,0,0
+2019-2020,Round 32,2020-04-28 17:00:00,Strasbourg,Chorale Roanne Basket,,,,,,,,,,,0,0
+2019-2020,Round 32,2020-04-28 17:00:00,ESSM Le Portel,Élan Chalon,,,,,,,,,,,0,0
+2019-2020,Round 33,2020-05-02 17:00:00,Boulazac Basket Dordogne,Cholet,,,,,,,,,,,0,0
+2019-2020,Round 33,2020-05-02 17:00:00,Châlons-Reims,Gravelines-Dunkerque,,,,,,,,,,,0,0
+2019-2020,Round 33,2020-05-02 17:00:00,Bourg-en-Bresse,AS Monaco Basket,,,,,,,,,,,0,0
+2019-2020,Round 33,2020-05-02 17:00:00,Le Mans Sarthe Basket,Pau-Lacq-Orthez,,,,,,,,,,,0,0
+2019-2020,Round 33,2020-05-02 17:00:00,Limoges,Levallois Metropolitans,,,,,,,,,,,0,0
+2019-2020,Round 33,2020-05-02 17:00:00,Lyon-Villeurbanne,Strasbourg,,,,,,,,,,,0,0
+2019-2020,Round 33,2020-05-02 17:00:00,Nanterre,Dijon,,,,,,,,,,,0,0
+2019-2020,Round 33,2020-05-02 17:00:00,Chorale Roanne Basket,ESSM Le Portel,,,,,,,,,,,0,0
+2019-2020,Round 33,2020-05-02 17:00:00,Élan Chalon,Orléans Loiret Basket,,,,,,,,,,,0,0
+2019-2020,Round 34,2020-05-06 17:00:00,Cholet,Nanterre,,,,,,,,,,,0,0
+2019-2020,Round 34,2020-05-06 17:00:00,Pau-Lacq-Orthez,Chorale Roanne Basket,,,,,,,,,,,0,0
+2019-2020,Round 34,2020-05-06 17:00:00,Gravelines-Dunkerque,Bourg-en-Bresse,,,,,,,,,,,0,0
+2019-2020,Round 34,2020-05-06 17:00:00,ESSM Le Portel,Châlons-Reims,,,,,,,,,,,0,0
+2019-2020,Round 34,2020-05-06 17:00:00,Levallois Metropolitans,Boulazac Basket Dordogne,,,,,,,,,,,0,0
+2019-2020,Round 34,2020-05-06 17:00:00,AS Monaco Basket,Limoges,,,,,,,,,,,0,0
+2019-2020,Round 34,2020-05-06 17:00:00,Orléans Loiret Basket,Lyon-Villeurbanne,,,,,,,,,,,0,0
+2019-2020,Round 34,2020-05-06 17:00:00,Strasbourg,Le Mans Sarthe Basket,,,,,,,,,,,0,0
+2019-2020,Round 34,2020-05-06 17:00:00,Dijon,Élan Chalon,,,,,,,,,,,0,0

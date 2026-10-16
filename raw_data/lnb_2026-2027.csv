@@ -1,0 +1,241 @@
+saison,round,date,equipe_domicile,equipe_exterieur,score_domicile,score_exterieur,q1_domicile,q1_exterieur,q2_domicile,q2_exterieur,q3_domicile,q3_exterieur,q4_domicile,q4_exterieur,prolongation_domicile,prolongation_exterieur
+2026-2027,Round 1,2026-09-25 18:00:00,Dijon,Strasbourg,81,72,25,8,16,25,22,15,18,24,0,0
+2026-2027,Round 1,2026-09-26 16:00:00,Boulazac Basket Dordogne,Chorale Roanne Basket,79,81,15,26,16,25,32,11,16,19,0,0
+2026-2027,Round 1,2026-09-26 16:00:00,Élan Chalon,Limoges,82,74,21,22,11,12,32,12,18,28,0,0
+2026-2027,Round 1,2026-09-26 16:30:00,Gravelines-Dunkerque,Le Mans Sarthe Basket,97,103,28,22,15,19,23,16,20,29,11,17
+2026-2027,Round 1,2026-09-26 16:30:00,Saint-Quentin Basket-Ball,Bourg-en-Bresse,106,103,21,26,26,28,17,23,30,17,12,9
+2026-2027,Round 1,2026-09-26 18:30:00,Nanterre,Élan Béarnais,78,64,23,14,18,12,14,18,23,20,0,0
+2026-2027,Round 1,2026-09-27 14:30:00,SLUC Nancy Basket,Paris Basketball,73,78,15,21,17,14,24,16,17,27,0,0
+2026-2027,Round 1,2026-09-27 17:00:00,Cholet,Lyon-Villeurbanne,85,97,24,27,21,31,23,21,17,18,0,0
+2026-2027,Round 2,2026-10-02 18:00:00,Chorale Roanne Basket,Nanterre,,,,,,,,,,,0,0
+2026-2027,Round 2,2026-10-03 16:00:00,SLUC Nancy Basket,Cholet,,,,,,,,,,,0,0
+2026-2027,Round 2,2026-10-03 16:00:00,Strasbourg,Boulazac Basket Dordogne,,,,,,,,,,,0,0
+2026-2027,Round 2,2026-10-03 16:30:00,Limoges,Saint-Quentin Basket-Ball,,,,,,,,,,,0,0
+2026-2027,Round 2,2026-10-03 16:30:00,Élan Béarnais,Dijon,,,,,,,,,,,0,0
+2026-2027,Round 2,2026-10-03 18:30:00,Bourg-en-Bresse,Élan Chalon,,,,,,,,,,,0,0
+2026-2027,Round 2,2026-10-04 14:30:00,Gravelines-Dunkerque,Lyon-Villeurbanne,,,,,,,,,,,0,0
+2026-2027,Round 2,2026-10-04 17:00:00,Le Mans Sarthe Basket,Paris Basketball,,,,,,,,,,,0,0
+2026-2027,Round 3,2026-10-09 18:00:00,Dijon,Limoges,,,,,,,,,,,0,0
+2026-2027,Round 3,2026-10-10 16:00:00,Cholet,Élan Béarnais,,,,,,,,,,,0,0
+2026-2027,Round 3,2026-10-10 16:00:00,Nanterre,Gravelines-Dunkerque,,,,,,,,,,,0,0
+2026-2027,Round 3,2026-10-10 16:30:00,Élan Chalon,SLUC Nancy Basket,,,,,,,,,,,0,0
+2026-2027,Round 3,2026-10-10 18:30:00,Boulazac Basket Dordogne,Bourg-en-Bresse,,,,,,,,,,,0,0
+2026-2027,Round 3,2026-10-11 14:00:00,Saint-Quentin Basket-Ball,Le Mans Sarthe Basket,,,,,,,,,,,0,0
+2026-2027,Round 3,2026-10-11 14:30:00,Paris Basketball,Strasbourg,,,,,,,,,,,0,0
+2026-2027,Round 3,2026-10-11 17:00:00,Lyon-Villeurbanne,Chorale Roanne Basket,,,,,,,,,,,0,0
+2026-2027,Round 4,2026-10-16 18:00:00,Strasbourg,Chorale Roanne Basket,,,,,,,,,,,0,0
+2026-2027,Round 4,2026-10-17 16:00:00,SLUC Nancy Basket,Nanterre,,,,,,,,,,,0,0
+2026-2027,Round 4,2026-10-17 16:00:00,Élan Béarnais,Saint-Quentin Basket-Ball,,,,,,,,,,,0,0
+2026-2027,Round 4,2026-10-17 16:30:00,Cholet,Élan Chalon,,,,,,,,,,,0,0
+2026-2027,Round 4,2026-10-17 18:30:00,Limoges,Lyon-Villeurbanne,,,,,,,,,,,0,0
+2026-2027,Round 4,2026-10-18 14:00:00,Gravelines-Dunkerque,Dijon,,,,,,,,,,,0,0
+2026-2027,Round 4,2026-10-18 14:30:00,Paris Basketball,Boulazac Basket Dordogne,,,,,,,,,,,0,0
+2026-2027,Round 4,2026-10-18 17:00:00,Le Mans Sarthe Basket,Bourg-en-Bresse,,,,,,,,,,,0,0
+2026-2027,Round 5,2026-10-23 18:00:00,Saint-Quentin Basket-Ball,Dijon,,,,,,,,,,,0,0
+2026-2027,Round 5,2026-10-24 16:00:00,Boulazac Basket Dordogne,Le Mans Sarthe Basket,,,,,,,,,,,0,0
+2026-2027,Round 5,2026-10-24 16:00:00,Bourg-en-Bresse,Gravelines-Dunkerque,,,,,,,,,,,0,0
+2026-2027,Round 5,2026-10-24 16:30:00,Élan Chalon,Strasbourg,,,,,,,,,,,0,0
+2026-2027,Round 5,2026-10-24 18:30:00,Nanterre,Cholet,,,,,,,,,,,0,0
+2026-2027,Round 5,2026-10-25 15:00:00,Chorale Roanne Basket,Paris Basketball,,,,,,,,,,,0,0
+2026-2027,Round 5,2026-10-25 15:30:00,Lyon-Villeurbanne,SLUC Nancy Basket,,,,,,,,,,,0,0
+2026-2027,Round 5,2026-10-25 18:00:00,Élan Béarnais,Limoges,,,,,,,,,,,0,0
+2026-2027,Round 6,2026-10-30 19:00:00,Dijon,SLUC Nancy Basket,,,,,,,,,,,0,0
+2026-2027,Round 6,2026-10-31 17:00:00,Gravelines-Dunkerque,Chorale Roanne Basket,,,,,,,,,,,0,0
+2026-2027,Round 6,2026-10-31 17:00:00,Le Mans Sarthe Basket,Élan Béarnais,,,,,,,,,,,0,0
+2026-2027,Round 6,2026-10-31 17:30:00,Strasbourg,Cholet,,,,,,,,,,,0,0
+2026-2027,Round 6,2026-10-31 17:30:00,Limoges,Boulazac Basket Dordogne,,,,,,,,,,,0,0
+2026-2027,Round 6,2026-10-31 19:30:00,Bourg-en-Bresse,Nanterre,,,,,,,,,,,0,0
+2026-2027,Round 6,2026-11-01 15:30:00,Saint-Quentin Basket-Ball,Lyon-Villeurbanne,,,,,,,,,,,0,0
+2026-2027,Round 6,2026-11-01 18:00:00,Paris Basketball,Élan Chalon,,,,,,,,,,,0,0
+2026-2027,Round 7,2026-11-07 19:00:00,Boulazac Basket Dordogne,Gravelines-Dunkerque,,,,,,,,,,,0,0
+2026-2027,Round 7,2026-11-07 19:00:00,Cholet,Dijon,,,,,,,,,,,0,0
+2026-2027,Round 7,2026-11-07 19:00:00,Lyon-Villeurbanne,Élan Béarnais,,,,,,,,,,,0,0
+2026-2027,Round 7,2026-11-07 19:00:00,SLUC Nancy Basket,Limoges,,,,,,,,,,,0,0
+2026-2027,Round 7,2026-11-07 19:00:00,Nanterre,Élan Chalon,,,,,,,,,,,0,0
+2026-2027,Round 7,2026-11-07 19:00:00,Paris Basketball,Bourg-en-Bresse,,,,,,,,,,,0,0
+2026-2027,Round 7,2026-11-07 19:00:00,Chorale Roanne Basket,Saint-Quentin Basket-Ball,,,,,,,,,,,0,0
+2026-2027,Round 7,2026-11-07 19:00:00,Strasbourg,Le Mans Sarthe Basket,,,,,,,,,,,0,0
+2026-2027,Round 8,2026-11-14 19:00:00,Le Mans Sarthe Basket,Lyon-Villeurbanne,,,,,,,,,,,0,0
+2026-2027,Round 8,2026-11-14 19:00:00,Saint-Quentin Basket-Ball,Cholet,,,,,,,,,,,0,0
+2026-2027,Round 8,2026-11-14 19:00:00,Élan Béarnais,Strasbourg,,,,,,,,,,,0,0
+2026-2027,Round 8,2026-11-14 19:00:00,Limoges,Paris Basketball,,,,,,,,,,,0,0
+2026-2027,Round 8,2026-11-14 19:00:00,Bourg-en-Bresse,Chorale Roanne Basket,,,,,,,,,,,0,0
+2026-2027,Round 8,2026-11-14 19:00:00,Gravelines-Dunkerque,SLUC Nancy Basket,,,,,,,,,,,0,0
+2026-2027,Round 8,2026-11-14 19:00:00,Dijon,Nanterre,,,,,,,,,,,0,0
+2026-2027,Round 8,2026-11-14 19:00:00,Élan Chalon,Boulazac Basket Dordogne,,,,,,,,,,,0,0
+2026-2027,Round 9,2026-11-21 19:00:00,Élan Chalon,Saint-Quentin Basket-Ball,,,,,,,,,,,0,0
+2026-2027,Round 9,2026-11-21 19:00:00,Cholet,Boulazac Basket Dordogne,,,,,,,,,,,0,0
+2026-2027,Round 9,2026-11-21 19:00:00,Dijon,Le Mans Sarthe Basket,,,,,,,,,,,0,0
+2026-2027,Round 9,2026-11-21 19:00:00,Lyon-Villeurbanne,Bourg-en-Bresse,,,,,,,,,,,0,0
+2026-2027,Round 9,2026-11-21 19:00:00,SLUC Nancy Basket,Élan Béarnais,,,,,,,,,,,0,0
+2026-2027,Round 9,2026-11-21 19:00:00,Nanterre,Strasbourg,,,,,,,,,,,0,0
+2026-2027,Round 9,2026-11-21 19:00:00,Paris Basketball,Gravelines-Dunkerque,,,,,,,,,,,0,0
+2026-2027,Round 9,2026-11-21 19:00:00,Chorale Roanne Basket,Limoges,,,,,,,,,,,0,0
+2026-2027,Round 10,2026-12-05 19:00:00,Élan Béarnais,Paris Basketball,,,,,,,,,,,0,0
+2026-2027,Round 10,2026-12-05 19:00:00,Strasbourg,Lyon-Villeurbanne,,,,,,,,,,,0,0
+2026-2027,Round 10,2026-12-05 19:00:00,Saint-Quentin Basket-Ball,Nanterre,,,,,,,,,,,0,0
+2026-2027,Round 10,2026-12-05 19:00:00,Le Mans Sarthe Basket,Chorale Roanne Basket,,,,,,,,,,,0,0
+2026-2027,Round 10,2026-12-05 19:00:00,Limoges,Cholet,,,,,,,,,,,0,0
+2026-2027,Round 10,2026-12-05 19:00:00,Bourg-en-Bresse,Dijon,,,,,,,,,,,0,0
+2026-2027,Round 10,2026-12-05 19:00:00,Gravelines-Dunkerque,Élan Chalon,,,,,,,,,,,0,0
+2026-2027,Round 10,2026-12-05 19:00:00,Boulazac Basket Dordogne,SLUC Nancy Basket,,,,,,,,,,,0,0
+2026-2027,Round 11,2026-12-12 19:00:00,Élan Chalon,Le Mans Sarthe Basket,,,,,,,,,,,0,0
+2026-2027,Round 11,2026-12-12 19:00:00,Cholet,Bourg-en-Bresse,,,,,,,,,,,0,0
+2026-2027,Round 11,2026-12-12 19:00:00,Dijon,Boulazac Basket Dordogne,,,,,,,,,,,0,0
+2026-2027,Round 11,2026-12-12 19:00:00,Lyon-Villeurbanne,Paris Basketball,,,,,,,,,,,0,0
+2026-2027,Round 11,2026-12-12 19:00:00,SLUC Nancy Basket,Saint-Quentin Basket-Ball,,,,,,,,,,,0,0
+2026-2027,Round 11,2026-12-12 19:00:00,Nanterre,Limoges,,,,,,,,,,,0,0
+2026-2027,Round 11,2026-12-12 19:00:00,Chorale Roanne Basket,Élan Béarnais,,,,,,,,,,,0,0
+2026-2027,Round 11,2026-12-12 19:00:00,Strasbourg,Gravelines-Dunkerque,,,,,,,,,,,0,0
+2026-2027,Round 12,2026-12-19 19:00:00,Paris Basketball,Dijon,,,,,,,,,,,0,0
+2026-2027,Round 12,2026-12-19 19:00:00,Chorale Roanne Basket,SLUC Nancy Basket,,,,,,,,,,,0,0
+2026-2027,Round 12,2026-12-19 19:00:00,Élan Béarnais,Élan Chalon,,,,,,,,,,,0,0
+2026-2027,Round 12,2026-12-19 19:00:00,Le Mans Sarthe Basket,Limoges,,,,,,,,,,,0,0
+2026-2027,Round 12,2026-12-19 19:00:00,Lyon-Villeurbanne,Nanterre,,,,,,,,,,,0,0
+2026-2027,Round 12,2026-12-19 19:00:00,Bourg-en-Bresse,Strasbourg,,,,,,,,,,,0,0
+2026-2027,Round 12,2026-12-19 19:00:00,Gravelines-Dunkerque,Cholet,,,,,,,,,,,0,0
+2026-2027,Round 12,2026-12-19 19:00:00,Boulazac Basket Dordogne,Saint-Quentin Basket-Ball,,,,,,,,,,,0,0
+2026-2027,Round 13,2026-12-22 19:00:00,Élan Chalon,Lyon-Villeurbanne,,,,,,,,,,,0,0
+2026-2027,Round 13,2026-12-22 19:00:00,Cholet,Paris Basketball,,,,,,,,,,,0,0
+2026-2027,Round 13,2026-12-22 19:00:00,Dijon,Chorale Roanne Basket,,,,,,,,,,,0,0
+2026-2027,Round 13,2026-12-22 19:00:00,Limoges,Gravelines-Dunkerque,,,,,,,,,,,0,0
+2026-2027,Round 13,2026-12-22 19:00:00,SLUC Nancy Basket,Bourg-en-Bresse,,,,,,,,,,,0,0
+2026-2027,Round 13,2026-12-22 19:00:00,Nanterre,Le Mans Sarthe Basket,,,,,,,,,,,0,0
+2026-2027,Round 13,2026-12-22 19:00:00,Élan Béarnais,Boulazac Basket Dordogne,,,,,,,,,,,0,0
+2026-2027,Round 13,2026-12-22 19:00:00,Saint-Quentin Basket-Ball,Strasbourg,,,,,,,,,,,0,0
+2026-2027,Round 14,2026-12-27 19:00:00,Paris Basketball,Saint-Quentin Basket-Ball,,,,,,,,,,,0,0
+2026-2027,Round 14,2026-12-27 19:00:00,Strasbourg,SLUC Nancy Basket,,,,,,,,,,,0,0
+2026-2027,Round 14,2026-12-27 19:00:00,Chorale Roanne Basket,Élan Chalon,,,,,,,,,,,0,0
+2026-2027,Round 14,2026-12-27 19:00:00,Le Mans Sarthe Basket,Cholet,,,,,,,,,,,0,0
+2026-2027,Round 14,2026-12-27 19:00:00,Lyon-Villeurbanne,Dijon,,,,,,,,,,,0,0
+2026-2027,Round 14,2026-12-27 19:00:00,Bourg-en-Bresse,Limoges,,,,,,,,,,,0,0
+2026-2027,Round 14,2026-12-27 19:00:00,Gravelines-Dunkerque,Élan Béarnais,,,,,,,,,,,0,0
+2026-2027,Round 14,2026-12-27 19:00:00,Boulazac Basket Dordogne,Nanterre,,,,,,,,,,,0,0
+2026-2027,Round 15,2027-01-09 19:00:00,Boulazac Basket Dordogne,Lyon-Villeurbanne,,,,,,,,,,,0,0
+2026-2027,Round 15,2027-01-09 19:00:00,Cholet,Chorale Roanne Basket,,,,,,,,,,,0,0
+2026-2027,Round 15,2027-01-09 19:00:00,Dijon,Élan Chalon,,,,,,,,,,,0,0
+2026-2027,Round 15,2027-01-09 19:00:00,Limoges,Strasbourg,,,,,,,,,,,0,0
+2026-2027,Round 15,2027-01-09 19:00:00,SLUC Nancy Basket,Le Mans Sarthe Basket,,,,,,,,,,,0,0
+2026-2027,Round 15,2027-01-09 19:00:00,Nanterre,Paris Basketball,,,,,,,,,,,0,0
+2026-2027,Round 15,2027-01-09 19:00:00,Élan Béarnais,Bourg-en-Bresse,,,,,,,,,,,0,0
+2026-2027,Round 15,2027-01-09 19:00:00,Saint-Quentin Basket-Ball,Gravelines-Dunkerque,,,,,,,,,,,0,0
+2026-2027,Round 16,2027-01-16 19:00:00,Élan Béarnais,Nanterre,,,,,,,,,,,0,0
+2026-2027,Round 16,2027-01-16 19:00:00,Strasbourg,Bourg-en-Bresse,,,,,,,,,,,0,0
+2026-2027,Round 16,2027-01-16 19:00:00,Chorale Roanne Basket,Boulazac Basket Dordogne,,,,,,,,,,,0,0
+2026-2027,Round 16,2027-01-16 19:00:00,Élan Chalon,Gravelines-Dunkerque,,,,,,,,,,,0,0
+2026-2027,Round 16,2027-01-16 19:00:00,Paris Basketball,Lyon-Villeurbanne,,,,,,,,,,,0,0
+2026-2027,Round 16,2027-01-16 19:00:00,Le Mans Sarthe Basket,Saint-Quentin Basket-Ball,,,,,,,,,,,0,0
+2026-2027,Round 16,2027-01-16 19:00:00,Cholet,SLUC Nancy Basket,,,,,,,,,,,0,0
+2026-2027,Round 16,2027-01-16 19:00:00,Limoges,Dijon,,,,,,,,,,,0,0
+2026-2027,Round 17,2027-01-23 19:00:00,Lyon-Villeurbanne,Strasbourg,,,,,,,,,,,0,0
+2026-2027,Round 17,2027-01-23 19:00:00,Nanterre,Chorale Roanne Basket,,,,,,,,,,,0,0
+2026-2027,Round 17,2027-01-23 19:00:00,SLUC Nancy Basket,Élan Chalon,,,,,,,,,,,0,0
+2026-2027,Round 17,2027-01-23 19:00:00,Saint-Quentin Basket-Ball,Élan Béarnais,,,,,,,,,,,0,0
+2026-2027,Round 17,2027-01-23 19:00:00,Le Mans Sarthe Basket,Boulazac Basket Dordogne,,,,,,,,,,,0,0
+2026-2027,Round 17,2027-01-23 19:00:00,Bourg-en-Bresse,Cholet,,,,,,,,,,,0,0
+2026-2027,Round 17,2027-01-23 19:00:00,Gravelines-Dunkerque,Limoges,,,,,,,,,,,0,0
+2026-2027,Round 17,2027-01-23 19:00:00,Dijon,Paris Basketball,,,,,,,,,,,0,0
+2026-2027,Round 18,2027-01-30 19:00:00,Boulazac Basket Dordogne,Paris Basketball,,,,,,,,,,,0,0
+2026-2027,Round 18,2027-01-30 19:00:00,Élan Chalon,Nanterre,,,,,,,,,,,0,0
+2026-2027,Round 18,2027-01-30 19:00:00,Cholet,Gravelines-Dunkerque,,,,,,,,,,,0,0
+2026-2027,Round 18,2027-01-30 19:00:00,Bourg-en-Bresse,Lyon-Villeurbanne,,,,,,,,,,,0,0
+2026-2027,Round 18,2027-01-30 19:00:00,Limoges,SLUC Nancy Basket,,,,,,,,,,,0,0
+2026-2027,Round 18,2027-01-30 19:00:00,Élan Béarnais,Le Mans Sarthe Basket,,,,,,,,,,,0,0
+2026-2027,Round 18,2027-01-30 19:00:00,Chorale Roanne Basket,Dijon,,,,,,,,,,,0,0
+2026-2027,Round 18,2027-01-30 19:00:00,Strasbourg,Saint-Quentin Basket-Ball,,,,,,,,,,,0,0
+2026-2027,Round 19,2027-02-06 19:00:00,Lyon-Villeurbanne,Élan Chalon,,,,,,,,,,,0,0
+2026-2027,Round 19,2027-02-06 19:00:00,Paris Basketball,Limoges,,,,,,,,,,,0,0
+2026-2027,Round 19,2027-02-06 19:00:00,Nanterre,SLUC Nancy Basket,,,,,,,,,,,0,0
+2026-2027,Round 19,2027-02-06 19:00:00,Saint-Quentin Basket-Ball,Chorale Roanne Basket,,,,,,,,,,,0,0
+2026-2027,Round 19,2027-02-06 19:00:00,Le Mans Sarthe Basket,Strasbourg,,,,,,,,,,,0,0
+2026-2027,Round 19,2027-02-06 19:00:00,Gravelines-Dunkerque,Bourg-en-Bresse,,,,,,,,,,,0,0
+2026-2027,Round 19,2027-02-06 19:00:00,Dijon,Élan Béarnais,,,,,,,,,,,0,0
+2026-2027,Round 19,2027-02-06 19:00:00,Boulazac Basket Dordogne,Cholet,,,,,,,,,,,0,0
+2026-2027,Round 20,2027-02-13 19:00:00,Élan Chalon,Dijon,,,,,,,,,,,0,0
+2026-2027,Round 20,2027-02-13 19:00:00,Cholet,Saint-Quentin Basket-Ball,,,,,,,,,,,0,0
+2026-2027,Round 20,2027-02-13 19:00:00,Bourg-en-Bresse,Le Mans Sarthe Basket,,,,,,,,,,,0,0
+2026-2027,Round 20,2027-02-13 19:00:00,Limoges,Nanterre,,,,,,,,,,,0,0
+2026-2027,Round 20,2027-02-13 19:00:00,Lyon-Villeurbanne,Boulazac Basket Dordogne,,,,,,,,,,,0,0
+2026-2027,Round 20,2027-02-13 19:00:00,SLUC Nancy Basket,Gravelines-Dunkerque,,,,,,,,,,,0,0
+2026-2027,Round 20,2027-02-13 19:00:00,Paris Basketball,Élan Béarnais,,,,,,,,,,,0,0
+2026-2027,Round 20,2027-02-13 19:00:00,Chorale Roanne Basket,Strasbourg,,,,,,,,,,,0,0
+2026-2027,Round 21,2027-03-06 19:00:00,Strasbourg,Élan Chalon,,,,,,,,,,,0,0
+2026-2027,Round 21,2027-03-06 19:00:00,Saint-Quentin Basket-Ball,Paris Basketball,,,,,,,,,,,0,0
+2026-2027,Round 21,2027-03-06 19:00:00,Chorale Roanne Basket,Cholet,,,,,,,,,,,0,0
+2026-2027,Round 21,2027-03-06 19:00:00,Nanterre,Lyon-Villeurbanne,,,,,,,,,,,0,0
+2026-2027,Round 21,2027-03-06 19:00:00,Élan Béarnais,SLUC Nancy Basket,,,,,,,,,,,0,0
+2026-2027,Round 21,2027-03-06 19:00:00,Le Mans Sarthe Basket,Gravelines-Dunkerque,,,,,,,,,,,0,0
+2026-2027,Round 21,2027-03-06 19:00:00,Dijon,Bourg-en-Bresse,,,,,,,,,,,0,0
+2026-2027,Round 21,2027-03-06 19:00:00,Boulazac Basket Dordogne,Limoges,,,,,,,,,,,0,0
+2026-2027,Round 22,2027-03-13 19:00:00,Élan Chalon,Paris Basketball,,,,,,,,,,,0,0
+2026-2027,Round 22,2027-03-13 19:00:00,Cholet,Nanterre,,,,,,,,,,,0,0
+2026-2027,Round 22,2027-03-13 19:00:00,Gravelines-Dunkerque,Boulazac Basket Dordogne,,,,,,,,,,,0,0
+2026-2027,Round 22,2027-03-13 19:00:00,Bourg-en-Bresse,Saint-Quentin Basket-Ball,,,,,,,,,,,0,0
+2026-2027,Round 22,2027-03-13 19:00:00,Limoges,Chorale Roanne Basket,,,,,,,,,,,0,0
+2026-2027,Round 22,2027-03-13 19:00:00,Lyon-Villeurbanne,Le Mans Sarthe Basket,,,,,,,,,,,0,0
+2026-2027,Round 22,2027-03-13 19:00:00,SLUC Nancy Basket,Dijon,,,,,,,,,,,0,0
+2026-2027,Round 22,2027-03-13 19:00:00,Strasbourg,Élan Béarnais,,,,,,,,,,,0,0
+2026-2027,Round 23,2027-03-20 19:00:00,Saint-Quentin Basket-Ball,Limoges,,,,,,,,,,,0,0
+2026-2027,Round 23,2027-03-20 19:00:00,Paris Basketball,SLUC Nancy Basket,,,,,,,,,,,0,0
+2026-2027,Round 23,2027-03-20 19:00:00,Élan Béarnais,Lyon-Villeurbanne,,,,,,,,,,,0,0
+2026-2027,Round 23,2027-03-20 19:00:00,Chorale Roanne Basket,Le Mans Sarthe Basket,,,,,,,,,,,0,0
+2026-2027,Round 23,2027-03-20 19:00:00,Nanterre,Bourg-en-Bresse,,,,,,,,,,,0,0
+2026-2027,Round 23,2027-03-20 19:00:00,Boulazac Basket Dordogne,Strasbourg,,,,,,,,,,,0,0
+2026-2027,Round 23,2027-03-20 19:00:00,Dijon,Gravelines-Dunkerque,,,,,,,,,,,0,0
+2026-2027,Round 23,2027-03-20 19:00:00,Élan Chalon,Cholet,,,,,,,,,,,0,0
+2026-2027,Round 24,2027-03-27 19:00:00,Bourg-en-Bresse,Élan Béarnais,,,,,,,,,,,0,0
+2026-2027,Round 24,2027-03-27 19:00:00,Le Mans Sarthe Basket,Dijon,,,,,,,,,,,0,0
+2026-2027,Round 24,2027-03-27 19:00:00,Limoges,Élan Chalon,,,,,,,,,,,0,0
+2026-2027,Round 24,2027-03-27 19:00:00,Lyon-Villeurbanne,Cholet,,,,,,,,,,,0,0
+2026-2027,Round 24,2027-03-27 19:00:00,SLUC Nancy Basket,Chorale Roanne Basket,,,,,,,,,,,0,0
+2026-2027,Round 24,2027-03-27 19:00:00,Saint-Quentin Basket-Ball,Boulazac Basket Dordogne,,,,,,,,,,,0,0
+2026-2027,Round 24,2027-03-27 19:00:00,Strasbourg,Paris Basketball,,,,,,,,,,,0,0
+2026-2027,Round 24,2027-03-27 19:00:00,Gravelines-Dunkerque,Nanterre,,,,,,,,,,,0,0
+2026-2027,Round 25,2027-04-03 18:00:00,SLUC Nancy Basket,Boulazac Basket Dordogne,,,,,,,,,,,0,0
+2026-2027,Round 25,2027-04-03 18:00:00,Chorale Roanne Basket,Bourg-en-Bresse,,,,,,,,,,,0,0
+2026-2027,Round 25,2027-04-03 18:00:00,Paris Basketball,Le Mans Sarthe Basket,,,,,,,,,,,0,0
+2026-2027,Round 25,2027-04-03 18:00:00,Nanterre,Saint-Quentin Basket-Ball,,,,,,,,,,,0,0
+2026-2027,Round 25,2027-04-03 18:00:00,Dijon,Lyon-Villeurbanne,,,,,,,,,,,0,0
+2026-2027,Round 25,2027-04-03 18:00:00,Cholet,Limoges,,,,,,,,,,,0,0
+2026-2027,Round 25,2027-04-03 18:00:00,Élan Chalon,Élan Béarnais,,,,,,,,,,,0,0
+2026-2027,Round 25,2027-04-03 18:00:00,Gravelines-Dunkerque,Strasbourg,,,,,,,,,,,0,0
+2026-2027,Round 26,2027-04-10 18:00:00,Boulazac Basket Dordogne,Dijon,,,,,,,,,,,0,0
+2026-2027,Round 26,2027-04-10 18:00:00,Bourg-en-Bresse,SLUC Nancy Basket,,,,,,,,,,,0,0
+2026-2027,Round 26,2027-04-10 18:00:00,Le Mans Sarthe Basket,Nanterre,,,,,,,,,,,0,0
+2026-2027,Round 26,2027-04-10 18:00:00,Lyon-Villeurbanne,Gravelines-Dunkerque,,,,,,,,,,,0,0
+2026-2027,Round 26,2027-04-10 18:00:00,Paris Basketball,Cholet,,,,,,,,,,,0,0
+2026-2027,Round 26,2027-04-10 18:00:00,Élan Béarnais,Chorale Roanne Basket,,,,,,,,,,,0,0
+2026-2027,Round 26,2027-04-10 18:00:00,Saint-Quentin Basket-Ball,Élan Chalon,,,,,,,,,,,0,0
+2026-2027,Round 26,2027-04-10 18:00:00,Strasbourg,Limoges,,,,,,,,,,,0,0
+2026-2027,Round 27,2027-04-17 18:00:00,SLUC Nancy Basket,Strasbourg,,,,,,,,,,,0,0
+2026-2027,Round 27,2027-04-17 18:00:00,Chorale Roanne Basket,Lyon-Villeurbanne,,,,,,,,,,,0,0
+2026-2027,Round 27,2027-04-17 18:00:00,Nanterre,Boulazac Basket Dordogne,,,,,,,,,,,0,0
+2026-2027,Round 27,2027-04-17 18:00:00,Dijon,Saint-Quentin Basket-Ball,,,,,,,,,,,0,0
+2026-2027,Round 27,2027-04-17 18:00:00,Limoges,Élan Béarnais,,,,,,,,,,,0,0
+2026-2027,Round 27,2027-04-17 18:00:00,Cholet,Le Mans Sarthe Basket,,,,,,,,,,,0,0
+2026-2027,Round 27,2027-04-17 18:00:00,Élan Chalon,Bourg-en-Bresse,,,,,,,,,,,0,0
+2026-2027,Round 27,2027-04-17 18:00:00,Gravelines-Dunkerque,Paris Basketball,,,,,,,,,,,0,0
+2026-2027,Round 28,2027-04-27 18:00:00,Dijon,Cholet,,,,,,,,,,,0,0
+2026-2027,Round 28,2027-04-27 18:00:00,Bourg-en-Bresse,Boulazac Basket Dordogne,,,,,,,,,,,0,0
+2026-2027,Round 28,2027-04-27 18:00:00,Le Mans Sarthe Basket,Élan Chalon,,,,,,,,,,,0,0
+2026-2027,Round 28,2027-04-27 18:00:00,Lyon-Villeurbanne,Limoges,,,,,,,,,,,0,0
+2026-2027,Round 28,2027-04-27 18:00:00,Paris Basketball,Chorale Roanne Basket,,,,,,,,,,,0,0
+2026-2027,Round 28,2027-04-27 18:00:00,Élan Béarnais,Gravelines-Dunkerque,,,,,,,,,,,0,0
+2026-2027,Round 28,2027-04-27 18:00:00,Saint-Quentin Basket-Ball,SLUC Nancy Basket,,,,,,,,,,,0,0
+2026-2027,Round 28,2027-04-27 18:00:00,Strasbourg,Nanterre,,,,,,,,,,,0,0
+2026-2027,Round 29,2027-05-01 18:00:00,Limoges,Le Mans Sarthe Basket,,,,,,,,,,,0,0
+2026-2027,Round 29,2027-05-01 18:00:00,Nanterre,Dijon,,,,,,,,,,,0,0
+2026-2027,Round 29,2027-05-01 18:00:00,SLUC Nancy Basket,Lyon-Villeurbanne,,,,,,,,,,,0,0
+2026-2027,Round 29,2027-05-01 18:00:00,Cholet,Strasbourg,,,,,,,,,,,0,0
+2026-2027,Round 29,2027-05-01 18:00:00,Bourg-en-Bresse,Paris Basketball,,,,,,,,,,,0,0
+2026-2027,Round 29,2027-05-01 18:00:00,Gravelines-Dunkerque,Saint-Quentin Basket-Ball,,,,,,,,,,,0,0
+2026-2027,Round 29,2027-05-01 18:00:00,Élan Chalon,Chorale Roanne Basket,,,,,,,,,,,0,0
+2026-2027,Round 29,2027-05-01 18:00:00,Boulazac Basket Dordogne,Élan Béarnais,,,,,,,,,,,0,0
+2026-2027,Round 30,2027-05-09 18:00:00,Boulazac Basket Dordogne,Élan Chalon,,,,,,,,,,,0,0
+2026-2027,Round 30,2027-05-09 18:00:00,Le Mans Sarthe Basket,SLUC Nancy Basket,,,,,,,,,,,0,0
+2026-2027,Round 30,2027-05-09 18:00:00,Limoges,Bourg-en-Bresse,,,,,,,,,,,0,0
+2026-2027,Round 30,2027-05-09 18:00:00,Lyon-Villeurbanne,Saint-Quentin Basket-Ball,,,,,,,,,,,0,0
+2026-2027,Round 30,2027-05-09 18:00:00,Paris Basketball,Nanterre,,,,,,,,,,,0,0
+2026-2027,Round 30,2027-05-09 18:00:00,Élan Béarnais,Cholet,,,,,,,,,,,0,0
+2026-2027,Round 30,2027-05-09 18:00:00,Chorale Roanne Basket,Gravelines-Dunkerque,,,,,,,,,,,0,0
+2026-2027,Round 30,2027-05-09 18:00:00,Strasbourg,Dijon,,,,,,,,,,,0,0

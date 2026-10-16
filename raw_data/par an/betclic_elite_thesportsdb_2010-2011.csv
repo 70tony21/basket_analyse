@@ -1,0 +1,258 @@
+saison,round,date,equipe_domicile,equipe_exterieur,score_domicile,score_exterieur,q1_domicile,q1_exterieur,q2_domicile,q2_exterieur,q3_domicile,q3_exterieur,q4_domicile,q4_exterieur,prolongation_domicile,prolongation_exterieur
+2010-2011,Round 1,2010-10-08 19:30:00,Cholet,Pau-Lacq-Orthez,89,51,,,,,,,,,0,0
+2010-2011,Round 1,2010-10-09 18:15:00,Limoges,Orléans Loiret Basket,71,79,,,,,,,,,0,0
+2010-2011,Round 1,2010-10-09 19:00:00,Élan Chalon,JA Vichy,76,69,,,,,,,,,0,0
+2010-2011,Round 1,2010-10-09 19:00:00,HTV Basket,Poitiers Basket 86,68,64,,,,,,,,,0,0
+2010-2011,Round 1,2010-10-09 19:00:00,SLUC Nancy Basket,Gravelines-Dunkerque,78,70,,,,,,,,,0,0
+2010-2011,Round 1,2010-10-09 19:00:00,Strasbourg,Chorale Roanne Basket,73,69,,,,,,,,,0,0
+2010-2011,Round 1,2010-10-10 16:00:00,Levallois Metropolitans,Lyon-Villeurbanne,85,68,,,,,,,,,0,0
+2010-2011,Round 1,2010-10-12 19:00:00,Le Mans Sarthe Basket,STB Le Havre,55,58,,,,,,,,,0,0
+2010-2011,Round 2,2010-10-15 19:00:00,Orléans Loiret Basket,SLUC Nancy Basket,65,76,,,,,,,,,0,0
+2010-2011,Round 2,2010-10-15 19:30:00,Pau-Lacq-Orthez,Le Mans Sarthe Basket,68,87,,,,,,,,,0,0
+2010-2011,Round 2,2010-10-16 16:00:00,Gravelines-Dunkerque,Cholet,88,52,,,,,,,,,0,0
+2010-2011,Round 2,2010-10-16 19:00:00,STB Le Havre,Élan Chalon,64,72,,,,,,,,,0,0
+2010-2011,Round 2,2010-10-16 19:00:00,Lyon-Villeurbanne,Strasbourg,67,82,,,,,,,,,0,0
+2010-2011,Round 2,2010-10-16 19:00:00,Poitiers Basket 86,Levallois Metropolitans,63,75,,,,,,,,,0,0
+2010-2011,Round 2,2010-10-16 19:00:00,Chorale Roanne Basket,HTV Basket,98,76,,,,,,,,,0,0
+2010-2011,Round 2,2010-10-16 19:00:00,JA Vichy,Limoges,72,58,,,,,,,,,0,0
+2010-2011,Round 3,2010-10-22 19:30:00,Limoges,Pau-Lacq-Orthez,90,63,,,,,,,,,0,0
+2010-2011,Round 3,2010-10-23 19:00:00,Gravelines-Dunkerque,JA Vichy,84,48,,,,,,,,,0,0
+2010-2011,Round 3,2010-10-23 19:00:00,HTV Basket,Lyon-Villeurbanne,74,66,,,,,,,,,0,0
+2010-2011,Round 3,2010-10-23 19:00:00,Levallois Metropolitans,STB Le Havre,57,88,,,,,,,,,0,0
+2010-2011,Round 3,2010-10-23 19:00:00,SLUC Nancy Basket,Poitiers Basket 86,76,69,,,,,,,,,0,0
+2010-2011,Round 3,2010-10-23 19:00:00,Strasbourg,Le Mans Sarthe Basket,59,80,,,,,,,,,0,0
+2010-2011,Round 3,2010-10-23 19:30:00,Élan Chalon,Chorale Roanne Basket,74,83,,,,,,,,,0,0
+2010-2011,Round 3,2010-10-24 16:00:00,Cholet,Orléans Loiret Basket,75,67,,,,,,,,,0,0
+2010-2011,Round 4,2010-10-29 19:00:00,Pau-Lacq-Orthez,Strasbourg,77,72,,,,,,,,,0,0
+2010-2011,Round 4,2010-10-29 19:30:00,Lyon-Villeurbanne,SLUC Nancy Basket,80,73,,,,,,,,,0,0
+2010-2011,Round 4,2010-10-30 19:00:00,STB Le Havre,HTV Basket,89,73,,,,,,,,,0,0
+2010-2011,Round 4,2010-10-30 19:00:00,Le Mans Sarthe Basket,Élan Chalon,65,71,,,,,,,,,0,0
+2010-2011,Round 4,2010-10-30 19:00:00,Orléans Loiret Basket,Gravelines-Dunkerque,59,62,,,,,,,,,0,0
+2010-2011,Round 4,2010-10-30 19:00:00,Chorale Roanne Basket,Levallois Metropolitans,75,80,,,,,,,,,0,0
+2010-2011,Round 4,2010-10-30 19:00:00,JA Vichy,Cholet,56,74,,,,,,,,,0,0
+2010-2011,Round 4,2010-10-30 19:45:00,Poitiers Basket 86,Limoges,73,65,,,,,,,,,0,0
+2010-2011,Round 5,2010-11-05 19:30:00,Levallois Metropolitans,Le Mans Sarthe Basket,74,68,,,,,,,,,0,0
+2010-2011,Round 5,2010-11-06 19:00:00,Élan Chalon,Strasbourg,84,66,,,,,,,,,0,0
+2010-2011,Round 5,2010-11-06 19:00:00,HTV Basket,Pau-Lacq-Orthez,76,93,,,,,,,,,0,0
+2010-2011,Round 5,2010-11-06 19:00:00,Limoges,STB Le Havre,82,78,,,,,,,,,0,0
+2010-2011,Round 5,2010-11-06 19:00:00,SLUC Nancy Basket,Chorale Roanne Basket,85,93,,,,,,,,,0,0
+2010-2011,Round 5,2010-11-06 19:00:00,Orléans Loiret Basket,JA Vichy,63,59,,,,,,,,,0,0
+2010-2011,Round 5,2010-11-06 20:30:00,Cholet,Lyon-Villeurbanne,80,63,,,,,,,,,0,0
+2010-2011,Round 5,2010-11-09 19:00:00,Gravelines-Dunkerque,Poitiers Basket 86,94,60,,,,,,,,,0,0
+2010-2011,Round 6,2010-11-12 19:00:00,Pau-Lacq-Orthez,SLUC Nancy Basket,76,62,,,,,,,,,0,0
+2010-2011,Round 6,2010-11-12 19:30:00,STB Le Havre,Gravelines-Dunkerque,76,70,,,,,,,,,0,0
+2010-2011,Round 6,2010-11-12 19:30:00,Lyon-Villeurbanne,Orléans Loiret Basket,70,65,,,,,,,,,0,0
+2010-2011,Round 6,2010-11-13 18:00:00,Le Mans Sarthe Basket,Cholet,69,74,,,,,,,,,0,0
+2010-2011,Round 6,2010-11-13 19:00:00,Élan Chalon,HTV Basket,80,94,,,,,,,,,0,0
+2010-2011,Round 6,2010-11-13 19:00:00,Poitiers Basket 86,JA Vichy,67,62,,,,,,,,,0,0
+2010-2011,Round 6,2010-11-13 19:00:00,Chorale Roanne Basket,Limoges,78,66,,,,,,,,,0,0
+2010-2011,Round 6,2010-11-13 19:00:00,Strasbourg,Levallois Metropolitans,92,62,,,,,,,,,0,0
+2010-2011,Round 7,2010-11-19 19:00:00,HTV Basket,Strasbourg,85,77,,,,,,,,,0,0
+2010-2011,Round 7,2010-11-19 19:30:00,JA Vichy,Lyon-Villeurbanne,63,70,,,,,,,,,0,0
+2010-2011,Round 7,2010-11-20 19:00:00,Cholet,Chorale Roanne Basket,74,92,,,,,,,,,0,0
+2010-2011,Round 7,2010-11-20 19:00:00,Gravelines-Dunkerque,Pau-Lacq-Orthez,80,68,,,,,,,,,0,0
+2010-2011,Round 7,2010-11-20 19:00:00,Levallois Metropolitans,Élan Chalon,76,83,,,,,,,,,0,0
+2010-2011,Round 7,2010-11-20 19:00:00,Limoges,Le Mans Sarthe Basket,75,73,,,,,,,,,0,0
+2010-2011,Round 7,2010-11-20 19:00:00,SLUC Nancy Basket,STB Le Havre,86,76,,,,,,,,,0,0
+2010-2011,Round 7,2010-11-20 19:00:00,Orléans Loiret Basket,Poitiers Basket 86,88,81,,,,,,,,,0,0
+2010-2011,Round 8,2010-11-26 19:00:00,Lyon-Villeurbanne,Poitiers Basket 86,66,64,,,,,,,,,0,0
+2010-2011,Round 8,2010-11-26 19:30:00,Le Mans Sarthe Basket,SLUC Nancy Basket,76,79,,,,,,,,,0,0
+2010-2011,Round 8,2010-11-27 19:00:00,Élan Chalon,Limoges,81,60,,,,,,,,,0,0
+2010-2011,Round 8,2010-11-27 19:00:00,Pau-Lacq-Orthez,Orléans Loiret Basket,75,97,,,,,,,,,0,0
+2010-2011,Round 8,2010-11-27 19:00:00,Levallois Metropolitans,HTV Basket,70,101,,,,,,,,,0,0
+2010-2011,Round 8,2010-11-27 19:00:00,Chorale Roanne Basket,JA Vichy,93,67,,,,,,,,,0,0
+2010-2011,Round 8,2010-11-27 19:45:00,Strasbourg,Gravelines-Dunkerque,81,90,,,,,,,,,0,0
+2010-2011,Round 8,2010-11-28 16:00:00,STB Le Havre,Cholet,78,91,,,,,,,,,0,0
+2010-2011,Round 9,2010-12-03 19:30:00,SLUC Nancy Basket,Élan Chalon,81,75,,,,,,,,,0,0
+2010-2011,Round 9,2010-12-04 19:00:00,HTV Basket,Le Mans Sarthe Basket,71,76,,,,,,,,,0,0
+2010-2011,Round 9,2010-12-04 19:00:00,Limoges,Strasbourg,61,66,,,,,,,,,0,0
+2010-2011,Round 9,2010-12-04 19:00:00,Orléans Loiret Basket,Chorale Roanne Basket,72,79,,,,,,,,,0,0
+2010-2011,Round 9,2010-12-04 19:00:00,Poitiers Basket 86,Pau-Lacq-Orthez,72,86,,,,,,,,,0,0
+2010-2011,Round 9,2010-12-04 19:00:00,JA Vichy,STB Le Havre,70,85,,,,,,,,,0,0
+2010-2011,Round 9,2010-12-04 19:30:00,Gravelines-Dunkerque,Lyon-Villeurbanne,73,67,,,,,,,,,0,0
+2010-2011,Round 9,2010-12-05 16:00:00,Cholet,Levallois Metropolitans,88,62,,,,,,,,,0,0
+2010-2011,Round 10,2010-12-10 19:30:00,Le Mans Sarthe Basket,Lyon-Villeurbanne,74,57,,,,,,,,,0,0
+2010-2011,Round 10,2010-12-11 19:00:00,Élan Chalon,Gravelines-Dunkerque,80,70,,,,,,,,,0,0
+2010-2011,Round 10,2010-12-11 19:00:00,Pau-Lacq-Orthez,JA Vichy,76,62,,,,,,,,,0,0
+2010-2011,Round 10,2010-12-11 19:00:00,STB Le Havre,Orléans Loiret Basket,79,77,,,,,,,,,0,0
+2010-2011,Round 10,2010-12-11 19:00:00,Levallois Metropolitans,Limoges,75,78,,,,,,,,,0,0
+2010-2011,Round 10,2010-12-11 19:00:00,Chorale Roanne Basket,Poitiers Basket 86,88,76,,,,,,,,,0,0
+2010-2011,Round 10,2010-12-11 19:30:00,Strasbourg,SLUC Nancy Basket,64,73,,,,,,,,,0,0
+2010-2011,Round 10,2010-12-12 14:00:00,HTV Basket,Cholet,67,79,,,,,,,,,0,0
+2010-2011,Round 11,2010-12-17 19:00:00,Poitiers Basket 86,STB Le Havre,63,54,,,,,,,,,0,0
+2010-2011,Round 11,2010-12-17 19:00:00,JA Vichy,Le Mans Sarthe Basket,71,68,,,,,,,,,0,0
+2010-2011,Round 11,2010-12-17 19:30:00,Lyon-Villeurbanne,Pau-Lacq-Orthez,95,88,,,,,,,,,0,0
+2010-2011,Round 11,2010-12-18 19:00:00,Cholet,Strasbourg,88,84,,,,,,,,,0,0
+2010-2011,Round 11,2010-12-18 19:00:00,Limoges,HTV Basket,71,76,,,,,,,,,0,0
+2010-2011,Round 11,2010-12-18 19:00:00,SLUC Nancy Basket,Levallois Metropolitans,77,70,,,,,,,,,0,0
+2010-2011,Round 11,2010-12-18 19:00:00,Orléans Loiret Basket,Élan Chalon,76,77,,,,,,,,,0,0
+2010-2011,Round 11,2010-12-18 19:30:00,Gravelines-Dunkerque,Chorale Roanne Basket,74,80,,,,,,,,,0,0
+2010-2011,Round 12,2011-01-02 15:15:00,Limoges,SLUC Nancy Basket,77,78,,,,,,,,,0,0
+2010-2011,Round 12,2011-01-02 16:00:00,HTV Basket,JA Vichy,76,68,,,,,,,,,0,0
+2010-2011,Round 12,2011-01-02 16:00:00,STB Le Havre,Lyon-Villeurbanne,63,87,,,,,,,,,0,0
+2010-2011,Round 12,2011-01-02 16:00:00,Le Mans Sarthe Basket,Orléans Loiret Basket,59,70,,,,,,,,,0,0
+2010-2011,Round 12,2011-01-02 16:00:00,Levallois Metropolitans,Gravelines-Dunkerque,55,76,,,,,,,,,0,0
+2010-2011,Round 12,2011-01-02 16:00:00,Chorale Roanne Basket,Pau-Lacq-Orthez,88,78,,,,,,,,,0,0
+2010-2011,Round 12,2011-01-02 16:00:00,Strasbourg,Poitiers Basket 86,64,62,,,,,,,,,0,0
+2010-2011,Round 12,2011-01-04 19:30:00,Élan Chalon,Cholet,92,69,,,,,,,,,0,0
+2010-2011,Round 13,2011-01-07 19:00:00,Pau-Lacq-Orthez,STB Le Havre,88,62,,,,,,,,,0,0
+2010-2011,Round 13,2011-01-07 19:30:00,Lyon-Villeurbanne,Chorale Roanne Basket,77,65,,,,,,,,,0,0
+2010-2011,Round 13,2011-01-08 19:00:00,Cholet,Limoges,77,67,,,,,,,,,0,0
+2010-2011,Round 13,2011-01-08 19:00:00,Gravelines-Dunkerque,Le Mans Sarthe Basket,86,91,,,,,,,,,0,0
+2010-2011,Round 13,2011-01-08 19:00:00,SLUC Nancy Basket,HTV Basket,86,67,,,,,,,,,0,0
+2010-2011,Round 13,2011-01-08 19:00:00,Orléans Loiret Basket,Strasbourg,96,39,,,,,,,,,0,0
+2010-2011,Round 13,2011-01-08 19:00:00,Poitiers Basket 86,Élan Chalon,70,61,,,,,,,,,0,0
+2010-2011,Round 13,2011-01-08 19:00:00,JA Vichy,Levallois Metropolitans,77,50,,,,,,,,,0,0
+2010-2011,Round 14,2011-01-14 19:00:00,Le Mans Sarthe Basket,Poitiers Basket 86,85,80,,,,,,,,,0,0
+2010-2011,Round 14,2011-01-14 19:00:00,Strasbourg,JA Vichy,95,80,,,,,,,,,0,0
+2010-2011,Round 14,2011-01-14 19:30:00,HTV Basket,Gravelines-Dunkerque,68,91,,,,,,,,,0,0
+2010-2011,Round 14,2011-01-15 19:00:00,Élan Chalon,Pau-Lacq-Orthez,84,62,,,,,,,,,0,0
+2010-2011,Round 14,2011-01-15 19:00:00,STB Le Havre,Chorale Roanne Basket,65,75,,,,,,,,,0,0
+2010-2011,Round 14,2011-01-15 19:00:00,Levallois Metropolitans,Orléans Loiret Basket,79,73,,,,,,,,,0,0
+2010-2011,Round 14,2011-01-15 19:00:00,Limoges,Lyon-Villeurbanne,87,69,,,,,,,,,0,0
+2010-2011,Round 14,2011-01-15 19:30:00,SLUC Nancy Basket,Cholet,75,85,,,,,,,,,0,0
+2010-2011,Round 15,2011-01-21 19:00:00,Pau-Lacq-Orthez,Levallois Metropolitans,103,70,,,,,,,,,0,0
+2010-2011,Round 15,2011-01-21 19:00:00,Gravelines-Dunkerque,Limoges,87,73,,,,,,,,,0,0
+2010-2011,Round 15,2011-01-21 19:30:00,Chorale Roanne Basket,Le Mans Sarthe Basket,90,76,,,,,,,,,0,0
+2010-2011,Round 15,2011-01-22 19:00:00,STB Le Havre,Strasbourg,77,82,,,,,,,,,0,0
+2010-2011,Round 15,2011-01-22 19:00:00,Orléans Loiret Basket,HTV Basket,77,85,,,,,,,,,0,0
+2010-2011,Round 15,2011-01-22 19:00:00,Poitiers Basket 86,Cholet,67,65,,,,,,,,,0,0
+2010-2011,Round 15,2011-01-22 19:00:00,JA Vichy,SLUC Nancy Basket,81,89,,,,,,,,,0,0
+2010-2011,Round 15,2011-01-22 19:30:00,Lyon-Villeurbanne,Élan Chalon,77,86,,,,,,,,,0,0
+2010-2011,Round 16,2011-01-28 19:00:00,Le Mans Sarthe Basket,Pau-Lacq-Orthez,71,64,,,,,,,,,0,0
+2010-2011,Round 16,2011-01-28 19:30:00,HTV Basket,Chorale Roanne Basket,85,74,,,,,,,,,0,0
+2010-2011,Round 16,2011-01-29 18:15:00,Cholet,Gravelines-Dunkerque,69,68,,,,,,,,,0,0
+2010-2011,Round 16,2011-01-29 19:00:00,Élan Chalon,STB Le Havre,69,66,,,,,,,,,0,0
+2010-2011,Round 16,2011-01-29 19:00:00,Levallois Metropolitans,Poitiers Basket 86,85,79,,,,,,,,,0,0
+2010-2011,Round 16,2011-01-29 19:00:00,Limoges,JA Vichy,74,76,,,,,,,,,0,0
+2010-2011,Round 16,2011-01-29 19:00:00,SLUC Nancy Basket,Orléans Loiret Basket,95,84,,,,,,,,,0,0
+2010-2011,Round 16,2011-01-29 19:30:00,Strasbourg,Lyon-Villeurbanne,70,81,,,,,,,,,0,0
+2010-2011,Round 17,2011-02-04 19:30:00,Chorale Roanne Basket,Élan Chalon,84,67,,,,,,,,,0,0
+2010-2011,Round 17,2011-02-05 19:00:00,STB Le Havre,Levallois Metropolitans,82,77,,,,,,,,,0,0
+2010-2011,Round 17,2011-02-05 19:00:00,Le Mans Sarthe Basket,Strasbourg,73,66,,,,,,,,,0,0
+2010-2011,Round 17,2011-02-05 19:00:00,Lyon-Villeurbanne,HTV Basket,77,92,,,,,,,,,0,0
+2010-2011,Round 17,2011-02-05 19:00:00,Orléans Loiret Basket,Cholet,68,83,,,,,,,,,0,0
+2010-2011,Round 17,2011-02-05 19:00:00,Poitiers Basket 86,SLUC Nancy Basket,69,61,,,,,,,,,0,0
+2010-2011,Round 17,2011-02-05 19:00:00,JA Vichy,Gravelines-Dunkerque,61,75,,,,,,,,,0,0
+2010-2011,Round 17,2011-02-05 19:30:00,Pau-Lacq-Orthez,Limoges,86,75,,,,,,,,,0,0
+2010-2011,Round 18,2011-02-18 19:30:00,Limoges,Poitiers Basket 86,76,85,,,,,,,,,0,0
+2010-2011,Round 18,2011-02-19 19:00:00,Élan Chalon,Le Mans Sarthe Basket,91,69,,,,,,,,,0,0
+2010-2011,Round 18,2011-02-19 19:00:00,Cholet,JA Vichy,81,65,,,,,,,,,0,0
+2010-2011,Round 18,2011-02-19 19:00:00,Gravelines-Dunkerque,Orléans Loiret Basket,57,55,,,,,,,,,0,0
+2010-2011,Round 18,2011-02-19 19:00:00,HTV Basket,STB Le Havre,77,56,,,,,,,,,0,0
+2010-2011,Round 18,2011-02-19 19:00:00,SLUC Nancy Basket,Lyon-Villeurbanne,77,91,,,,,,,,,0,0
+2010-2011,Round 18,2011-02-19 19:00:00,Strasbourg,Pau-Lacq-Orthez,76,65,,,,,,,,,0,0
+2010-2011,Round 18,2011-02-19 20:00:00,Levallois Metropolitans,Chorale Roanne Basket,84,68,,,,,,,,,0,0
+2010-2011,Round 19,2011-02-25 19:00:00,Pau-Lacq-Orthez,HTV Basket,82,70,,,,,,,,,0,0
+2010-2011,Round 19,2011-02-25 19:45:00,Chorale Roanne Basket,SLUC Nancy Basket,74,78,,,,,,,,,0,0
+2010-2011,Round 19,2011-02-26 17:15:00,Lyon-Villeurbanne,Cholet,89,77,,,,,,,,,0,0
+2010-2011,Round 19,2011-02-26 19:00:00,STB Le Havre,Limoges,93,74,,,,,,,,,0,0
+2010-2011,Round 19,2011-02-26 19:00:00,Le Mans Sarthe Basket,Levallois Metropolitans,73,71,,,,,,,,,0,0
+2010-2011,Round 19,2011-02-26 19:00:00,Poitiers Basket 86,Gravelines-Dunkerque,74,80,,,,,,,,,0,0
+2010-2011,Round 19,2011-02-26 19:00:00,Strasbourg,Élan Chalon,78,79,,,,,,,,,0,0
+2010-2011,Round 19,2011-02-26 19:00:00,JA Vichy,Orléans Loiret Basket,65,67,,,,,,,,,0,0
+2010-2011,Round 20,2011-03-04 19:30:00,Orléans Loiret Basket,Lyon-Villeurbanne,76,59,,,,,,,,,0,0
+2010-2011,Round 20,2011-03-05 19:00:00,Gravelines-Dunkerque,STB Le Havre,94,74,,,,,,,,,0,0
+2010-2011,Round 20,2011-03-05 19:00:00,HTV Basket,Élan Chalon,97,89,,,,,,,,,0,0
+2010-2011,Round 20,2011-03-05 19:00:00,Levallois Metropolitans,Strasbourg,93,85,,,,,,,,,0,0
+2010-2011,Round 20,2011-03-05 19:00:00,Limoges,Chorale Roanne Basket,77,94,,,,,,,,,0,0
+2010-2011,Round 20,2011-03-05 19:00:00,SLUC Nancy Basket,Pau-Lacq-Orthez,72,69,,,,,,,,,0,0
+2010-2011,Round 20,2011-03-05 19:00:00,JA Vichy,Poitiers Basket 86,92,74,,,,,,,,,0,0
+2010-2011,Round 20,2011-03-05 19:15:00,Cholet,Le Mans Sarthe Basket,85,63,,,,,,,,,0,0
+2010-2011,Round 21,2011-03-11 19:00:00,Lyon-Villeurbanne,JA Vichy,101,88,,,,,,,,,0,0
+2010-2011,Round 21,2011-03-11 19:30:00,Chorale Roanne Basket,Cholet,64,71,,,,,,,,,0,0
+2010-2011,Round 21,2011-03-12 18:00:00,Pau-Lacq-Orthez,Gravelines-Dunkerque,82,69,,,,,,,,,0,0
+2010-2011,Round 21,2011-03-12 19:00:00,Élan Chalon,Levallois Metropolitans,83,79,,,,,,,,,0,0
+2010-2011,Round 21,2011-03-12 19:00:00,STB Le Havre,SLUC Nancy Basket,70,77,,,,,,,,,0,0
+2010-2011,Round 21,2011-03-12 19:00:00,Le Mans Sarthe Basket,Limoges,88,78,,,,,,,,,0,0
+2010-2011,Round 21,2011-03-12 19:00:00,Poitiers Basket 86,Orléans Loiret Basket,68,70,,,,,,,,,0,0
+2010-2011,Round 21,2011-03-12 19:00:00,Strasbourg,HTV Basket,83,66,,,,,,,,,0,0
+2010-2011,Round 22,2011-03-18 19:30:00,SLUC Nancy Basket,Le Mans Sarthe Basket,76,75,,,,,,,,,0,0
+2010-2011,Round 22,2011-03-19 18:30:00,JA Vichy,Chorale Roanne Basket,87,61,,,,,,,,,0,0
+2010-2011,Round 22,2011-03-19 19:00:00,Cholet,STB Le Havre,61,56,,,,,,,,,0,0
+2010-2011,Round 22,2011-03-19 19:00:00,Gravelines-Dunkerque,Strasbourg,71,69,,,,,,,,,0,0
+2010-2011,Round 22,2011-03-19 19:00:00,HTV Basket,Levallois Metropolitans,82,77,,,,,,,,,0,0
+2010-2011,Round 22,2011-03-19 19:00:00,Limoges,Élan Chalon,93,62,,,,,,,,,0,0
+2010-2011,Round 22,2011-03-19 19:00:00,Orléans Loiret Basket,Pau-Lacq-Orthez,66,72,,,,,,,,,0,0
+2010-2011,Round 22,2011-03-19 19:00:00,Poitiers Basket 86,Lyon-Villeurbanne,76,82,,,,,,,,,0,0
+2010-2011,Round 23,2011-03-25 19:00:00,Pau-Lacq-Orthez,Poitiers Basket 86,73,76,,,,,,,,,0,0
+2010-2011,Round 23,2011-03-25 19:30:00,Levallois Metropolitans,Cholet,87,90,,,,,,,,,0,0
+2010-2011,Round 23,2011-03-26 19:00:00,Élan Chalon,SLUC Nancy Basket,92,65,,,,,,,,,0,0
+2010-2011,Round 23,2011-03-26 19:00:00,STB Le Havre,JA Vichy,93,73,,,,,,,,,0,0
+2010-2011,Round 23,2011-03-26 19:00:00,Le Mans Sarthe Basket,HTV Basket,73,76,,,,,,,,,0,0
+2010-2011,Round 23,2011-03-26 19:00:00,Chorale Roanne Basket,Orléans Loiret Basket,70,68,,,,,,,,,0,0
+2010-2011,Round 23,2011-03-26 19:00:00,Strasbourg,Limoges,95,80,,,,,,,,,0,0
+2010-2011,Round 24,2011-04-01 18:30:00,Lyon-Villeurbanne,Le Mans Sarthe Basket,70,81,,,,,,,,,0,0
+2010-2011,Round 24,2011-04-02 18:00:00,Gravelines-Dunkerque,Élan Chalon,73,65,,,,,,,,,0,0
+2010-2011,Round 24,2011-04-02 19:00:00,Cholet,HTV Basket,78,68,,,,,,,,,0,0
+2010-2011,Round 24,2011-04-02 19:00:00,Limoges,Levallois Metropolitans,89,66,,,,,,,,,0,0
+2010-2011,Round 24,2011-04-02 19:00:00,Orléans Loiret Basket,STB Le Havre,69,68,,,,,,,,,0,0
+2010-2011,Round 24,2011-04-02 19:00:00,Poitiers Basket 86,Chorale Roanne Basket,80,77,,,,,,,,,0,0
+2010-2011,Round 24,2011-04-02 19:00:00,JA Vichy,Pau-Lacq-Orthez,79,68,,,,,,,,,0,0
+2010-2011,Round 24,2011-04-02 19:30:00,SLUC Nancy Basket,Strasbourg,88,61,,,,,,,,,0,0
+2010-2011,Round 23,2011-04-05 19:00:00,Lyon-Villeurbanne,Gravelines-Dunkerque,92,63,,,,,,,,,0,0
+2010-2011,Round 25,2011-04-08 19:00:00,Levallois Metropolitans,SLUC Nancy Basket,93,83,,,,,,,,,0,0
+2010-2011,Round 25,2011-04-08 19:30:00,Pau-Lacq-Orthez,Lyon-Villeurbanne,74,92,,,,,,,,,0,0
+2010-2011,Round 25,2011-04-09 19:00:00,Élan Chalon,Orléans Loiret Basket,76,59,,,,,,,,,0,0
+2010-2011,Round 25,2011-04-09 19:00:00,HTV Basket,Limoges,82,56,,,,,,,,,0,0
+2010-2011,Round 25,2011-04-09 19:00:00,Le Mans Sarthe Basket,JA Vichy,63,87,,,,,,,,,0,0
+2010-2011,Round 25,2011-04-09 19:00:00,Strasbourg,Cholet,70,78,,,,,,,,,0,0
+2010-2011,Round 25,2011-04-09 19:30:00,Chorale Roanne Basket,Gravelines-Dunkerque,71,60,,,,,,,,,0,0
+2010-2011,Round 25,2011-04-10 16:00:00,STB Le Havre,Poitiers Basket 86,74,59,,,,,,,,,0,0
+2010-2011,Round 26,2011-04-15 19:30:00,Cholet,Élan Chalon,74,82,,,,,,,,,0,0
+2010-2011,Round 26,2011-04-16 19:00:00,Pau-Lacq-Orthez,Chorale Roanne Basket,62,71,,,,,,,,,0,0
+2010-2011,Round 26,2011-04-16 19:00:00,Gravelines-Dunkerque,Levallois Metropolitans,91,58,,,,,,,,,0,0
+2010-2011,Round 26,2011-04-16 19:00:00,Lyon-Villeurbanne,STB Le Havre,102,97,,,,,,,,,0,0
+2010-2011,Round 26,2011-04-16 19:00:00,SLUC Nancy Basket,Limoges,88,93,,,,,,,,,0,0
+2010-2011,Round 26,2011-04-16 19:00:00,Poitiers Basket 86,Strasbourg,71,66,,,,,,,,,0,0
+2010-2011,Round 26,2011-04-16 19:00:00,JA Vichy,HTV Basket,82,75,,,,,,,,,0,0
+2010-2011,Round 26,2011-04-16 19:45:00,Orléans Loiret Basket,Le Mans Sarthe Basket,50,90,,,,,,,,,0,0
+2010-2011,Round 27,2011-04-22 19:00:00,Levallois Metropolitans,JA Vichy,94,66,,,,,,,,,0,0
+2010-2011,Round 27,2011-04-22 19:30:00,Chorale Roanne Basket,Lyon-Villeurbanne,92,101,,,,,,,,,0,0
+2010-2011,Round 27,2011-04-23 18:45:00,Limoges,Cholet,66,70,,,,,,,,,0,0
+2010-2011,Round 27,2011-04-23 19:00:00,Élan Chalon,Poitiers Basket 86,74,75,,,,,,,,,0,0
+2010-2011,Round 27,2011-04-23 19:00:00,HTV Basket,SLUC Nancy Basket,72,83,,,,,,,,,0,0
+2010-2011,Round 27,2011-04-23 19:00:00,STB Le Havre,Pau-Lacq-Orthez,74,54,,,,,,,,,0,0
+2010-2011,Round 27,2011-04-23 19:00:00,Strasbourg,Orléans Loiret Basket,68,79,,,,,,,,,0,0
+2010-2011,Round 27,2011-04-23 19:30:00,Le Mans Sarthe Basket,Gravelines-Dunkerque,60,67,,,,,,,,,0,0
+2010-2011,Round 28,2011-04-29 19:00:00,Gravelines-Dunkerque,HTV Basket,81,64,,,,,,,,,0,0
+2010-2011,Round 28,2011-04-29 19:00:00,Lyon-Villeurbanne,Limoges,79,75,,,,,,,,,0,0
+2010-2011,Round 28,2011-04-29 19:00:00,Orléans Loiret Basket,Levallois Metropolitans,72,77,,,,,,,,,0,0
+2010-2011,Round 28,2011-04-29 19:30:00,Cholet,SLUC Nancy Basket,68,79,,,,,,,,,0,0
+2010-2011,Round 28,2011-04-30 19:00:00,Poitiers Basket 86,Le Mans Sarthe Basket,82,88,,,,,,,,,0,0
+2010-2011,Round 28,2011-04-30 19:00:00,Chorale Roanne Basket,STB Le Havre,75,67,,,,,,,,,0,0
+2010-2011,Round 28,2011-04-30 19:00:00,JA Vichy,Strasbourg,62,53,,,,,,,,,0,0
+2010-2011,Round 28,2011-04-30 19:30:00,Pau-Lacq-Orthez,Élan Chalon,79,81,,,,,,,,,0,0
+2010-2011,Round 29,2011-05-03 19:00:00,Cholet,Poitiers Basket 86,72,66,,,,,,,,,0,0
+2010-2011,Round 29,2011-05-03 19:00:00,HTV Basket,Orléans Loiret Basket,72,76,,,,,,,,,0,0
+2010-2011,Round 29,2011-05-03 19:00:00,Le Mans Sarthe Basket,Chorale Roanne Basket,85,58,,,,,,,,,0,0
+2010-2011,Round 29,2011-05-03 19:00:00,Levallois Metropolitans,Pau-Lacq-Orthez,76,82,,,,,,,,,0,0
+2010-2011,Round 29,2011-05-03 19:00:00,Limoges,Gravelines-Dunkerque,76,79,,,,,,,,,0,0
+2010-2011,Round 29,2011-05-03 19:00:00,SLUC Nancy Basket,JA Vichy,76,72,,,,,,,,,0,0
+2010-2011,Round 29,2011-05-03 19:00:00,Strasbourg,STB Le Havre,80,71,,,,,,,,,0,0
+2010-2011,Round 29,2011-05-03 19:30:00,Élan Chalon,Lyon-Villeurbanne,83,82,,,,,,,,,0,0
+2010-2011,Round 30,2011-05-10 19:00:00,Pau-Lacq-Orthez,Cholet,87,76,,,,,,,,,0,0
+2010-2011,Round 30,2011-05-10 19:00:00,Gravelines-Dunkerque,SLUC Nancy Basket,69,74,,,,,,,,,0,0
+2010-2011,Round 30,2011-05-10 19:00:00,STB Le Havre,Le Mans Sarthe Basket,68,63,,,,,,,,,0,0
+2010-2011,Round 30,2011-05-10 19:00:00,Lyon-Villeurbanne,Levallois Metropolitans,74,76,,,,,,,,,0,0
+2010-2011,Round 30,2011-05-10 19:00:00,Orléans Loiret Basket,Limoges,75,77,,,,,,,,,0,0
+2010-2011,Round 30,2011-05-10 19:00:00,Poitiers Basket 86,HTV Basket,85,73,,,,,,,,,0,0
+2010-2011,Round 30,2011-05-10 19:00:00,Chorale Roanne Basket,Strasbourg,72,77,,,,,,,,,0,0
+2010-2011,Round 30,2011-05-10 19:00:00,JA Vichy,Élan Chalon,93,91,,,,,,,,,0,0
+2010-2011,Round 0,2011-05-17 19:00:00,Gravelines-Dunkerque,Chorale Roanne Basket,66,60,,,,,,,,,0,0
+2010-2011,Round 0,2011-05-17 19:30:00,Cholet,Le Mans Sarthe Basket,77,75,,,,,,,,,0,0
+2010-2011,Round 0,2011-05-18 19:00:00,SLUC Nancy Basket,HTV Basket,68,64,,,,,,,,,0,0
+2010-2011,Round 0,2011-05-18 19:30:00,Élan Chalon,Lyon-Villeurbanne,98,74,,,,,,,,,0,0
+2010-2011,Round 0,2011-05-20 19:30:00,Le Mans Sarthe Basket,Cholet,70,76,,,,,,,,,0,0
+2010-2011,Round 0,2011-05-20 19:30:00,Chorale Roanne Basket,Gravelines-Dunkerque,83,75,,,,,,,,,0,0
+2010-2011,Round 0,2011-05-21 17:45:00,Lyon-Villeurbanne,Élan Chalon,107,85,,,,,,,,,0,0
+2010-2011,Round 0,2011-05-21 19:00:00,HTV Basket,SLUC Nancy Basket,92,86,,,,,,,,,0,0
+2010-2011,Round 0,2011-05-24 19:30:00,Gravelines-Dunkerque,Chorale Roanne Basket,84,77,,,,,,,,,0,0
+2010-2011,Round 0,2011-05-25 19:00:00,SLUC Nancy Basket,HTV Basket,96,71,,,,,,,,,0,0
+2010-2011,Round 0,2011-05-25 19:30:00,Élan Chalon,Lyon-Villeurbanne,80,94,,,,,,,,,0,0
+2010-2011,Round 0,2011-05-27 18:30:00,Cholet,Gravelines-Dunkerque,77,62,,,,,,,,,0,0
+2010-2011,Round 0,2011-05-28 19:00:00,SLUC Nancy Basket,Lyon-Villeurbanne,109,93,,,,,,,,,0,0
+2010-2011,Round 0,2011-05-31 19:30:00,Gravelines-Dunkerque,Cholet,80,84,,,,,,,,,0,0
+2010-2011,Round 0,2011-06-01 19:30:00,Lyon-Villeurbanne,SLUC Nancy Basket,91,79,,,,,,,,,0,0
+2010-2011,Round 0,2011-06-04 18:45:00,SLUC Nancy Basket,Lyon-Villeurbanne,89,75,,,,,,,,,0,0
+2010-2011,Round 0,2011-06-11 16:05:00,Cholet,SLUC Nancy Basket,74,76,,,,,,,,,0,0

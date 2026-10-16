@@ -1,0 +1,327 @@
+saison,round,date,equipe_domicile,equipe_exterieur,score_domicile,score_exterieur,q1_domicile,q1_exterieur,q2_domicile,q2_exterieur,q3_domicile,q3_exterieur,q4_domicile,q4_exterieur,prolongation_domicile,prolongation_exterieur
+2014-2015,Round 1,2014-09-26 19:30:00,Pau-Lacq-Orthez,Orléans Loiret Basket,72,60,,,,,,,,,0,0
+2014-2015,Round 1,2014-09-27 19:00:00,Châlons-Reims,Levallois Metropolitans,84,85,,,,,,,,,0,0
+2014-2015,Round 1,2014-09-27 19:00:00,Cholet,Dijon,81,73,,,,,,,,,0,0
+2014-2015,Round 1,2014-09-27 19:00:00,Bourg-en-Bresse,STB Le Havre,73,81,,,,,,,,,0,0
+2014-2015,Round 1,2014-09-27 19:00:00,Le Mans Sarthe Basket,Rouen,61,63,,,,,,,,,0,0
+2014-2015,Round 1,2014-09-27 19:00:00,Nanterre,Élan Chalon,89,66,,,,,,,,,0,0
+2014-2015,Round 1,2014-09-28 19:30:00,Limoges,SLUC Nancy Basket,75,56,,,,,,,,,0,0
+2014-2015,Round 1,2014-09-29 19:30:00,Boulogne-sur-Mer,Gravelines-Dunkerque,64,79,,,,,,,,,0,0
+2014-2015,Round 1,2014-09-30 19:50:00,Strasbourg,Lyon-Villeurbanne,68,58,,,,,,,,,0,0
+2014-2015,Round 2,2014-10-04 19:00:00,Élan Chalon,Châlons-Reims,89,84,,,,,,,,,0,0
+2014-2015,Round 2,2014-10-04 19:00:00,Dijon,Le Mans Sarthe Basket,80,79,,,,,,,,,0,0
+2014-2015,Round 2,2014-10-04 19:00:00,Gravelines-Dunkerque,Limoges,78,81,,,,,,,,,0,0
+2014-2015,Round 2,2014-10-04 19:00:00,Lyon-Villeurbanne,Cholet,67,56,,,,,,,,,0,0
+2014-2015,Round 2,2014-10-04 19:00:00,SLUC Nancy Basket,Bourg-en-Bresse,94,68,,,,,,,,,0,0
+2014-2015,Round 2,2014-10-04 19:00:00,Orléans Loiret Basket,Strasbourg,60,82,,,,,,,,,0,0
+2014-2015,Round 2,2014-10-06 19:30:00,Nanterre,Levallois Metropolitans,60,71,,,,,,,,,0,0
+2014-2015,Round 2,2014-10-07 19:50:00,Rouen,Pau-Lacq-Orthez,88,69,,,,,,,,,0,0
+2014-2015,Round 3,2014-10-10 19:00:00,Bourg-en-Bresse,Élan Chalon,99,88,,,,,,,,,0,0
+2014-2015,Round 3,2014-10-10 19:30:00,Levallois Metropolitans,Gravelines-Dunkerque,99,107,,,,,,,,,0,0
+2014-2015,Round 3,2014-10-11 17:30:00,Pau-Lacq-Orthez,Strasbourg,58,86,,,,,,,,,0,0
+2014-2015,Round 3,2014-10-11 19:00:00,Boulogne-sur-Mer,Orléans Loiret Basket,86,92,,,,,,,,,0,0
+2014-2015,Round 3,2014-10-11 19:00:00,Châlons-Reims,SLUC Nancy Basket,69,76,,,,,,,,,0,0
+2014-2015,Round 3,2014-10-11 19:00:00,Dijon,Lyon-Villeurbanne,86,71,,,,,,,,,0,0
+2014-2015,Round 3,2014-10-11 19:00:00,Le Mans Sarthe Basket,STB Le Havre,70,56,,,,,,,,,0,0
+2014-2015,Round 3,2014-10-11 19:00:00,Limoges,Rouen,92,62,,,,,,,,,0,0
+2014-2015,Round 3,2014-10-14 19:50:00,Cholet,Nanterre,77,88,,,,,,,,,0,0
+2014-2015,Round 4,2014-10-17 19:30:00,Levallois Metropolitans,Pau-Lacq-Orthez,70,71,,,,,,,,,0,0
+2014-2015,Round 4,2014-10-17 19:45:00,SLUC Nancy Basket,Nanterre,70,79,,,,,,,,,0,0
+2014-2015,Round 4,2014-10-18 19:00:00,Boulogne-sur-Mer,Châlons-Reims,80,84,,,,,,,,,0,0
+2014-2015,Round 4,2014-10-18 19:00:00,Cholet,Gravelines-Dunkerque,74,73,,,,,,,,,0,0
+2014-2015,Round 4,2014-10-18 19:00:00,Lyon-Villeurbanne,Élan Chalon,56,64,,,,,,,,,0,0
+2014-2015,Round 4,2014-10-18 19:00:00,Rouen,Bourg-en-Bresse,68,81,,,,,,,,,0,0
+2014-2015,Round 4,2014-10-18 19:00:00,Strasbourg,Dijon,63,56,,,,,,,,,0,0
+2014-2015,Round 4,2014-10-20 19:30:00,STB Le Havre,Limoges,85,79,,,,,,,,,0,0
+2014-2015,Round 4,2014-10-21 19:50:00,Orléans Loiret Basket,Le Mans Sarthe Basket,81,86,,,,,,,,,0,0
+2014-2015,Round 5,2014-10-24 19:30:00,Pau-Lacq-Orthez,Châlons-Reims,83,91,,,,,,,,,0,0
+2014-2015,Round 5,2014-10-24 19:45:00,Lyon-Villeurbanne,Bourg-en-Bresse,86,64,,,,,,,,,0,0
+2014-2015,Round 5,2014-10-25 19:00:00,Élan Chalon,SLUC Nancy Basket,81,64,,,,,,,,,0,0
+2014-2015,Round 5,2014-10-25 19:00:00,Dijon,Levallois Metropolitans,77,58,,,,,,,,,0,0
+2014-2015,Round 5,2014-10-25 19:00:00,Gravelines-Dunkerque,Rouen,92,49,,,,,,,,,0,0
+2014-2015,Round 5,2014-10-25 19:00:00,STB Le Havre,Strasbourg,59,72,,,,,,,,,0,0
+2014-2015,Round 5,2014-10-25 19:00:00,Nanterre,Boulogne-sur-Mer,84,70,,,,,,,,,0,0
+2014-2015,Round 5,2014-10-27 19:00:00,Limoges,Orléans Loiret Basket,102,66,,,,,,,,,0,0
+2014-2015,Round 5,2014-10-27 19:30:00,Le Mans Sarthe Basket,Cholet,61,82,,,,,,,,,0,0
+2014-2015,Round 6,2014-10-31 19:30:00,Levallois Metropolitans,Lyon-Villeurbanne,64,60,,,,,,,,,0,0
+2014-2015,Round 6,2014-11-01 19:00:00,Boulogne-sur-Mer,Élan Chalon,66,61,,,,,,,,,0,0
+2014-2015,Round 6,2014-11-01 19:00:00,Châlons-Reims,Le Mans Sarthe Basket,74,83,,,,,,,,,0,0
+2014-2015,Round 6,2014-11-01 19:00:00,Pau-Lacq-Orthez,Dijon,80,77,,,,,,,,,0,0
+2014-2015,Round 6,2014-11-01 19:00:00,SLUC Nancy Basket,Cholet,98,94,,,,,,,,,0,0
+2014-2015,Round 6,2014-11-01 19:00:00,Orléans Loiret Basket,STB Le Havre,73,71,,,,,,,,,0,0
+2014-2015,Round 6,2014-11-01 19:00:00,Rouen,Nanterre,60,69,,,,,,,,,0,0
+2014-2015,Round 6,2014-11-03 19:30:00,Strasbourg,Limoges,56,65,,,,,,,,,0,0
+2014-2015,Round 2,2014-11-04 19:00:00,STB Le Havre,Boulogne-sur-Mer,116,77,,,,,,,,,0,0
+2014-2015,Round 6,2014-11-04 19:50:00,Bourg-en-Bresse,Gravelines-Dunkerque,71,78,,,,,,,,,0,0
+2014-2015,Round 7,2014-11-07 19:30:00,Levallois Metropolitans,Élan Chalon,84,94,,,,,,,,,0,0
+2014-2015,Round 7,2014-11-08 19:00:00,Cholet,Boulogne-sur-Mer,115,90,,,,,,,,,0,0
+2014-2015,Round 7,2014-11-08 19:00:00,STB Le Havre,SLUC Nancy Basket,72,78,,,,,,,,,0,0
+2014-2015,Round 7,2014-11-08 19:00:00,Le Mans Sarthe Basket,Strasbourg,76,83,,,,,,,,,0,0
+2014-2015,Round 7,2014-11-08 19:00:00,Lyon-Villeurbanne,Rouen,74,79,,,,,,,,,0,0
+2014-2015,Round 7,2014-11-08 19:00:00,Orléans Loiret Basket,Bourg-en-Bresse,76,74,,,,,,,,,0,0
+2014-2015,Round 7,2014-11-09 17:30:00,Nanterre,Limoges,72,75,,,,,,,,,0,0
+2014-2015,Round 7,2014-11-10 19:30:00,Dijon,Châlons-Reims,78,57,,,,,,,,,0,0
+2014-2015,Round 7,2014-11-11 19:50:00,Gravelines-Dunkerque,Pau-Lacq-Orthez,95,86,,,,,,,,,0,0
+2014-2015,Round 8,2014-11-14 19:45:00,SLUC Nancy Basket,Le Mans Sarthe Basket,71,74,,,,,,,,,0,0
+2014-2015,Round 8,2014-11-15 19:00:00,Boulogne-sur-Mer,Lyon-Villeurbanne,90,99,,,,,,,,,0,0
+2014-2015,Round 8,2014-11-15 19:00:00,Bourg-en-Bresse,Levallois Metropolitans,76,84,,,,,,,,,0,0
+2014-2015,Round 8,2014-11-15 19:00:00,Nanterre,Pau-Lacq-Orthez,82,46,,,,,,,,,0,0
+2014-2015,Round 8,2014-11-15 19:00:00,Strasbourg,Cholet,77,63,,,,,,,,,0,0
+2014-2015,Round 8,2014-11-16 16:00:00,Limoges,Dijon,78,67,,,,,,,,,0,0
+2014-2015,Round 8,2014-11-17 19:30:00,Châlons-Reims,Orléans Loiret Basket,69,49,,,,,,,,,0,0
+2014-2015,Round 8,2014-11-18 19:50:00,Élan Chalon,Gravelines-Dunkerque,52,57,,,,,,,,,0,0
+2014-2015,Round 9,2014-11-21 19:45:00,Levallois Metropolitans,Strasbourg,68,83,,,,,,,,,0,0
+2014-2015,Round 9,2014-11-22 13:55:00,Pau-Lacq-Orthez,Lyon-Villeurbanne,67,78,,,,,,,,,0,0
+2014-2015,Round 9,2014-11-22 19:00:00,Châlons-Reims,Rouen,70,76,,,,,,,,,0,0
+2014-2015,Round 9,2014-11-22 19:00:00,Dijon,STB Le Havre,72,67,,,,,,,,,0,0
+2014-2015,Round 9,2014-11-22 19:00:00,Le Mans Sarthe Basket,Boulogne-sur-Mer,68,61,,,,,,,,,0,0
+2014-2015,Round 9,2014-11-22 19:00:00,SLUC Nancy Basket,Orléans Loiret Basket,73,64,,,,,,,,,0,0
+2014-2015,Round 9,2014-11-23 16:00:00,Limoges,Bourg-en-Bresse,79,70,,,,,,,,,0,0
+2014-2015,Round 9,2014-11-24 19:30:00,Cholet,Élan Chalon,79,81,,,,,,,,,0,0
+2014-2015,Round 9,2014-11-25 19:50:00,Gravelines-Dunkerque,Nanterre,92,84,,,,,,,,,0,0
+2014-2015,Round 10,2014-11-28 19:00:00,Rouen,Levallois Metropolitans,64,58,,,,,,,,,0,0
+2014-2015,Round 10,2014-11-29 19:00:00,Élan Chalon,Pau-Lacq-Orthez,84,72,,,,,,,,,0,0
+2014-2015,Round 10,2014-11-29 19:00:00,Bourg-en-Bresse,Dijon,96,101,,,,,,,,,0,0
+2014-2015,Round 10,2014-11-29 19:00:00,STB Le Havre,Cholet,76,81,,,,,,,,,0,0
+2014-2015,Round 10,2014-11-29 19:00:00,Lyon-Villeurbanne,Châlons-Reims,89,75,,,,,,,,,0,0
+2014-2015,Round 10,2014-11-29 19:00:00,Nanterre,Le Mans Sarthe Basket,73,61,,,,,,,,,0,0
+2014-2015,Round 10,2014-11-29 19:00:00,Orléans Loiret Basket,Gravelines-Dunkerque,88,73,,,,,,,,,0,0
+2014-2015,Round 10,2014-12-01 19:00:00,Boulogne-sur-Mer,Limoges,85,96,,,,,,,,,0,0
+2014-2015,Round 10,2014-12-01 19:30:00,Strasbourg,SLUC Nancy Basket,82,72,,,,,,,,,0,0
+2014-2015,Round 8,2014-12-02 19:00:00,Rouen,STB Le Havre,68,76,,,,,,,,,0,0
+2014-2015,Round 11,2014-12-05 19:00:00,Gravelines-Dunkerque,STB Le Havre,69,78,,,,,,,,,0,0
+2014-2015,Round 11,2014-12-05 19:30:00,Pau-Lacq-Orthez,Boulogne-sur-Mer,90,59,,,,,,,,,0,0
+2014-2015,Round 11,2014-12-05 19:30:00,Levallois Metropolitans,Le Mans Sarthe Basket,74,65,,,,,,,,,0,0
+2014-2015,Round 11,2014-12-06 19:00:00,Cholet,Châlons-Reims,77,80,,,,,,,,,0,0
+2014-2015,Round 11,2014-12-06 19:00:00,Dijon,Nanterre,100,105,,,,,,,,,0,0
+2014-2015,Round 11,2014-12-06 19:00:00,Strasbourg,Bourg-en-Bresse,76,63,,,,,,,,,0,0
+2014-2015,Round 11,2014-12-07 16:00:00,Orléans Loiret Basket,Rouen,83,87,,,,,,,,,0,0
+2014-2015,Round 11,2014-12-08 19:30:00,SLUC Nancy Basket,Lyon-Villeurbanne,72,66,,,,,,,,,0,0
+2014-2015,Round 11,2014-12-09 19:50:00,Limoges,Élan Chalon,78,63,,,,,,,,,0,0
+2014-2015,Round 12,2014-12-12 19:00:00,Le Mans Sarthe Basket,Pau-Lacq-Orthez,83,78,,,,,,,,,0,0
+2014-2015,Round 12,2014-12-12 19:45:00,Lyon-Villeurbanne,Gravelines-Dunkerque,79,56,,,,,,,,,0,0
+2014-2015,Round 12,2014-12-13 19:00:00,Cholet,Bourg-en-Bresse,91,77,,,,,,,,,0,0
+2014-2015,Round 12,2014-12-13 19:00:00,STB Le Havre,Levallois Metropolitans,73,87,,,,,,,,,0,0
+2014-2015,Round 12,2014-12-13 19:00:00,SLUC Nancy Basket,Dijon,64,73,,,,,,,,,0,0
+2014-2015,Round 12,2014-12-13 19:00:00,Nanterre,Orléans Loiret Basket,94,81,,,,,,,,,0,0
+2014-2015,Round 12,2014-12-14 14:00:00,Élan Chalon,Strasbourg,52,56,,,,,,,,,0,0
+2014-2015,Round 12,2014-12-15 19:30:00,Boulogne-sur-Mer,Rouen,61,66,,,,,,,,,0,0
+2014-2015,Round 12,2014-12-16 19:50:00,Châlons-Reims,Limoges,103,92,,,,,,,,,0,0
+2014-2015,Round 13,2014-12-19 19:00:00,STB Le Havre,Nanterre,79,105,,,,,,,,,0,0
+2014-2015,Round 13,2014-12-19 19:30:00,Pau-Lacq-Orthez,Cholet,92,81,,,,,,,,,0,0
+2014-2015,Round 13,2014-12-20 17:45:00,Lyon-Villeurbanne,Limoges,74,83,,,,,,,,,0,0
+2014-2015,Round 13,2014-12-20 19:00:00,Dijon,Orléans Loiret Basket,81,73,,,,,,,,,0,0
+2014-2015,Round 13,2014-12-20 19:00:00,Gravelines-Dunkerque,SLUC Nancy Basket,66,71,,,,,,,,,0,0
+2014-2015,Round 13,2014-12-20 19:00:00,Bourg-en-Bresse,Le Mans Sarthe Basket,65,87,,,,,,,,,0,0
+2014-2015,Round 13,2014-12-20 19:00:00,Levallois Metropolitans,Boulogne-sur-Mer,86,69,,,,,,,,,0,0
+2014-2015,Round 13,2014-12-20 19:00:00,Rouen,Élan Chalon,70,77,,,,,,,,,0,0
+2014-2015,Round 13,2014-12-20 19:00:00,Strasbourg,Châlons-Reims,56,63,,,,,,,,,0,0
+2014-2015,Round 14,2014-12-22 19:30:00,Nanterre,Strasbourg,73,69,,,,,,,,,0,0
+2014-2015,Round 14,2014-12-23 19:00:00,Boulogne-sur-Mer,Bourg-en-Bresse,80,79,,,,,,,,,0,0
+2014-2015,Round 14,2014-12-23 19:00:00,Élan Chalon,Dijon,66,76,,,,,,,,,0,0
+2014-2015,Round 14,2014-12-23 19:00:00,Châlons-Reims,STB Le Havre,84,96,,,,,,,,,0,0
+2014-2015,Round 14,2014-12-23 19:00:00,Le Mans Sarthe Basket,Gravelines-Dunkerque,78,73,,,,,,,,,0,0
+2014-2015,Round 14,2014-12-23 19:00:00,SLUC Nancy Basket,Pau-Lacq-Orthez,75,83,,,,,,,,,0,0
+2014-2015,Round 14,2014-12-23 19:00:00,Orléans Loiret Basket,Lyon-Villeurbanne,72,78,,,,,,,,,0,0
+2014-2015,Round 14,2014-12-23 19:00:00,Rouen,Cholet,98,66,,,,,,,,,0,0
+2014-2015,Round 14,2014-12-23 19:50:00,Limoges,Levallois Metropolitans,73,65,,,,,,,,,0,0
+2014-2015,Round 15,2014-12-26 16:00:00,Strasbourg,Rouen,77,68,,,,,,,,,0,0
+2014-2015,Round 15,2014-12-26 19:00:00,Cholet,Orléans Loiret Basket,89,67,,,,,,,,,0,0
+2014-2015,Round 15,2014-12-26 19:00:00,Dijon,Boulogne-sur-Mer,81,78,,,,,,,,,0,0
+2014-2015,Round 15,2014-12-26 19:00:00,Gravelines-Dunkerque,Châlons-Reims,75,66,,,,,,,,,0,0
+2014-2015,Round 15,2014-12-26 19:00:00,STB Le Havre,Élan Chalon,79,70,,,,,,,,,0,0
+2014-2015,Round 15,2014-12-26 19:30:00,Bourg-en-Bresse,Nanterre,83,99,,,,,,,,,0,0
+2014-2015,Round 15,2014-12-27 15:30:00,Lyon-Villeurbanne,Le Mans Sarthe Basket,80,67,,,,,,,,,0,0
+2014-2015,Round 15,2014-12-27 17:30:00,Levallois Metropolitans,SLUC Nancy Basket,64,77,,,,,,,,,0,0
+2014-2015,Round 15,2014-12-27 19:30:00,Pau-Lacq-Orthez,Limoges,79,69,,,,,,,,,0,0
+2014-2015,Round 16,2014-12-28 14:00:00,Boulogne-sur-Mer,Strasbourg,70,93,,,,,,,,,0,0
+2014-2015,Round 16,2014-12-29 19:00:00,Châlons-Reims,Nanterre,80,83,,,,,,,,,0,0
+2014-2015,Round 16,2014-12-29 19:00:00,Dijon,Gravelines-Dunkerque,68,62,,,,,,,,,0,0
+2014-2015,Round 16,2014-12-29 19:00:00,Pau-Lacq-Orthez,Bourg-en-Bresse,77,64,,,,,,,,,0,0
+2014-2015,Round 16,2014-12-29 19:00:00,Lyon-Villeurbanne,STB Le Havre,54,65,,,,,,,,,0,0
+2014-2015,Round 16,2014-12-29 19:00:00,Orléans Loiret Basket,Levallois Metropolitans,68,88,,,,,,,,,0,0
+2014-2015,Round 16,2014-12-29 19:00:00,Rouen,SLUC Nancy Basket,66,67,,,,,,,,,0,0
+2014-2015,Round 16,2014-12-29 19:30:00,Élan Chalon,Le Mans Sarthe Basket,73,88,,,,,,,,,0,0
+2014-2015,Round 16,2015-01-10 19:00:00,Limoges,Cholet,83,73,,,,,,,,,0,0
+2014-2015,Round 17,2015-01-17 13:55:00,Le Mans Sarthe Basket,Limoges,59,74,,,,,,,,,0,0
+2014-2015,Round 17,2015-01-17 19:00:00,Élan Chalon,Orléans Loiret Basket,85,69,,,,,,,,,0,0
+2014-2015,Round 17,2015-01-17 19:00:00,Cholet,Levallois Metropolitans,78,85,,,,,,,,,0,0
+2014-2015,Round 17,2015-01-17 19:00:00,STB Le Havre,Pau-Lacq-Orthez,69,61,,,,,,,,,0,0
+2014-2015,Round 17,2015-01-17 19:00:00,SLUC Nancy Basket,Boulogne-sur-Mer,105,74,,,,,,,,,0,0
+2014-2015,Round 17,2015-01-17 19:00:00,Nanterre,Lyon-Villeurbanne,76,65,,,,,,,,,0,0
+2014-2015,Round 17,2015-01-17 19:00:00,Rouen,Dijon,84,90,,,,,,,,,0,0
+2014-2015,Round 17,2015-01-18 17:00:00,Bourg-en-Bresse,Châlons-Reims,62,81,,,,,,,,,0,0
+2014-2015,Round 17,2015-01-19 19:30:00,Gravelines-Dunkerque,Strasbourg,62,76,,,,,,,,,0,0
+2014-2015,Round 18,2015-01-23 19:00:00,Châlons-Reims,Boulogne-sur-Mer,87,91,,,,,,,,,0,0
+2014-2015,Round 18,2015-01-23 19:30:00,Pau-Lacq-Orthez,Rouen,83,55,,,,,,,,,0,0
+2014-2015,Round 18,2015-01-23 19:30:00,Levallois Metropolitans,Dijon,75,87,,,,,,,,,0,0
+2014-2015,Round 18,2015-01-24 19:00:00,Cholet,Le Mans Sarthe Basket,83,85,,,,,,,,,0,0
+2014-2015,Round 18,2015-01-24 19:00:00,Bourg-en-Bresse,Orléans Loiret Basket,75,98,,,,,,,,,0,0
+2014-2015,Round 18,2015-01-24 19:00:00,Lyon-Villeurbanne,SLUC Nancy Basket,69,67,,,,,,,,,0,0
+2014-2015,Round 18,2015-01-24 19:00:00,Strasbourg,STB Le Havre,63,54,,,,,,,,,0,0
+2014-2015,Round 18,2015-01-25 16:00:00,Limoges,Nanterre,72,90,,,,,,,,,0,0
+2014-2015,Round 18,2015-01-26 19:30:00,Gravelines-Dunkerque,Élan Chalon,65,74,,,,,,,,,0,0
+2014-2015,Round 19,2015-01-30 19:00:00,STB Le Havre,Rouen,71,63,,,,,,,,,0,0
+2014-2015,Round 19,2015-01-31 19:00:00,Boulogne-sur-Mer,Levallois Metropolitans,66,95,,,,,,,,,0,0
+2014-2015,Round 19,2015-01-31 19:00:00,Élan Chalon,Bourg-en-Bresse,73,80,,,,,,,,,0,0
+2014-2015,Round 19,2015-01-31 19:00:00,Dijon,Strasbourg,70,74,,,,,,,,,0,0
+2014-2015,Round 19,2015-01-31 19:00:00,Le Mans Sarthe Basket,Châlons-Reims,79,88,,,,,,,,,0,0
+2014-2015,Round 19,2015-01-31 19:00:00,SLUC Nancy Basket,Gravelines-Dunkerque,67,61,,,,,,,,,0,0
+2014-2015,Round 19,2015-01-31 19:00:00,Orléans Loiret Basket,Pau-Lacq-Orthez,75,89,,,,,,,,,0,0
+2014-2015,Round 19,2015-02-02 19:30:00,Limoges,Lyon-Villeurbanne,79,81,,,,,,,,,0,0
+2014-2015,Round 19,2015-02-03 19:50:00,Nanterre,Cholet,84,71,,,,,,,,,0,0
+2014-2015,Round 20,2015-02-06 19:00:00,Châlons-Reims,Dijon,86,80,,,,,,,,,0,0
+2014-2015,Round 20,2015-02-06 19:00:00,Bourg-en-Bresse,Boulogne-sur-Mer,94,80,,,,,,,,,0,0
+2014-2015,Round 20,2015-02-07 19:00:00,Élan Chalon,Limoges,81,72,,,,,,,,,0,0
+2014-2015,Round 20,2015-02-07 19:00:00,Cholet,STB Le Havre,79,84,,,,,,,,,0,0
+2014-2015,Round 20,2015-02-07 19:00:00,Gravelines-Dunkerque,Le Mans Sarthe Basket,69,63,,,,,,,,,0,0
+2014-2015,Round 20,2015-02-07 19:00:00,Levallois Metropolitans,Nanterre,80,76,,,,,,,,,0,0
+2014-2015,Round 20,2015-02-07 19:45:00,Lyon-Villeurbanne,Strasbourg,75,90,,,,,,,,,0,0
+2014-2015,Round 20,2015-02-08 16:00:00,Pau-Lacq-Orthez,SLUC Nancy Basket,76,79,,,,,,,,,0,0
+2014-2015,Round 20,2015-02-09 19:30:00,Rouen,Orléans Loiret Basket,88,86,,,,,,,,,0,0
+2014-2015,Round 21,2015-02-13 19:00:00,Châlons-Reims,Cholet,88,70,,,,,,,,,0,0
+2014-2015,Round 21,2015-02-14 19:00:00,Dijon,Élan Chalon,68,71,,,,,,,,,0,0
+2014-2015,Round 21,2015-02-14 19:00:00,Le Mans Sarthe Basket,Bourg-en-Bresse,96,83,,,,,,,,,0,0
+2014-2015,Round 21,2015-02-14 19:00:00,Limoges,STB Le Havre,84,77,,,,,,,,,0,0
+2014-2015,Round 21,2015-02-14 19:00:00,Nanterre,Rouen,101,89,,,,,,,,,0,0
+2014-2015,Round 21,2015-02-14 19:00:00,Orléans Loiret Basket,Boulogne-sur-Mer,79,86,,,,,,,,,0,0
+2014-2015,Round 21,2015-02-14 19:00:00,Strasbourg,Pau-Lacq-Orthez,70,62,,,,,,,,,0,0
+2014-2015,Round 21,2015-02-14 19:45:00,SLUC Nancy Basket,Levallois Metropolitans,64,74,,,,,,,,,0,0
+2014-2015,Round 21,2015-02-16 19:30:00,Gravelines-Dunkerque,Lyon-Villeurbanne,61,50,,,,,,,,,0,0
+2014-2015,Round 22,2015-02-28 19:00:00,Boulogne-sur-Mer,Dijon,86,70,,,,,,,,,0,0
+2014-2015,Round 22,2015-02-28 19:00:00,Élan Chalon,Lyon-Villeurbanne,79,80,,,,,,,,,0,0
+2014-2015,Round 22,2015-02-28 19:00:00,Cholet,Strasbourg,52,67,,,,,,,,,0,0
+2014-2015,Round 22,2015-02-28 19:00:00,Bourg-en-Bresse,SLUC Nancy Basket,83,68,,,,,,,,,0,0
+2014-2015,Round 22,2015-02-28 19:00:00,STB Le Havre,Gravelines-Dunkerque,62,78,,,,,,,,,0,0
+2014-2015,Round 22,2015-02-28 19:00:00,Le Mans Sarthe Basket,Orléans Loiret Basket,82,89,,,,,,,,,0,0
+2014-2015,Round 22,2015-02-28 19:00:00,Levallois Metropolitans,Limoges,92,66,,,,,,,,,0,0
+2014-2015,Round 22,2015-02-28 19:00:00,Rouen,Châlons-Reims,84,97,,,,,,,,,0,0
+2014-2015,Round 22,2015-03-02 20:00:00,Pau-Lacq-Orthez,Nanterre,77,91,,,,,,,,,0,0
+2014-2015,Round 23,2015-03-07 19:00:00,Pau-Lacq-Orthez,Le Mans Sarthe Basket,85,91,,,,,,,,,0,0
+2014-2015,Round 23,2015-03-07 19:00:00,Gravelines-Dunkerque,Bourg-en-Bresse,68,62,,,,,,,,,0,0
+2014-2015,Round 23,2015-03-07 19:00:00,Lyon-Villeurbanne,Boulogne-sur-Mer,89,65,,,,,,,,,0,0
+2014-2015,Round 23,2015-03-07 19:00:00,SLUC Nancy Basket,Rouen,96,83,,,,,,,,,0,0
+2014-2015,Round 23,2015-03-07 19:00:00,Nanterre,STB Le Havre,61,68,,,,,,,,,0,0
+2014-2015,Round 23,2015-03-07 19:00:00,Orléans Loiret Basket,Élan Chalon,98,80,,,,,,,,,0,0
+2014-2015,Round 23,2015-03-07 19:00:00,Strasbourg,Levallois Metropolitans,89,80,,,,,,,,,0,0
+2014-2015,Round 23,2015-03-09 19:30:00,Dijon,Cholet,68,70,,,,,,,,,0,0
+2014-2015,Round 23,2015-03-10 19:50:00,Limoges,Châlons-Reims,77,65,,,,,,,,,0,0
+2014-2015,Round 24,2015-03-13 19:00:00,STB Le Havre,Orléans Loiret Basket,79,66,,,,,,,,,0,0
+2014-2015,Round 24,2015-03-14 19:00:00,Boulogne-sur-Mer,SLUC Nancy Basket,82,89,,,,,,,,,0,0
+2014-2015,Round 24,2015-03-14 19:00:00,Châlons-Reims,Gravelines-Dunkerque,85,84,,,,,,,,,0,0
+2014-2015,Round 24,2015-03-14 19:00:00,Cholet,Pau-Lacq-Orthez,78,79,,,,,,,,,0,0
+2014-2015,Round 24,2015-03-14 19:00:00,Bourg-en-Bresse,Lyon-Villeurbanne,65,95,,,,,,,,,0,0
+2014-2015,Round 24,2015-03-14 19:00:00,Levallois Metropolitans,Rouen,83,73,,,,,,,,,0,0
+2014-2015,Round 24,2015-03-16 19:30:00,Dijon,Limoges,63,76,,,,,,,,,0,0
+2014-2015,Round 24,2015-03-17 19:50:00,Strasbourg,Élan Chalon,85,84,,,,,,,,,0,0
+2014-2015,Round 25,2015-03-20 19:30:00,Pau-Lacq-Orthez,STB Le Havre,75,84,,,,,,,,,0,0
+2014-2015,Round 25,2015-03-21 19:00:00,SLUC Nancy Basket,Châlons-Reims,72,77,,,,,,,,,0,0
+2014-2015,Round 25,2015-03-21 19:00:00,Nanterre,Bourg-en-Bresse,84,62,,,,,,,,,0,0
+2014-2015,Round 25,2015-03-21 19:00:00,Orléans Loiret Basket,Cholet,72,79,,,,,,,,,0,0
+2014-2015,Round 25,2015-03-21 19:00:00,Rouen,Le Mans Sarthe Basket,75,68,,,,,,,,,0,0
+2014-2015,Round 25,2015-03-21 19:30:00,Élan Chalon,Boulogne-sur-Mer,100,78,,,,,,,,,0,0
+2014-2015,Round 25,2015-03-22 14:30:00,Gravelines-Dunkerque,Levallois Metropolitans,87,68,,,,,,,,,0,0
+2014-2015,Round 25,2015-03-23 19:30:00,Lyon-Villeurbanne,Dijon,79,67,,,,,,,,,0,0
+2014-2015,Round 24,2015-03-24 19:00:00,Le Mans Sarthe Basket,Nanterre,63,81,,,,,,,,,0,0
+2014-2015,Round 25,2015-03-24 19:50:00,Limoges,Strasbourg,68,87,,,,,,,,,0,0
+2014-2015,Round 26,2015-03-27 19:30:00,Levallois Metropolitans,Orléans Loiret Basket,76,77,,,,,,,,,0,0
+2014-2015,Round 26,2015-03-28 19:00:00,Boulogne-sur-Mer,Nanterre,74,98,,,,,,,,,0,0
+2014-2015,Round 26,2015-03-28 19:00:00,Cholet,Rouen,80,75,,,,,,,,,0,0
+2014-2015,Round 26,2015-03-28 19:00:00,Bourg-en-Bresse,Pau-Lacq-Orthez,88,67,,,,,,,,,0,0
+2014-2015,Round 26,2015-03-28 19:00:00,STB Le Havre,Dijon,83,63,,,,,,,,,0,0
+2014-2015,Round 26,2015-03-28 19:00:00,Limoges,Gravelines-Dunkerque,87,83,,,,,,,,,0,0
+2014-2015,Round 26,2015-03-28 19:00:00,SLUC Nancy Basket,Élan Chalon,74,59,,,,,,,,,0,0
+2014-2015,Round 26,2015-03-30 19:30:00,Strasbourg,Le Mans Sarthe Basket,67,68,,,,,,,,,0,0
+2014-2015,Round 26,2015-03-31 19:50:00,Châlons-Reims,Lyon-Villeurbanne,88,71,,,,,,,,,0,0
+2014-2015,Round 27,2015-04-03 19:00:00,Dijon,Bourg-en-Bresse,117,113,,,,,,,,,0,0
+2014-2015,Round 27,2015-04-04 19:00:00,Gravelines-Dunkerque,Cholet,90,71,,,,,,,,,0,0
+2014-2015,Round 27,2015-04-04 19:00:00,Le Mans Sarthe Basket,Levallois Metropolitans,73,67,,,,,,,,,0,0
+2014-2015,Round 27,2015-04-04 19:00:00,Nanterre,Châlons-Reims,106,88,,,,,,,,,0,0
+2014-2015,Round 27,2015-04-04 19:00:00,Orléans Loiret Basket,SLUC Nancy Basket,71,80,,,,,,,,,0,0
+2014-2015,Round 27,2015-04-04 19:00:00,Rouen,Limoges,76,74,,,,,,,,,0,0
+2014-2015,Round 27,2015-04-04 19:00:00,Strasbourg,Boulogne-sur-Mer,93,71,,,,,,,,,0,0
+2014-2015,Round 27,2015-04-06 19:30:00,Élan Chalon,STB Le Havre,80,78,,,,,,,,,0,0
+2014-2015,Round 27,2015-04-07 19:50:00,Lyon-Villeurbanne,Pau-Lacq-Orthez,84,59,,,,,,,,,0,0
+2014-2015,Round 28,2015-04-10 19:00:00,Châlons-Reims,Élan Chalon,84,80,,,,,,,,,0,0
+2014-2015,Round 28,2015-04-10 19:30:00,Levallois Metropolitans,Bourg-en-Bresse,80,76,,,,,,,,,0,0
+2014-2015,Round 28,2015-04-11 19:00:00,Boulogne-sur-Mer,STB Le Havre,102,103,,,,,,,,,0,0
+2014-2015,Round 28,2015-04-11 19:00:00,Pau-Lacq-Orthez,Gravelines-Dunkerque,67,69,,,,,,,,,0,0
+2014-2015,Round 28,2015-04-11 19:00:00,Le Mans Sarthe Basket,Dijon,63,80,,,,,,,,,0,0
+2014-2015,Round 28,2015-04-11 19:00:00,Orléans Loiret Basket,Nanterre,73,89,,,,,,,,,0,0
+2014-2015,Round 28,2015-04-11 19:00:00,Rouen,Lyon-Villeurbanne,82,89,,,,,,,,,0,0
+2014-2015,Round 28,2015-04-13 19:30:00,Cholet,Limoges,66,78,,,,,,,,,0,0
+2014-2015,Round 28,2015-04-14 19:50:00,SLUC Nancy Basket,Strasbourg,65,78,,,,,,,,,0,0
+2014-2015,Round 29,2015-04-17 19:30:00,Levallois Metropolitans,Cholet,89,96,,,,,,,,,0,0
+2014-2015,Round 29,2015-04-18 19:00:00,Boulogne-sur-Mer,Le Mans Sarthe Basket,57,74,,,,,,,,,0,0
+2014-2015,Round 29,2015-04-18 19:00:00,Élan Chalon,Nanterre,96,72,,,,,,,,,0,0
+2014-2015,Round 29,2015-04-18 19:00:00,Dijon,SLUC Nancy Basket,73,87,,,,,,,,,0,0
+2014-2015,Round 29,2015-04-18 19:00:00,Bourg-en-Bresse,Rouen,87,72,,,,,,,,,0,0
+2014-2015,Round 29,2015-04-18 19:00:00,Lyon-Villeurbanne,Orléans Loiret Basket,64,60,,,,,,,,,0,0
+2014-2015,Round 29,2015-04-18 19:00:00,Strasbourg,Gravelines-Dunkerque,77,58,,,,,,,,,0,0
+2014-2015,Round 29,2015-04-20 19:30:00,STB Le Havre,Châlons-Reims,80,76,,,,,,,,,0,0
+2014-2015,Round 29,2015-04-21 19:50:00,Limoges,Pau-Lacq-Orthez,96,89,,,,,,,,,0,0
+2014-2015,Round 30,2015-04-24 19:00:00,STB Le Havre,Bourg-en-Bresse,77,76,,,,,,,,,0,0
+2014-2015,Round 30,2015-04-24 19:00:00,Rouen,Boulogne-sur-Mer,98,84,,,,,,,,,0,0
+2014-2015,Round 30,2015-04-25 19:00:00,Cholet,Lyon-Villeurbanne,75,73,,,,,,,,,0,0
+2014-2015,Round 30,2015-04-25 19:00:00,Pau-Lacq-Orthez,Levallois Metropolitans,70,59,,,,,,,,,0,0
+2014-2015,Round 30,2015-04-25 19:00:00,Gravelines-Dunkerque,Dijon,73,53,,,,,,,,,0,0
+2014-2015,Round 30,2015-04-25 19:00:00,Le Mans Sarthe Basket,Élan Chalon,68,66,,,,,,,,,0,0
+2014-2015,Round 30,2015-04-25 19:00:00,Orléans Loiret Basket,Limoges,91,85,,,,,,,,,0,0
+2014-2015,Round 30,2015-04-27 19:30:00,Châlons-Reims,Strasbourg,69,73,,,,,,,,,0,0
+2014-2015,Round 30,2015-04-30 19:00:00,Nanterre,SLUC Nancy Basket,77,84,,,,,,,,,0,0
+2014-2015,Round 31,2015-05-04 19:30:00,Lyon-Villeurbanne,Nanterre,65,88,,,,,,,,,0,0
+2014-2015,Round 31,2015-05-05 19:00:00,Élan Chalon,Rouen,94,82,,,,,,,,,0,0
+2014-2015,Round 31,2015-05-05 19:00:00,Dijon,Pau-Lacq-Orthez,64,76,,,,,,,,,0,0
+2014-2015,Round 31,2015-05-05 19:00:00,Gravelines-Dunkerque,Boulogne-sur-Mer,66,80,,,,,,,,,0,0
+2014-2015,Round 31,2015-05-05 19:00:00,Bourg-en-Bresse,Cholet,90,80,,,,,,,,,0,0
+2014-2015,Round 31,2015-05-05 19:00:00,SLUC Nancy Basket,STB Le Havre,78,84,,,,,,,,,0,0
+2014-2015,Round 31,2015-05-05 19:30:00,Levallois Metropolitans,Châlons-Reims,87,66,,,,,,,,,0,0
+2014-2015,Round 31,2015-05-05 19:50:00,Limoges,Le Mans Sarthe Basket,89,83,,,,,,,,,0,0
+2014-2015,Round 31,2015-05-06 19:00:00,Strasbourg,Orléans Loiret Basket,80,61,,,,,,,,,0,0
+2014-2015,Round 32,2015-05-08 19:30:00,STB Le Havre,Lyon-Villeurbanne,73,85,,,,,,,,,0,0
+2014-2015,Round 32,2015-05-09 19:00:00,Boulogne-sur-Mer,Cholet,103,79,,,,,,,,,0,0
+2014-2015,Round 32,2015-05-09 19:00:00,Élan Chalon,Levallois Metropolitans,70,64,,,,,,,,,0,0
+2014-2015,Round 32,2015-05-09 19:00:00,Châlons-Reims,Pau-Lacq-Orthez,85,75,,,,,,,,,0,0
+2014-2015,Round 32,2015-05-09 19:00:00,Bourg-en-Bresse,Limoges,67,99,,,,,,,,,0,0
+2014-2015,Round 32,2015-05-09 19:00:00,Nanterre,Gravelines-Dunkerque,74,68,,,,,,,,,0,0
+2014-2015,Round 32,2015-05-09 19:00:00,Orléans Loiret Basket,Dijon,79,62,,,,,,,,,0,0
+2014-2015,Round 32,2015-05-09 19:00:00,Rouen,Strasbourg,76,89,,,,,,,,,0,0
+2014-2015,Round 32,2015-05-10 18:10:00,Le Mans Sarthe Basket,SLUC Nancy Basket,74,70,,,,,,,,,0,0
+2014-2015,Round 33,2015-05-12 19:00:00,Châlons-Reims,Bourg-en-Bresse,85,87,,,,,,,,,0,0
+2014-2015,Round 33,2015-05-12 19:00:00,Cholet,SLUC Nancy Basket,87,84,,,,,,,,,0,0
+2014-2015,Round 33,2015-05-12 19:00:00,Dijon,Rouen,90,81,,,,,,,,,0,0
+2014-2015,Round 33,2015-05-12 19:00:00,Pau-Lacq-Orthez,Élan Chalon,73,90,,,,,,,,,0,0
+2014-2015,Round 33,2015-05-12 19:00:00,Gravelines-Dunkerque,Orléans Loiret Basket,83,61,,,,,,,,,0,0
+2014-2015,Round 33,2015-05-12 19:00:00,Le Mans Sarthe Basket,Lyon-Villeurbanne,92,76,,,,,,,,,0,0
+2014-2015,Round 33,2015-05-12 19:00:00,Limoges,Boulogne-sur-Mer,83,88,,,,,,,,,0,0
+2014-2015,Round 33,2015-05-12 19:30:00,Levallois Metropolitans,STB Le Havre,81,59,,,,,,,,,0,0
+2014-2015,Round 33,2015-05-12 19:50:00,Strasbourg,Nanterre,69,49,,,,,,,,,0,0
+2014-2015,Round 34,2015-05-16 17:30:00,Boulogne-sur-Mer,Pau-Lacq-Orthez,79,73,,,,,,,,,0,0
+2014-2015,Round 34,2015-05-16 17:30:00,Élan Chalon,Cholet,95,88,,,,,,,,,0,0
+2014-2015,Round 34,2015-05-16 17:30:00,Bourg-en-Bresse,Strasbourg,82,86,,,,,,,,,0,0
+2014-2015,Round 34,2015-05-16 17:30:00,STB Le Havre,Le Mans Sarthe Basket,71,85,,,,,,,,,0,0
+2014-2015,Round 34,2015-05-16 17:30:00,Lyon-Villeurbanne,Levallois Metropolitans,77,71,,,,,,,,,0,0
+2014-2015,Round 34,2015-05-16 17:30:00,SLUC Nancy Basket,Limoges,101,107,,,,,,,,,0,0
+2014-2015,Round 34,2015-05-16 17:30:00,Nanterre,Dijon,61,73,,,,,,,,,0,0
+2014-2015,Round 34,2015-05-16 17:30:00,Orléans Loiret Basket,Châlons-Reims,77,84,,,,,,,,,0,0
+2014-2015,Round 34,2015-05-16 17:30:00,Rouen,Gravelines-Dunkerque,76,83,,,,,,,,,0,0
+2014-2015,Round 0,2015-05-22 19:00:00,Limoges,STB Le Havre,78,75,,,,,,,,,0,0
+2014-2015,Round 0,2015-05-22 19:50:00,Nanterre,SLUC Nancy Basket,76,84,,,,,,,,,0,0
+2014-2015,Round 0,2015-05-23 18:00:00,Le Mans Sarthe Basket,Lyon-Villeurbanne,71,70,,,,,,,,,0,0
+2014-2015,Round 0,2015-05-23 19:00:00,Strasbourg,Élan Chalon,65,62,,,,,,,,,0,0
+2014-2015,Round 0,2015-05-24 19:30:00,STB Le Havre,Limoges,75,81,,,,,,,,,0,0
+2014-2015,Round 0,2015-05-24 19:30:00,SLUC Nancy Basket,Nanterre,82,68,,,,,,,,,0,0
+2014-2015,Round 0,2015-05-25 18:30:00,Élan Chalon,Strasbourg,79,71,,,,,,,,,0,0
+2014-2015,Round 0,2015-05-25 19:50:00,Lyon-Villeurbanne,Le Mans Sarthe Basket,74,68,,,,,,,,,0,0
+2014-2015,Round 0,2015-05-27 19:00:00,Strasbourg,Élan Chalon,78,65,,,,,,,,,0,0
+2014-2015,Round 0,2015-05-27 19:50:00,Le Mans Sarthe Basket,Lyon-Villeurbanne,69,60,,,,,,,,,0,0
+2014-2015,Round 0,2015-05-30 17:30:00,Strasbourg,Le Mans Sarthe Basket,78,69,,,,,,,,,0,0
+2014-2015,Round 0,2015-05-31 18:10:00,Limoges,SLUC Nancy Basket,78,61,,,,,,,,,0,0
+2014-2015,Round 0,2015-06-01 19:50:00,Strasbourg,Le Mans Sarthe Basket,86,79,,,,,,,,,0,0
+2014-2015,Round 0,2015-06-02 19:50:00,Limoges,SLUC Nancy Basket,92,74,,,,,,,,,0,0
+2014-2015,Round 0,2015-06-04 19:50:00,Le Mans Sarthe Basket,Strasbourg,72,85,,,,,,,,,0,0
+2014-2015,Round 0,2015-06-05 19:50:00,SLUC Nancy Basket,Limoges,77,82,,,,,,,,,0,0
+2014-2015,Round 0,2015-06-12 19:50:00,Strasbourg,Limoges,68,70,,,,,,,,,0,0
+2014-2015,Round 0,2015-06-14 16:00:00,Strasbourg,Limoges,66,52,,,,,,,,,0,0
+2014-2015,Round 0,2015-06-18 19:50:00,Limoges,Strasbourg,71,59,,,,,,,,,0,0
+2014-2015,Round 0,2015-06-20 19:50:00,Limoges,Strasbourg,82,75,,,,,,,,,0,0

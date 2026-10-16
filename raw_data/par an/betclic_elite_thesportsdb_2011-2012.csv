@@ -1,0 +1,258 @@
+saison,round,date,equipe_domicile,equipe_exterieur,score_domicile,score_exterieur,q1_domicile,q1_exterieur,q2_domicile,q2_exterieur,q3_domicile,q3_exterieur,q4_domicile,q4_exterieur,prolongation_domicile,prolongation_exterieur
+2011-2012,Round 1,2011-10-07 18:30:00,Dijon,SLUC Nancy Basket,70,76,,,,,,,,,0,0
+2011-2012,Round 1,2011-10-07 19:00:00,HTV Basket,Pau-Lacq-Orthez,75,89,,,,,,,,,0,0
+2011-2012,Round 1,2011-10-07 19:00:00,Levallois Metropolitans,STB Le Havre,88,72,,,,,,,,,0,0
+2011-2012,Round 1,2011-10-08 18:00:00,Chorale Roanne Basket,Lyon-Villeurbanne,79,76,,,,,,,,,0,0
+2011-2012,Round 1,2011-10-08 19:00:00,Élan Chalon,Gravelines-Dunkerque,77,73,,,,,,,,,0,0
+2011-2012,Round 1,2011-10-08 19:00:00,Le Mans Sarthe Basket,Nanterre,78,72,,,,,,,,,0,0
+2011-2012,Round 1,2011-10-08 19:00:00,Poitiers Basket 86,Orléans Loiret Basket,65,61,,,,,,,,,0,0
+2011-2012,Round 1,2011-10-08 19:00:00,Strasbourg,Cholet,77,74,,,,,,,,,0,0
+2011-2012,Round 2,2011-10-14 18:30:00,Pau-Lacq-Orthez,Le Mans Sarthe Basket,73,83,,,,,,,,,0,0
+2011-2012,Round 2,2011-10-14 18:30:00,Lyon-Villeurbanne,Levallois Metropolitans,75,73,,,,,,,,,0,0
+2011-2012,Round 2,2011-10-14 19:30:00,Orléans Loiret Basket,Élan Chalon,73,84,,,,,,,,,0,0
+2011-2012,Round 2,2011-10-15 19:00:00,Cholet,Nanterre,90,82,,,,,,,,,0,0
+2011-2012,Round 2,2011-10-15 19:00:00,HTV Basket,Dijon,75,92,,,,,,,,,0,0
+2011-2012,Round 2,2011-10-15 19:00:00,STB Le Havre,Poitiers Basket 86,87,82,,,,,,,,,0,0
+2011-2012,Round 2,2011-10-15 19:00:00,SLUC Nancy Basket,Strasbourg,67,62,,,,,,,,,0,0
+2011-2012,Round 2,2011-10-15 19:45:00,Gravelines-Dunkerque,Chorale Roanne Basket,91,59,,,,,,,,,0,0
+2011-2012,Round 3,2011-10-21 18:30:00,Lyon-Villeurbanne,Gravelines-Dunkerque,69,72,,,,,,,,,0,0
+2011-2012,Round 3,2011-10-21 19:00:00,Pau-Lacq-Orthez,Levallois Metropolitans,78,88,,,,,,,,,0,0
+2011-2012,Round 3,2011-10-22 17:45:00,Élan Chalon,Cholet,71,79,,,,,,,,,0,0
+2011-2012,Round 3,2011-10-22 19:00:00,Le Mans Sarthe Basket,Orléans Loiret Basket,72,76,,,,,,,,,0,0
+2011-2012,Round 3,2011-10-22 19:00:00,Nanterre,SLUC Nancy Basket,64,85,,,,,,,,,0,0
+2011-2012,Round 3,2011-10-22 19:00:00,Poitiers Basket 86,Dijon,66,49,,,,,,,,,0,0
+2011-2012,Round 3,2011-10-22 19:00:00,Chorale Roanne Basket,HTV Basket,116,90,,,,,,,,,0,0
+2011-2012,Round 3,2011-10-22 19:00:00,Strasbourg,STB Le Havre,78,69,,,,,,,,,0,0
+2011-2012,Round 4,2011-10-28 18:30:00,Dijon,Élan Chalon,75,77,,,,,,,,,0,0
+2011-2012,Round 4,2011-10-28 19:00:00,Levallois Metropolitans,Chorale Roanne Basket,95,92,,,,,,,,,0,0
+2011-2012,Round 4,2011-10-29 18:00:00,Orléans Loiret Basket,Strasbourg,73,66,,,,,,,,,0,0
+2011-2012,Round 4,2011-10-29 19:00:00,Cholet,Lyon-Villeurbanne,70,79,,,,,,,,,0,0
+2011-2012,Round 4,2011-10-29 19:00:00,Gravelines-Dunkerque,Pau-Lacq-Orthez,89,60,,,,,,,,,0,0
+2011-2012,Round 4,2011-10-29 19:00:00,HTV Basket,Nanterre,94,97,,,,,,,,,0,0
+2011-2012,Round 4,2011-10-29 19:00:00,STB Le Havre,Le Mans Sarthe Basket,86,89,,,,,,,,,0,0
+2011-2012,Round 4,2011-10-29 19:00:00,SLUC Nancy Basket,Poitiers Basket 86,76,66,,,,,,,,,0,0
+2011-2012,Round 5,2011-11-04 18:30:00,Pau-Lacq-Orthez,Cholet,89,100,,,,,,,,,0,0
+2011-2012,Round 5,2011-11-04 19:00:00,Le Mans Sarthe Basket,Dijon,68,65,,,,,,,,,0,0
+2011-2012,Round 5,2011-11-04 19:00:00,Levallois Metropolitans,HTV Basket,93,90,,,,,,,,,0,0
+2011-2012,Round 5,2011-11-05 19:00:00,Élan Chalon,Strasbourg,80,70,,,,,,,,,0,0
+2011-2012,Round 5,2011-11-05 19:00:00,Nanterre,Orléans Loiret Basket,77,75,,,,,,,,,0,0
+2011-2012,Round 5,2011-11-05 19:00:00,Poitiers Basket 86,Gravelines-Dunkerque,59,72,,,,,,,,,0,0
+2011-2012,Round 5,2011-11-05 19:00:00,Chorale Roanne Basket,STB Le Havre,86,74,,,,,,,,,0,0
+2011-2012,Round 5,2011-11-06 16:15:00,Lyon-Villeurbanne,SLUC Nancy Basket,77,92,,,,,,,,,0,0
+2011-2012,Round 6,2011-11-11 18:30:00,Cholet,Gravelines-Dunkerque,66,76,,,,,,,,,0,0
+2011-2012,Round 6,2011-11-12 19:00:00,Dijon,Nanterre,72,66,,,,,,,,,0,0
+2011-2012,Round 6,2011-11-12 19:00:00,HTV Basket,Poitiers Basket 86,93,90,,,,,,,,,0,0
+2011-2012,Round 6,2011-11-12 19:00:00,STB Le Havre,Lyon-Villeurbanne,77,68,,,,,,,,,0,0
+2011-2012,Round 6,2011-11-12 19:00:00,SLUC Nancy Basket,Levallois Metropolitans,82,64,,,,,,,,,0,0
+2011-2012,Round 6,2011-11-12 19:00:00,Orléans Loiret Basket,Pau-Lacq-Orthez,98,62,,,,,,,,,0,0
+2011-2012,Round 6,2011-11-12 19:00:00,Strasbourg,Chorale Roanne Basket,93,80,,,,,,,,,0,0
+2011-2012,Round 6,2011-11-12 19:15:00,Élan Chalon,Le Mans Sarthe Basket,99,91,,,,,,,,,0,0
+2011-2012,Round 7,2011-11-18 18:30:00,Lyon-Villeurbanne,Élan Chalon,86,63,,,,,,,,,0,0
+2011-2012,Round 7,2011-11-18 19:00:00,Levallois Metropolitans,Orléans Loiret Basket,79,76,,,,,,,,,0,0
+2011-2012,Round 7,2011-11-19 19:00:00,Cholet,STB Le Havre,90,77,,,,,,,,,0,0
+2011-2012,Round 7,2011-11-19 19:00:00,Pau-Lacq-Orthez,Nanterre,89,84,,,,,,,,,0,0
+2011-2012,Round 7,2011-11-19 19:00:00,Gravelines-Dunkerque,HTV Basket,106,57,,,,,,,,,0,0
+2011-2012,Round 7,2011-11-19 19:00:00,Poitiers Basket 86,Strasbourg,78,79,,,,,,,,,0,0
+2011-2012,Round 7,2011-11-19 19:00:00,Chorale Roanne Basket,Dijon,80,58,,,,,,,,,0,0
+2011-2012,Round 7,2011-11-19 19:45:00,Le Mans Sarthe Basket,SLUC Nancy Basket,80,78,,,,,,,,,0,0
+2011-2012,Round 8,2011-11-25 18:30:00,Orléans Loiret Basket,Chorale Roanne Basket,82,50,,,,,,,,,0,0
+2011-2012,Round 8,2011-11-26 17:30:00,Strasbourg,Lyon-Villeurbanne,74,80,,,,,,,,,0,0
+2011-2012,Round 8,2011-11-26 19:00:00,Élan Chalon,Levallois Metropolitans,86,82,,,,,,,,,0,0
+2011-2012,Round 8,2011-11-26 19:00:00,Dijon,Pau-Lacq-Orthez,91,86,,,,,,,,,0,0
+2011-2012,Round 8,2011-11-26 19:00:00,STB Le Havre,HTV Basket,90,101,,,,,,,,,0,0
+2011-2012,Round 8,2011-11-26 19:00:00,Le Mans Sarthe Basket,Poitiers Basket 86,106,95,,,,,,,,,0,0
+2011-2012,Round 8,2011-11-26 19:00:00,Nanterre,Gravelines-Dunkerque,85,107,,,,,,,,,0,0
+2011-2012,Round 8,2011-11-26 19:45:00,SLUC Nancy Basket,Cholet,96,88,,,,,,,,,0,0
+2011-2012,Round 9,2011-12-02 19:00:00,Pau-Lacq-Orthez,Strasbourg,79,70,,,,,,,,,0,0
+2011-2012,Round 9,2011-12-02 19:30:00,Orléans Loiret Basket,Cholet,77,70,,,,,,,,,0,0
+2011-2012,Round 9,2011-12-03 17:30:00,Gravelines-Dunkerque,Le Mans Sarthe Basket,94,76,,,,,,,,,0,0
+2011-2012,Round 9,2011-12-03 19:00:00,HTV Basket,Lyon-Villeurbanne,78,87,,,,,,,,,0,0
+2011-2012,Round 9,2011-12-03 19:00:00,Levallois Metropolitans,Dijon,68,57,,,,,,,,,0,0
+2011-2012,Round 9,2011-12-03 19:00:00,SLUC Nancy Basket,STB Le Havre,74,72,,,,,,,,,0,0
+2011-2012,Round 9,2011-12-03 19:00:00,Nanterre,Élan Chalon,81,88,,,,,,,,,0,0
+2011-2012,Round 9,2011-12-03 19:00:00,Chorale Roanne Basket,Poitiers Basket 86,85,80,,,,,,,,,0,0
+2011-2012,Round 10,2011-12-09 18:30:00,Cholet,Levallois Metropolitans,87,94,,,,,,,,,0,0
+2011-2012,Round 10,2011-12-09 19:00:00,Lyon-Villeurbanne,Orléans Loiret Basket,71,73,,,,,,,,,0,0
+2011-2012,Round 10,2011-12-10 18:15:00,Élan Chalon,SLUC Nancy Basket,72,65,,,,,,,,,0,0
+2011-2012,Round 10,2011-12-10 19:00:00,Dijon,Gravelines-Dunkerque,58,55,,,,,,,,,0,0
+2011-2012,Round 10,2011-12-10 19:00:00,STB Le Havre,Pau-Lacq-Orthez,102,62,,,,,,,,,0,0
+2011-2012,Round 10,2011-12-10 19:00:00,Le Mans Sarthe Basket,Chorale Roanne Basket,70,67,,,,,,,,,0,0
+2011-2012,Round 10,2011-12-10 19:00:00,Poitiers Basket 86,Nanterre,72,88,,,,,,,,,0,0
+2011-2012,Round 10,2011-12-10 19:00:00,Strasbourg,HTV Basket,108,76,,,,,,,,,0,0
+2011-2012,Round 11,2011-12-16 18:30:00,Chorale Roanne Basket,Cholet,78,71,,,,,,,,,0,0
+2011-2012,Round 11,2011-12-16 19:00:00,Dijon,STB Le Havre,84,75,,,,,,,,,0,0
+2011-2012,Round 11,2011-12-16 19:00:00,Gravelines-Dunkerque,Orléans Loiret Basket,82,58,,,,,,,,,0,0
+2011-2012,Round 11,2011-12-16 19:00:00,Levallois Metropolitans,Strasbourg,80,77,,,,,,,,,0,0
+2011-2012,Round 11,2011-12-17 19:00:00,Pau-Lacq-Orthez,SLUC Nancy Basket,66,73,,,,,,,,,0,0
+2011-2012,Round 11,2011-12-17 19:00:00,HTV Basket,Le Mans Sarthe Basket,79,101,,,,,,,,,0,0
+2011-2012,Round 11,2011-12-17 19:00:00,Nanterre,Lyon-Villeurbanne,97,81,,,,,,,,,0,0
+2011-2012,Round 11,2011-12-17 19:00:00,Poitiers Basket 86,Élan Chalon,55,81,,,,,,,,,0,0
+2011-2012,Round 12,2011-12-23 18:30:00,Levallois Metropolitans,Nanterre,86,79,,,,,,,,,0,0
+2011-2012,Round 12,2011-12-23 19:00:00,Élan Chalon,Pau-Lacq-Orthez,85,64,,,,,,,,,0,0
+2011-2012,Round 12,2011-12-23 19:00:00,Cholet,Dijon,71,88,,,,,,,,,0,0
+2011-2012,Round 12,2011-12-23 19:00:00,STB Le Havre,Gravelines-Dunkerque,58,67,,,,,,,,,0,0
+2011-2012,Round 12,2011-12-23 19:00:00,Lyon-Villeurbanne,Poitiers Basket 86,82,67,,,,,,,,,0,0
+2011-2012,Round 12,2011-12-23 19:00:00,Orléans Loiret Basket,HTV Basket,95,73,,,,,,,,,0,0
+2011-2012,Round 12,2011-12-23 19:00:00,Strasbourg,Le Mans Sarthe Basket,73,89,,,,,,,,,0,0
+2011-2012,Round 13,2011-12-27 19:00:00,Dijon,Orléans Loiret Basket,63,64,,,,,,,,,0,0
+2011-2012,Round 13,2011-12-27 19:00:00,Gravelines-Dunkerque,Strasbourg,74,54,,,,,,,,,0,0
+2011-2012,Round 13,2011-12-27 19:00:00,HTV Basket,SLUC Nancy Basket,84,97,,,,,,,,,0,0
+2011-2012,Round 13,2011-12-27 19:00:00,Le Mans Sarthe Basket,Levallois Metropolitans,99,76,,,,,,,,,0,0
+2011-2012,Round 13,2011-12-27 19:00:00,Nanterre,STB Le Havre,69,86,,,,,,,,,0,0
+2011-2012,Round 13,2011-12-27 19:00:00,Poitiers Basket 86,Cholet,69,76,,,,,,,,,0,0
+2011-2012,Round 13,2011-12-27 19:00:00,Chorale Roanne Basket,Élan Chalon,69,76,,,,,,,,,0,0
+2011-2012,Round 13,2011-12-27 19:30:00,Pau-Lacq-Orthez,Lyon-Villeurbanne,92,91,,,,,,,,,0,0
+2011-2012,Round 12,2012-01-07 19:00:00,SLUC Nancy Basket,Chorale Roanne Basket,94,83,,,,,,,,,0,0
+2011-2012,Round 14,2012-01-13 18:30:00,SLUC Nancy Basket,Gravelines-Dunkerque,79,81,,,,,,,,,0,0
+2011-2012,Round 14,2012-01-14 18:00:00,Cholet,Le Mans Sarthe Basket,94,84,,,,,,,,,0,0
+2011-2012,Round 14,2012-01-14 19:00:00,Élan Chalon,HTV Basket,104,76,,,,,,,,,0,0
+2011-2012,Round 14,2012-01-14 19:00:00,Levallois Metropolitans,Poitiers Basket 86,82,72,,,,,,,,,0,0
+2011-2012,Round 14,2012-01-14 19:00:00,Lyon-Villeurbanne,Dijon,76,63,,,,,,,,,0,0
+2011-2012,Round 14,2012-01-14 19:00:00,Orléans Loiret Basket,STB Le Havre,73,72,,,,,,,,,0,0
+2011-2012,Round 14,2012-01-14 19:00:00,Chorale Roanne Basket,Pau-Lacq-Orthez,77,74,,,,,,,,,0,0
+2011-2012,Round 14,2012-01-14 19:00:00,Strasbourg,Nanterre,98,78,,,,,,,,,0,0
+2011-2012,Round 15,2012-01-20 18:00:00,Orléans Loiret Basket,SLUC Nancy Basket,83,68,,,,,,,,,0,0
+2011-2012,Round 15,2012-01-21 17:30:00,Le Mans Sarthe Basket,Lyon-Villeurbanne,84,72,,,,,,,,,0,0
+2011-2012,Round 15,2012-01-21 19:00:00,Dijon,Strasbourg,65,55,,,,,,,,,0,0
+2011-2012,Round 15,2012-01-21 19:00:00,Pau-Lacq-Orthez,Poitiers Basket 86,84,85,,,,,,,,,0,0
+2011-2012,Round 15,2012-01-21 19:00:00,Gravelines-Dunkerque,Levallois Metropolitans,81,75,,,,,,,,,0,0
+2011-2012,Round 15,2012-01-21 19:00:00,HTV Basket,Cholet,57,105,,,,,,,,,0,0
+2011-2012,Round 15,2012-01-21 19:00:00,STB Le Havre,Élan Chalon,81,80,,,,,,,,,0,0
+2011-2012,Round 15,2012-01-21 19:00:00,Nanterre,Chorale Roanne Basket,78,71,,,,,,,,,0,0
+2011-2012,Round 16,2012-01-27 18:30:00,Chorale Roanne Basket,Gravelines-Dunkerque,66,71,,,,,,,,,0,0
+2011-2012,Round 16,2012-01-27 19:00:00,Levallois Metropolitans,Pau-Lacq-Orthez,96,82,,,,,,,,,0,0
+2011-2012,Round 16,2012-01-27 19:00:00,Lyon-Villeurbanne,STB Le Havre,68,61,,,,,,,,,0,0
+2011-2012,Round 16,2012-01-28 17:15:00,SLUC Nancy Basket,Le Mans Sarthe Basket,95,77,,,,,,,,,0,0
+2011-2012,Round 16,2012-01-28 19:00:00,Cholet,Orléans Loiret Basket,76,86,,,,,,,,,0,0
+2011-2012,Round 16,2012-01-28 19:00:00,Nanterre,Dijon,89,65,,,,,,,,,0,0
+2011-2012,Round 16,2012-01-28 19:00:00,Poitiers Basket 86,HTV Basket,91,65,,,,,,,,,0,0
+2011-2012,Round 16,2012-01-28 19:15:00,Strasbourg,Élan Chalon,67,74,,,,,,,,,0,0
+2011-2012,Round 17,2012-02-03 18:30:00,Orléans Loiret Basket,Le Mans Sarthe Basket,86,74,,,,,,,,,0,0
+2011-2012,Round 17,2012-02-03 19:00:00,Dijon,Chorale Roanne Basket,61,52,,,,,,,,,0,0
+2011-2012,Round 17,2012-02-04 19:00:00,Élan Chalon,Poitiers Basket 86,83,65,,,,,,,,,0,0
+2011-2012,Round 17,2012-02-04 19:00:00,Gravelines-Dunkerque,Nanterre,69,61,,,,,,,,,0,0
+2011-2012,Round 17,2012-02-04 19:00:00,HTV Basket,Levallois Metropolitans,80,91,,,,,,,,,0,0
+2011-2012,Round 17,2012-02-04 19:00:00,SLUC Nancy Basket,Lyon-Villeurbanne,70,82,,,,,,,,,0,0
+2011-2012,Round 17,2012-02-04 19:00:00,Strasbourg,Pau-Lacq-Orthez,94,69,,,,,,,,,0,0
+2011-2012,Round 17,2012-02-04 19:30:00,STB Le Havre,Cholet,70,74,,,,,,,,,0,0
+2011-2012,Round 18,2012-02-10 18:30:00,Levallois Metropolitans,SLUC Nancy Basket,99,93,,,,,,,,,0,0
+2011-2012,Round 18,2012-02-10 19:00:00,Pau-Lacq-Orthez,Dijon,59,57,,,,,,,,,0,0
+2011-2012,Round 18,2012-02-10 19:00:00,Lyon-Villeurbanne,Strasbourg,88,86,,,,,,,,,0,0
+2011-2012,Round 18,2012-02-11 18:00:00,Le Mans Sarthe Basket,Gravelines-Dunkerque,85,83,,,,,,,,,0,0
+2011-2012,Round 18,2012-02-11 19:00:00,Élan Chalon,Orléans Loiret Basket,94,62,,,,,,,,,0,0
+2011-2012,Round 18,2012-02-11 19:00:00,Cholet,Chorale Roanne Basket,61,73,,,,,,,,,0,0
+2011-2012,Round 18,2012-02-11 19:00:00,Nanterre,HTV Basket,102,60,,,,,,,,,0,0
+2011-2012,Round 18,2012-02-11 19:00:00,Poitiers Basket 86,STB Le Havre,82,64,,,,,,,,,0,0
+2011-2012,Round 19,2012-02-22 19:00:00,Strasbourg,Poitiers Basket 86,67,48,,,,,,,,,0,0
+2011-2012,Round 19,2012-02-24 19:45:00,Le Mans Sarthe Basket,Élan Chalon,77,80,,,,,,,,,0,0
+2011-2012,Round 19,2012-02-25 17:30:00,Gravelines-Dunkerque,Cholet,56,52,,,,,,,,,0,0
+2011-2012,Round 19,2012-02-25 19:00:00,Dijon,HTV Basket,86,66,,,,,,,,,0,0
+2011-2012,Round 19,2012-02-25 19:00:00,STB Le Havre,Nanterre,74,82,,,,,,,,,0,0
+2011-2012,Round 19,2012-02-25 19:00:00,SLUC Nancy Basket,Pau-Lacq-Orthez,97,72,,,,,,,,,0,0
+2011-2012,Round 19,2012-02-25 19:00:00,Orléans Loiret Basket,Lyon-Villeurbanne,71,60,,,,,,,,,0,0
+2011-2012,Round 19,2012-02-25 19:00:00,Chorale Roanne Basket,Levallois Metropolitans,83,80,,,,,,,,,0,0
+2011-2012,Round 20,2012-03-02 18:30:00,Lyon-Villeurbanne,Cholet,67,71,,,,,,,,,0,0
+2011-2012,Round 20,2012-03-02 19:00:00,Élan Chalon,Dijon,84,77,,,,,,,,,0,0
+2011-2012,Round 20,2012-03-03 18:00:00,Levallois Metropolitans,Le Mans Sarthe Basket,85,78,,,,,,,,,0,0
+2011-2012,Round 20,2012-03-03 19:00:00,Pau-Lacq-Orthez,Orléans Loiret Basket,83,78,,,,,,,,,0,0
+2011-2012,Round 20,2012-03-03 19:00:00,HTV Basket,Gravelines-Dunkerque,60,85,,,,,,,,,0,0
+2011-2012,Round 20,2012-03-03 19:00:00,STB Le Havre,SLUC Nancy Basket,91,61,,,,,,,,,0,0
+2011-2012,Round 20,2012-03-03 19:00:00,Poitiers Basket 86,Chorale Roanne Basket,71,67,,,,,,,,,0,0
+2011-2012,Round 20,2012-03-07 19:00:00,Nanterre,Strasbourg,69,83,,,,,,,,,0,0
+2011-2012,Round 21,2012-03-09 18:30:00,Pau-Lacq-Orthez,Élan Chalon,64,74,,,,,,,,,0,0
+2011-2012,Round 21,2012-03-09 19:00:00,Dijon,Poitiers Basket 86,79,59,,,,,,,,,0,0
+2011-2012,Round 21,2012-03-10 17:15:00,Orléans Loiret Basket,Levallois Metropolitans,85,61,,,,,,,,,0,0
+2011-2012,Round 21,2012-03-10 19:00:00,Cholet,HTV Basket,94,72,,,,,,,,,0,0
+2011-2012,Round 21,2012-03-10 19:00:00,Gravelines-Dunkerque,Lyon-Villeurbanne,73,53,,,,,,,,,0,0
+2011-2012,Round 21,2012-03-10 19:00:00,Le Mans Sarthe Basket,STB Le Havre,88,67,,,,,,,,,0,0
+2011-2012,Round 21,2012-03-10 19:00:00,SLUC Nancy Basket,Nanterre,81,59,,,,,,,,,0,0
+2011-2012,Round 21,2012-03-10 19:00:00,Chorale Roanne Basket,Strasbourg,74,71,,,,,,,,,0,0
+2011-2012,Round 22,2012-03-16 18:30:00,Lyon-Villeurbanne,Le Mans Sarthe Basket,73,84,,,,,,,,,0,0
+2011-2012,Round 22,2012-03-17 18:00:00,Strasbourg,SLUC Nancy Basket,82,73,,,,,,,,,0,0
+2011-2012,Round 22,2012-03-17 19:00:00,Gravelines-Dunkerque,Dijon,79,55,,,,,,,,,0,0
+2011-2012,Round 22,2012-03-17 19:00:00,STB Le Havre,Orléans Loiret Basket,72,79,,,,,,,,,0,0
+2011-2012,Round 22,2012-03-17 19:00:00,Nanterre,Cholet,68,77,,,,,,,,,0,0
+2011-2012,Round 22,2012-03-17 19:00:00,Poitiers Basket 86,Pau-Lacq-Orthez,85,76,,,,,,,,,0,0
+2011-2012,Round 23,2012-03-23 18:30:00,Orléans Loiret Basket,Gravelines-Dunkerque,54,69,,,,,,,,,0,0
+2011-2012,Round 23,2012-03-23 19:00:00,Lyon-Villeurbanne,Nanterre,81,87,,,,,,,,,0,0
+2011-2012,Round 23,2012-03-24 19:00:00,Élan Chalon,Chorale Roanne Basket,78,83,,,,,,,,,0,0
+2011-2012,Round 23,2012-03-24 19:00:00,Cholet,Poitiers Basket 86,77,85,,,,,,,,,0,0
+2011-2012,Round 23,2012-03-24 19:00:00,Dijon,Levallois Metropolitans,74,72,,,,,,,,,0,0
+2011-2012,Round 23,2012-03-24 19:00:00,Pau-Lacq-Orthez,STB Le Havre,79,89,,,,,,,,,0,0
+2011-2012,Round 23,2012-03-24 19:00:00,Le Mans Sarthe Basket,Strasbourg,83,69,,,,,,,,,0,0
+2011-2012,Round 23,2012-03-24 19:00:00,SLUC Nancy Basket,HTV Basket,89,76,,,,,,,,,0,0
+2011-2012,Round 22,2012-03-27 19:00:00,HTV Basket,Chorale Roanne Basket,60,85,,,,,,,,,0,0
+2011-2012,Round 22,2012-03-27 19:00:00,Levallois Metropolitans,Élan Chalon,77,83,,,,,,,,,0,0
+2011-2012,Round 24,2012-03-30 18:00:00,Chorale Roanne Basket,Orléans Loiret Basket,66,69,,,,,,,,,0,0
+2011-2012,Round 24,2012-03-30 19:00:00,Levallois Metropolitans,Lyon-Villeurbanne,86,73,,,,,,,,,0,0
+2011-2012,Round 24,2012-03-31 17:00:00,Cholet,SLUC Nancy Basket,72,78,,,,,,,,,0,0
+2011-2012,Round 24,2012-03-31 19:00:00,HTV Basket,Élan Chalon,69,98,,,,,,,,,0,0
+2011-2012,Round 24,2012-03-31 19:00:00,STB Le Havre,Dijon,68,66,,,,,,,,,0,0
+2011-2012,Round 24,2012-03-31 19:00:00,Nanterre,Pau-Lacq-Orthez,90,77,,,,,,,,,0,0
+2011-2012,Round 24,2012-03-31 19:00:00,Poitiers Basket 86,Le Mans Sarthe Basket,75,83,,,,,,,,,0,0
+2011-2012,Round 24,2012-03-31 19:00:00,Strasbourg,Gravelines-Dunkerque,65,66,,,,,,,,,0,0
+2011-2012,Round 25,2012-04-03 19:00:00,Orléans Loiret Basket,Dijon,82,55,,,,,,,,,0,0
+2011-2012,Round 25,2012-04-06 19:00:00,Élan Chalon,Nanterre,99,109,,,,,,,,,0,0
+2011-2012,Round 25,2012-04-06 19:00:00,Lyon-Villeurbanne,HTV Basket,92,68,,,,,,,,,0,0
+2011-2012,Round 25,2012-04-06 19:30:00,Gravelines-Dunkerque,SLUC Nancy Basket,83,61,,,,,,,,,0,0
+2011-2012,Round 25,2012-04-07 17:30:00,Le Mans Sarthe Basket,Cholet,76,87,,,,,,,,,0,0
+2011-2012,Round 25,2012-04-07 19:00:00,Pau-Lacq-Orthez,Chorale Roanne Basket,87,97,,,,,,,,,0,0
+2011-2012,Round 25,2012-04-07 19:00:00,STB Le Havre,Strasbourg,77,86,,,,,,,,,0,0
+2011-2012,Round 25,2012-04-07 19:00:00,Poitiers Basket 86,Levallois Metropolitans,73,87,,,,,,,,,0,0
+2011-2012,Round 26,2012-04-13 18:30:00,SLUC Nancy Basket,Élan Chalon,79,84,,,,,,,,,0,0
+2011-2012,Round 26,2012-04-14 19:00:00,Cholet,Pau-Lacq-Orthez,93,85,,,,,,,,,0,0
+2011-2012,Round 26,2012-04-14 19:00:00,Dijon,Lyon-Villeurbanne,84,71,,,,,,,,,0,0
+2011-2012,Round 26,2012-04-14 19:00:00,Gravelines-Dunkerque,STB Le Havre,80,57,,,,,,,,,0,0
+2011-2012,Round 26,2012-04-14 19:00:00,HTV Basket,Orléans Loiret Basket,80,105,,,,,,,,,0,0
+2011-2012,Round 26,2012-04-14 19:00:00,Nanterre,Poitiers Basket 86,86,75,,,,,,,,,0,0
+2011-2012,Round 26,2012-04-14 19:00:00,Chorale Roanne Basket,Le Mans Sarthe Basket,73,69,,,,,,,,,0,0
+2011-2012,Round 26,2012-04-14 19:00:00,Strasbourg,Levallois Metropolitans,88,76,,,,,,,,,0,0
+2011-2012,Round 27,2012-04-20 18:30:00,Levallois Metropolitans,Cholet,70,85,,,,,,,,,0,0
+2011-2012,Round 27,2012-04-21 19:00:00,Élan Chalon,STB Le Havre,89,78,,,,,,,,,0,0
+2011-2012,Round 27,2012-04-21 19:00:00,Pau-Lacq-Orthez,Gravelines-Dunkerque,71,88,,,,,,,,,0,0
+2011-2012,Round 27,2012-04-21 19:00:00,Le Mans Sarthe Basket,HTV Basket,112,66,,,,,,,,,0,0
+2011-2012,Round 27,2012-04-21 19:00:00,Orléans Loiret Basket,Nanterre,61,64,,,,,,,,,0,0
+2011-2012,Round 27,2012-04-21 19:00:00,Poitiers Basket 86,Lyon-Villeurbanne,73,62,,,,,,,,,0,0
+2011-2012,Round 27,2012-04-21 19:00:00,Strasbourg,Dijon,79,83,,,,,,,,,0,0
+2011-2012,Round 27,2012-04-21 19:30:00,Chorale Roanne Basket,SLUC Nancy Basket,83,75,,,,,,,,,0,0
+2011-2012,Round 28,2012-04-27 18:00:00,Dijon,Le Mans Sarthe Basket,72,63,,,,,,,,,0,0
+2011-2012,Round 28,2012-04-27 19:00:00,Gravelines-Dunkerque,Poitiers Basket 86,88,64,,,,,,,,,0,0
+2011-2012,Round 28,2012-04-27 19:00:00,HTV Basket,Strasbourg,69,88,,,,,,,,,0,0
+2011-2012,Round 28,2012-04-27 19:00:00,Lyon-Villeurbanne,Pau-Lacq-Orthez,72,53,,,,,,,,,0,0
+2011-2012,Round 28,2012-04-28 18:45:00,SLUC Nancy Basket,Orléans Loiret Basket,73,83,,,,,,,,,0,0
+2011-2012,Round 28,2012-04-28 19:00:00,STB Le Havre,Chorale Roanne Basket,96,62,,,,,,,,,0,0
+2011-2012,Round 28,2012-04-28 19:00:00,Nanterre,Levallois Metropolitans,83,77,,,,,,,,,0,0
+2011-2012,Round 29,2012-05-04 18:30:00,Dijon,Cholet,67,74,,,,,,,,,0,0
+2011-2012,Round 29,2012-05-05 19:00:00,Élan Chalon,Lyon-Villeurbanne,76,61,,,,,,,,,0,0
+2011-2012,Round 29,2012-05-05 19:00:00,Le Mans Sarthe Basket,Pau-Lacq-Orthez,89,77,,,,,,,,,0,0
+2011-2012,Round 29,2012-05-05 19:00:00,Levallois Metropolitans,Gravelines-Dunkerque,75,86,,,,,,,,,0,0
+2011-2012,Round 29,2012-05-05 19:00:00,Poitiers Basket 86,SLUC Nancy Basket,60,68,,,,,,,,,0,0
+2011-2012,Round 29,2012-05-05 19:00:00,Strasbourg,Orléans Loiret Basket,71,88,,,,,,,,,0,0
+2011-2012,Round 29,2012-05-05 19:30:00,Chorale Roanne Basket,Nanterre,83,76,,,,,,,,,0,0
+2011-2012,Round 29,2012-05-08 19:00:00,HTV Basket,STB Le Havre,97,84,,,,,,,,,0,0
+2011-2012,Round 28,2012-05-12 19:00:00,Cholet,Élan Chalon,101,97,,,,,,,,,0,0
+2011-2012,Round 30,2012-05-16 19:30:00,Cholet,Strasbourg,62,76,,,,,,,,,0,0
+2011-2012,Round 30,2012-05-16 19:30:00,Pau-Lacq-Orthez,HTV Basket,87,80,,,,,,,,,0,0
+2011-2012,Round 30,2012-05-16 19:30:00,Gravelines-Dunkerque,Élan Chalon,81,78,,,,,,,,,0,0
+2011-2012,Round 30,2012-05-16 19:30:00,STB Le Havre,Levallois Metropolitans,89,94,,,,,,,,,0,0
+2011-2012,Round 30,2012-05-16 19:30:00,Lyon-Villeurbanne,Chorale Roanne Basket,69,68,,,,,,,,,0,0
+2011-2012,Round 30,2012-05-16 19:30:00,SLUC Nancy Basket,Dijon,79,68,,,,,,,,,0,0
+2011-2012,Round 30,2012-05-16 19:30:00,Nanterre,Le Mans Sarthe Basket,72,79,,,,,,,,,0,0
+2011-2012,Round 30,2012-05-16 19:30:00,Orléans Loiret Basket,Poitiers Basket 86,83,67,,,,,,,,,0,0
+2011-2012,Round 0,2012-05-22 18:00:00,Le Mans Sarthe Basket,SLUC Nancy Basket,64,89,,,,,,,,,0,0
+2011-2012,Round 0,2012-05-22 19:00:00,Orléans Loiret Basket,Levallois Metropolitans,70,68,,,,,,,,,0,0
+2011-2012,Round 0,2012-05-23 18:00:00,Gravelines-Dunkerque,Cholet,76,73,,,,,,,,,0,0
+2011-2012,Round 0,2012-05-23 19:00:00,Élan Chalon,Chorale Roanne Basket,91,70,,,,,,,,,0,0
+2011-2012,Round 0,2012-05-25 19:30:00,Levallois Metropolitans,Orléans Loiret Basket,73,79,,,,,,,,,0,0
+2011-2012,Round 0,2012-05-25 19:30:00,SLUC Nancy Basket,Le Mans Sarthe Basket,60,68,,,,,,,,,0,0
+2011-2012,Round 0,2012-05-26 19:30:00,Cholet,Gravelines-Dunkerque,76,65,,,,,,,,,0,0
+2011-2012,Round 0,2012-05-26 19:30:00,Chorale Roanne Basket,Élan Chalon,74,85,,,,,,,,,0,0
+2011-2012,Round 0,2012-05-29 19:30:00,Gravelines-Dunkerque,Cholet,72,78,,,,,,,,,0,0
+2011-2012,Round 0,2012-05-29 19:30:00,Le Mans Sarthe Basket,SLUC Nancy Basket,92,84,,,,,,,,,0,0
+2011-2012,Round 0,2012-06-01 18:30:00,Élan Chalon,Orléans Loiret Basket,70,65,,,,,,,,,0,0
+2011-2012,Round 0,2012-06-02 19:00:00,Le Mans Sarthe Basket,Cholet,83,78,,,,,,,,,0,0
+2011-2012,Round 0,2012-06-05 19:30:00,Orléans Loiret Basket,Élan Chalon,78,74,,,,,,,,,0,0
+2011-2012,Round 0,2012-06-06 19:30:00,Cholet,Le Mans Sarthe Basket,75,71,,,,,,,,,0,0
+2011-2012,Round 0,2012-06-08 18:30:00,Élan Chalon,Orléans Loiret Basket,83,81,,,,,,,,,0,0
+2011-2012,Round 0,2012-06-09 19:45:00,Le Mans Sarthe Basket,Cholet,78,69,,,,,,,,,0,0
+2011-2012,Round 0,2012-06-16 16:00:00,Élan Chalon,Le Mans Sarthe Basket,95,76,,,,,,,,,0,0
